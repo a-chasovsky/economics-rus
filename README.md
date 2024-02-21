@@ -163,8 +163,3 @@
 <hr style='height:1.5pt;border-width:0;background-color:#858585' />
 
 ###### [Вернуться к содержанию](#toc)
-
-
-
-
-<br>
