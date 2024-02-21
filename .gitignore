@@ -1,0 +1,12 @@
+
+.DS_Store
+.gitattributes
+.ipynb_checkpoints/
+00-intro.ipynb
+__pycache__/_classes.cpython-312.pyc
+data/
+sessions/
+analytics/visualization/
+__README_economics_rus.ipynb
+analytics/.ipynb_checkpoints/
+analytics/.ipynb_checkpoints/README-checkpoint.md
