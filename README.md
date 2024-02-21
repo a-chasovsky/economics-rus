@@ -55,9 +55,9 @@
 
 В период с января 2021 по октябрь 2023 года хлеб подорожал на 20%. Заметное снижение стоимости пшеницы с мая 2022 года не привело к уменьшению цены хлеба, но приостановило её дальнейший рост.
 
-<img src='analytics/visualization/Price bread.png' />
-<img src='analytics/visualization/Price bread structure.png' />
-<img src='analytics/visualization/Price bread structure tax.png' />
+<img src='img/Price bread.svg' />
+<img src='img/Price bread structure.svg' />
+<img src='img/Price bread structure tax.svg' />
 
 <hr style='height:3pt;border-width:0;background-color:#DDDDDD' />
 
@@ -65,15 +65,15 @@
 
 За аналогичный период времени говядина подорожала на 40%. В 2021 год рост цен составил порядка 15%, после этого резкий скачок в марте 2022 и плавное повышение до 40% в течение 2022-2023 годов.
 
-<img src='analytics/visualization/Price beef.png' />
+<img src='img/Price beef.svg' />
 
 На предыдущем графике изменение цены говядины в процентном соотношении близко по величине к изменению цены на крупный рогатый скот. Для свинины эта тенденция сохраняется - удорожание сырья приводит к удорожанию конечной продукции. При этом цена свинины более сглажена по сравнению с ценой свиней у производителей.
 
-<img src='analytics/visualization/Price pig.png' />
+<img src='img/Price pig.svg' />
 
 С января 2021 года куриное мясо подорожало на 60%, резкий скачок - с мая 2023 года. 
 
-<img src='analytics/visualization/Price poultry.png' />
+<img src='img/Price poultry.svg' />
 
 <hr style='height:3pt;border-width:0;background-color:#DDDDDD' />
 
@@ -83,7 +83,7 @@
 
 Аналогично поведению цены хлеба, стоимость молочных продуктов __не снижается__ при уменьшении цены сырого молока. 
 
-<img src='analytics/visualization/Price milk products.png' />
+<img src='img/Price milk products.svg' />
 
 <hr style='height:3pt;border-width:0;background-color:#DDDDDD' />
 
@@ -91,7 +91,7 @@
 
 Цены на овощи имеют тенденцию к повышению весной-летом. Диапазон колебаний достаточно велик - 50-200%  от базовой цены на январь 2021 года.
 
-<img src='analytics/visualization/Price vegetables.png' />
+<img src='img/Price vegetables.svg' />
 
 <hr style='height:3pt;border-width:0;background-color:#DDDDDD' />
 
@@ -99,7 +99,7 @@
 
 Цена на куриные яйца колеблется в районе 80 р. за 10 шт. Потребительские цены примерно на 20 руб. выше цен производителей. 
 
-<img src='analytics/visualization/Price eggs.png' />
+<img src='img/Price eggs.svg' />
 
 <hr style='height:1.5pt;border-width:0;background-color:#858585' />
 
@@ -114,7 +114,7 @@
 
 В 1997 году годовая инфляция составила 11%, что соответствует медианному значению этого показателя за период с 2000 по 2017 год (в 2017 году было зафиксировано минимальное значение годовой инфляции - 2.5%). 
 
-<img src='analytics/visualization/Financial stabilization 1990s.png' />
+<img src='img/Financial stabilization 1990s.svg' />
 
 <hr style='height:1pt; visibility:hidden' />
 <hr style='height:1.5pt;border-width:0;background-color:#858585' />
@@ -128,11 +128,11 @@
 
 Два первых графика - это абсолютная и относительная разница в доходах за период с 2004 по 2022 годы. C 2004 по 2013 год доходы в сельской метсности стабильно растут по отношению к доходам в городах. С 2013 года наблюдается изменение тенденции.
 
-<img src='analytics/visualization/Income (cities) 1.png' />  
+<img src='img/Income (cities) 1.svg' />  
 
 Первый график подтверждает два предыдущих - до 2013 года темпы роста доходов в сельской местности стабильно превышали темпы роста доходов в городской местности на 2-5%. Начиная с 2013 года среднегодовые темпы роста доходов в городской местности регулярно оказываются выше темпов роста доходов в сельской местности.  
 
-<img src='analytics/visualization/Income (cities) 2.png' />  
+<img src='img/Income (cities) 2.svg' />  
 
 <hr style='height:1.5pt;border-width:0;background-color:#858585' />
 
@@ -148,7 +148,7 @@
 
 В кризисные периоды наблюдается рост расходов на питание и одновременное снижение расходов на непродовольственные товары. Интересно, что доля раходов на услуги тем не менее остается стабильной даже во время кризисов (за исключением спада из-за COVID-19, по всей видимости вызванного резким снижением предложения на рынке, а не поведением потребителей).
 
-<img src='analytics/visualization/Spend structure (cities).png' />
+<img src='img/Spend structure (cities).svg' />
 
 <hr style='height:1.5pt;border-width:0;background-color:#858585' />
 
@@ -158,8 +158,13 @@
 <a class='anchor' id='officials_freq'></a>
 #### 3.4. Численность госслужащих на 1000 человек (занятых в экономике) с 2000 по 2022
 
-<img src='analytics/visualization/officials_1000_workers.png' />
+<img src='img/officials_1000_workers.svg' />
 
 <hr style='height:1.5pt;border-width:0;background-color:#858585' />
 
 ###### [Вернуться к содержанию](#toc)
+
+
+
+
+<br>
