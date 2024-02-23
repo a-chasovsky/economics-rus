@@ -224,18 +224,22 @@
         size: 1px;
         color: #CFD7DE
     }
-    line {
+    line-blue {
         width: 300px;
-        /* height: 0; */
-        border: 1px solid #CFD7DE;
-        margin: 10px;
+        border: 0.5px solid #CFD7DE;
+        margin-left: 15px;
+        margin-right: 15px;
+        display:inline-block;
+    }
+    line-grey {
+        width: 750;
+        border: 1px solid #DADADA;
+        margin-left: 15px;
+        margin-right: 15px;
         display:inline-block;
     }
 </style>
 <body>
-<div class='main-container'>
-    
-    </div>
 <div class='sub-container' style='border-left:none'>
     <img src='img/header.png '
         width='740px'
@@ -293,7 +297,7 @@
         </h2>
     <div class='main-container'>
         <button onclick="scrollToID('links')" id="toTocBtn">
-            К содержанию8
+            К содержанию2
             </button>
         <p>
             В качестве примера используется таблица Росстата 'Индексы потребительских цен на товары и услуги' с 1991 по 2023.
@@ -310,8 +314,7 @@
             <space></space>
             <img src='img/pci-excel-rus.png' width='800px'>
             </p>
-        <!-- <hr style='width:300px;display:block;margin:auto;' size='1px' color='#CFD7DE'> -->
-        <line></line>
+        <line-blue></line-blue>
         <h2>
             <a
                 class='anchor'
@@ -329,7 +332,7 @@
         <p>
             Базовые значения - средние цены за январь 2021 года.
             </p>
-            <hr style='width:800px;display:block;margin-left:auto;' size='2px' color='#DADADA'>
+            <line-grey></line-grey>
         <h4>
             <i>Хлеб</i>
             </h4>
@@ -343,7 +346,7 @@
             <img src='img/Price-bread-structure-tax.png'>
             <space></space>
             </p>
-        <hr style='width:800px;display:block;margin:auto;' size='2px' color='#DADADA'>
+        <line-grey></line-grey>
         <h4>
             <i>Мясо</i>
             </h4>
@@ -360,7 +363,7 @@
             <space></space>
             <img src='img/Price-poultry.png' />
             </p>
-        <hr style='width:800px;display:block;margin:auto;' size='2px' color='#DADADA'>
+        <line-grey></line-grey>
         <h4>
             <i>Молочные продукты</i>
             </h4>
@@ -371,7 +374,7 @@
             <space></space>
             <img src='img/Price-milk-products.png' />
             </p>
-        <hr style='width:800px;display:block;margin:auto;' size='2px' color='#DADADA'>
+        <line-grey></line-grey>
         <h4>
             <i>Овощи</i>
             </h4>
@@ -380,7 +383,7 @@
             <space></space>
             <img src='img/Price-vegetables.png' />
             </p>
-        <hr style='width:800px;display:block;margin:auto;' size='2px' color='#DADADA'>
+        <line-grey></line-grey>
         <h4>
             <i>Куриные яйца</i>
             </h4>
@@ -394,6 +397,7 @@
                 class='anchor'
                 id='historic'>
                 </a>
+        <line-blue></line-blue>
             3. Исторические данные
             </h2>
         <h3>
@@ -410,7 +414,7 @@
             <space></space>
             <img src='img/Financial-stabilization-1990s.png' />
             </p>
-        <hr style='width:800px;display:block;margin:auto;' size='2px' color='#DADADA'>
+        <line-grey></line-grey>
         <h3>
             <a
                 class='anchor'
@@ -429,7 +433,7 @@
             <space></space>
             <img src='img/Income-(cities)-2.png' />  
             </p>
-        <hr style='width:800px;display:block;margin:auto;' size='2px' color='#DADADA'>
+        <line-grey></line-grey>
         <h3>
             <a
                 class='anchor'
@@ -446,7 +450,7 @@
             <space></space>
             <img src='img/Spend-structure-(cities).png' />
             </p>
-        <hr style='width:800px;display:block;margin:auto;' size='2px' color='#DADADA'>
+        <line-grey></line-grey>
         <h3>
             <a
                 class='anchor'
@@ -457,27 +461,9 @@
             <space></space>
             <img src='img/Officials-1000-workers.png' />
             <space></space>
-        <hr style='width:800px;display:block;margin:auto;' size='2px' color='#DADADA'>
-        
+        <line-blue></line-blue>
         </div>
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
+    </div>
 <script>
     let mybutton = document.getElementById('toTocBtn');
     
@@ -506,7 +492,6 @@
           inline: 'start'
         });
     }
-    
     </script>
 </body>
 </html>
