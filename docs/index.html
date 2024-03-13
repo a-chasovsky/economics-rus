@@ -243,12 +243,13 @@ line-grey {
 <body>
 <sub-container
     id='general' 
-    style='text-align:right;scroll-margin-top:10px;margin: 0 auto;'>
+    style='margin-left:12%;text-align:right;scroll-margin-top:10px;'>
     <img 
         src='img/header.png'
         style='width:760px;padding-right:30px;'>
 </sub-container>
-<sub-container style='margin: 0 auto;'>
+<main-container>
+<sub-container>
 <sub-container style='border-right: 1px solid #CFD7DE;'>
 <content-container style='text-align:right;'>
     <h1 id='title' style='text-align:right;'>
@@ -489,6 +490,23 @@ line-grey {
 </sub-container>  
 </sub-container>
 </sub-container>
+<nav class='toc'>
+    <ol>
+        <li style='margin-bottom:5px;color:#101010;font-weight:500;'>
+            Содержание</li>
+        <li><a onclick='scrollToID("title")' id='#example'>Преобразование таблиц Росстата</a></li>
+        <li style='margin-top:5px;margin-bottom:5px;color:#101010;font-weight:500;'>
+            Актуальные данные</li>
+        <li><a onclick='scrollToID("food")' id='#food'>Динамика цен на продукты питания</a></li>
+        <li style='margin-top:5px;margin-bottom:5px;color:#101010;font-weight:500;'>
+            Исторические данные</li>
+        <li><a onclick='scrollToID("stabilization")' id='#stabilization'>Финансовая стабилизация 1990-х</a></li>
+        <li><a onclick='scrollToID("incomes")' id='#incomes'>Доходы в городской и сельской местности</a></li>
+        <li><a onclick='scrollToID("outcomes")' id='#outcomes'>Структура расходов в городской местности</a></li>
+        <li><a onclick='scrollToID("officials_freq")' id='#officials_freq'>Численность госслужащих на 1000 человек</a></li>
+        </ol> 
+      </nav>
+</main-container>
 <script>
 // Button 'Наверх'
 let mybutton = document.getElementById('toTocBtn');
