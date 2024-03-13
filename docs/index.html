@@ -245,14 +245,11 @@ line-grey {
     .mobile_device_480px {
         display: none;
     }
-
-
     /* if mobile device max width 380px */
     @media only screen and (max-device-width: 380px) {
         .mobile_device_380px{display: block;}       
         .desktop {display: none;}
     } 
-
     /* if mobile device max width 480px */
     @media only screen and (max-device-width: 480px) {
        .mobile_device_480px{display: block;}
@@ -274,7 +271,7 @@ line-grey {
 <sub-container style='border-right: 1px solid #CFD7DE;'>
 <content-container style='text-align:right;'>
     <h1 id='title' style='text-align:right;'>
-       Данные Росстата о состоянии экономики РФ 2
+       Данные Росстата о состоянии экономики РФ 3
     </h1>
     <h5 style='text-align:right;'>
        Преобразование данных Росстата и визуализация некоторых статистических параметров
@@ -530,10 +527,504 @@ line-grey {
 </main-container>
 </div>
 <div class="mobile_device_380px">
-        <!-- content and some markups for mobile -->
+        <sub-container
+    id='general' 
+    style='text-align:right;scroll-margin-top:10px;margin: 0 auto;'>
+    <img 
+        src='img/header.png'
+        style='width:760px;padding-right:30px;'>
+</sub-container>
+<sub-container style='margin: 0 auto;'>
+<sub-container style='border-right: 1px solid #CFD7DE;'>
+<content-container style='text-align:right;'>
+    <h1 id='title' style='text-align:right;'>
+       Данные Росстата о состоянии экономики РФ
+    </h1>
+    <h5 style='text-align:right;'>
+       Преобразование данных Росстата и визуализация некоторых статистических параметров
+    </h5>
+    <span
+        style='display:inline-block;font-size:0.85em'>
+        <a href='https://a-chasovsky.github.io/economics-rus/' target='_blank'>
+            <span class='emoji' style='vertical-align: -0.1em;'>
+                <img
+                    src='img/logo-economics.png'
+                    style='width:20px;vertical-align:top'>
+                </span>
+            <span style='margin-left:3px;'>
+                Ссылка на репозиторий
+                </span>
+            </a>
+            &emsp;
+        </span>
+    <span style='display:inline-block;margin-top:10px;font-size:0.85em'>
+        <a href='https://github.com/a-chasovsky' target='_blank'>
+            <span>
+                <img
+                    src='img/logo-github.png'
+                    style='width:20px;vertical-align:top;'>
+                </span>
+            <span style='margin-left:3px;'>
+                Профиль Github 
+                </span>
+            </a>
+        </span>
+</content-container>
+<content-container>
+    <h2 style='margin-top: 10px;'>
+        <a class='anchor' id='review'></a>
+        Преобразование таблиц Росстата
+    </h2>
+</content-container>
+<sub-container style='border-left: 1px solid #CFD7DE;'>
+    <button
+        id="toTocBtn" style='text-align:right'
+        onclick="scrollToID('general')" >
+        Наверх
+        </button>
+<content-container>
+<section id='example'>
+    <p>
+        Росстат публикует статистические данные на официальном сайте в формате .xlx. Для того, чтобы иметь возможность анализировать и визуализировать информацию с помощью библиотек Python, необходимо преобразовать их в формат Pandas DataFrame. В качестве примера здесь используется таблица Росстата 'Индексы потребительских цен на товары и услуги' с 1991 по 2023.
+        <space></space>
+        Данные, публикуемые Росстатом на официальном сайте:
+        <space></space>
+        <img-center>
+        <img src='img/pci-raw.png' width='750px'>
+            </img-center>
+        <space></space>
+        Преобразованные данные:  
+        <space></space>
+        <img-center>
+            <img src='img/pci.png' style='border: 1px solid #CCCCCC;border-radius: 3px;'>
+            </img-center>
+        <space></space>
+        Данные можно экспортировать обратно в Excel: 
+        <space></space>
+</section>        
+        <img-center>
+            <img src='img/pci-excel-rus.png' width='750px'>
+            </img-center>
+        </p>
+    <h2>
+        <a class='anchor' id='actual'></a>
+        Актуальные данные
+    </h2>
+    <h3>
+        <a class='anchor' id='food'></a>
+        Динамика цен на продукты питания
+    </h3>
+    <p>
+        Базовые значения - средние цены за январь 2021 года.
+        </p>
+    <line-grey></line-grey> 
+    <h4>
+        <i>Хлеб</i>
+    </h4>
+    <p>
+        В период с января 2021 по октябрь 2023 года хлеб подорожал на 20%. Заметное снижение стоимости пшеницы с мая 2022 года не привело к уменьшению цены хлеба, но приостановило её дальнейший рост.
+        <space></space>
+        <img-center>
+        <img src='img/price-bread.png'>
+            </img-center>
+<section id='food'>
+        <space></space>
+        <img src='img/price-bread-structure.png'>
+        <space></space>
+        <img src='img/price-bread-structure-tax.png'>
+        <space></space>
+        </p>
+    <line-grey></line-grey>
+    <h4>
+        <i>Мясо</i>
+    </h4>
+    <p>
+        За аналогичный период времени говядина подорожала на 40%. В 2021 году рост цен составил 15%, затем резкий скачок в марте 2022 и плавное повышение до 40% в течение 2022-2023 годов.
+        <space></space>
+        <img-center>
+        <img src='img/price-beef.png'/>
+            </img-center>
+        <space></space>
+        В 2021 году свинина также подорожала на 15%, при этом за период с января 2022 по июль 2023 года рост цен составил примерно 1.5%. В целом, в 2023 году наблюдается тенденция, напоминающая 2021 год - рост цен с января по октябрь и резкий спад к январю следующего года. Цена в январе 2024 выше цены в январе 2022 на 11%.
+        <space></space>
+        <img-center>
+        <img src='img/price-pig.png'/>
+            </img-center>
+        <space></space>
+        С января 2021 года куриное мясо подорожало на 60%, резкий скачок - с мая 2023 года. После октября 2024 заметно некоторое снижение. 
+        <space></space>
+        <img-center>
+        <img src='img/price-poultry.png'/>
+            </img-center>
+        </p>
+    <line-grey></line-grey>
+    <h4>
+        <i>Молочные продукты</i>
+    </h4>
+    <p>
+        В период с октября 2021 по март 2022 года цены молочных продуктов резко выросли и стабилизировались на отметке примерно 20% от базовых значений за январь 2021. Этому способствовало резкое снижение цены сырого молока с марта по август 2023 года. В целом за этот период рост составил 25-30%. С октября 2023 рост цен возобновился. 
+        <space></space>
+        Как и в случае с хлебом, стоимость молочных продуктов не снижается при уменьшении цены сырого молока. 
+        <space></space>
+        <img-center>
+        <img src='img/price-milk-products.png'/>
+            </img-center>
+        </p>
+    <line-grey></line-grey>
+    <h4>
+        <i>Овощи</i>
+    </h4>
+    <p>
+        Цены на овощи имеют тенденцию к повышению весной-летом. Диапазон колебаний - от 50 до 200% от базовой цены на январь 2021 года.
+        <space></space>
+        <img-center>
+        <img src='img/price-vegetables.png'/>
+            </img-center>
+        </p>
+    <line-grey></line-grey>
+</section>
+    <h4>
+        <i>Куриные яйца</i>
+    </h4>
+    <p>
+        Цена на куриные яйца колеблется в районе 80 р. за десяток. Потребительские цены примерно на 20 рублей выше цен производителей. 
+        <space></space>
+        <img-center>
+        <img src='img/price-eggs.png'/>
+            </img-center>
+        </p>
+    <h2>
+        <a class='anchor' id='historic'></a>
+        Исторические данные
+    </h2>
+    <h3>
+        <a class='anchor' id='stabilization'></a>
+        Финансовая стабилизация 1990-х
+    </h3>
+    <p>
+        Графики показывают ежемесячное изменение одного из ключевых статистических показателей 1990-х годов - индекса потребительских цен. Дополнительно отмечены события, оказавшие значительное влияние на экономическую политику в целом и финансовую стабилизацию в частности, которая де-факто завершилась после выборов президента в июле 1996 года. 
+        <space></space>
+        В 1997 году годовая инфляция составила 11%, что соответствует медианному значению этого показателя за период с 2000 по 2017 год (в 2017 году было зафиксировано минимальное значение годовой инфляции - 2.5%). 
+        <space></space>
+<section id='stabilization'>
+        <img-center>
+        <img src='img/financial-stabilization-1990s.png'
+            style='display:block;background-color:#FFFFFF;'
+            onclick='clickSize(this)'>
+            </img-center>
+</section>
+        </p>
+    <line-grey></line-grey>
+    <h3>
+        <a class='anchor' id='incomes'></a>
+        Доходы в городской и сельской местности с 2004 по 2022 годы
+    </h3>
+    <p>
+        Здесь сравниваются доходы жителей городов и сельской местности.
+        <space></space>
+        Два первых графика - это абсолютная и относительная разница в доходах за период с 2004 по 2022 годы. C 2004 по 2013 год доходы в сельской местности стабильно растут по отношению к доходам в городах. С 2013 года наблюдается изменение тенденции.
+        </p>
+        <space></space>
+        <img-center>
+        <img src='img/income-(cities)-1.png'/>
+            </img-center>
+<section id='incomes'>
+        <space></space>
+    <p>
+        Первый график подтверждает два предыдущих - до 2013 года темпы роста доходов в сельской местности стабильно превышали темпы роста доходов в городской местности на 2-5%. Начиная с 2013 года среднегодовые темпы роста доходов в городской местности регулярно оказывались выше темпов роста доходов в сельской местности.
+        </p>
+        <space></space>
+</section>    
+        <img-center>
+        <img 
+            src='img/income-(cities)-2.png'
+            style="display:block;background-color:#FFFFFF;"
+            onclick='clickSize(this)'>
+            </img-center>
+    <line-grey></line-grey>
+    <h3>
+        <a class='anchor' id='outcomes'></a>
+        Структура расходов в городской местности с 2003 по 2022
+    </h3>
+    <p>
+        С 2003 по 2007 года доля затрат на продукты питания снижалась примерно с 42% до 32% (что соответствует закону Энгеля). Доля расходов на непродовольственные товары выросла с 35% до 40%, а доля расходов на услуги - с 20% до 25%, и продолжала расти вплоть до 2010 года. 
+        <space></space>
+        Для сравнения, доля расходов на продукты питания в Германии составляет <sb>11,7%</sb> - (исследование РИА Новости, 2020 год).
+        <space></space>
+        В кризисные периоды наблюдается рост расходов на питание и одновременное снижение расходов на непродовольственные товары. Доля расходов на услуги остается стабильной даже во время кризисов (за исключением спада из-за COVID-19, скорее вызванного резким снижением предложения на рынке, а не поведением потребителей).
+        </p>
+        <space></space>
+<section id='outcomes'>
+</section>
+        <img-center>
+        <img src='img/spend-structure-(cities).png'/>
+            </img-center>
+    <line-grey></line-grey>
+    <h3>
+        <a class='anchor' id='officials_freq'></a>
+        Численность госслужащих на 1000 человек (занятых в экономике) с 2000 по 2022
+    </h3>
+    <space></space>
+    <img-center>
+    <img src='img/officials-1000-workers.png'>
+        </img-center>
+    <space></space>
+<section id='officials_freq'>
+</section>
+</content-container>
+</sub-container>  
+</sub-container>
+</sub-container>
     </div>
 <div class="mobile_device_480px">
-        <!-- content and some markups for mobile -->
+        <sub-container
+    id='general' 
+    style='text-align:right;scroll-margin-top:10px;margin: 0 auto;'>
+    <img 
+        src='img/header.png'
+        style='width:760px;padding-right:30px;'>
+</sub-container>
+<sub-container style='margin: 0 auto;'>
+<sub-container style='border-right: 1px solid #CFD7DE;'>
+<content-container style='text-align:right;'>
+    <h1 id='title' style='text-align:right;'>
+       Данные Росстата о состоянии экономики РФ
+    </h1>
+    <h5 style='text-align:right;'>
+       Преобразование данных Росстата и визуализация некоторых статистических параметров
+    </h5>
+    <span
+        style='display:inline-block;font-size:0.85em'>
+        <a href='https://a-chasovsky.github.io/economics-rus/' target='_blank'>
+            <span class='emoji' style='vertical-align: -0.1em;'>
+                <img
+                    src='img/logo-economics.png'
+                    style='width:20px;vertical-align:top'>
+                </span>
+            <span style='margin-left:3px;'>
+                Ссылка на репозиторий
+                </span>
+            </a>
+            &emsp;
+        </span>
+    <span style='display:inline-block;margin-top:10px;font-size:0.85em'>
+        <a href='https://github.com/a-chasovsky' target='_blank'>
+            <span>
+                <img
+                    src='img/logo-github.png'
+                    style='width:20px;vertical-align:top;'>
+                </span>
+            <span style='margin-left:3px;'>
+                Профиль Github 
+                </span>
+            </a>
+        </span>
+</content-container>
+<content-container>
+    <h2 style='margin-top: 10px;'>
+        <a class='anchor' id='review'></a>
+        Преобразование таблиц Росстата
+    </h2>
+</content-container>
+<sub-container style='border-left: 1px solid #CFD7DE;'>
+    <button
+        id="toTocBtn" style='text-align:right'
+        onclick="scrollToID('general')" >
+        Наверх
+        </button>
+<content-container>
+<section id='example'>
+    <p>
+        Росстат публикует статистические данные на официальном сайте в формате .xlx. Для того, чтобы иметь возможность анализировать и визуализировать информацию с помощью библиотек Python, необходимо преобразовать их в формат Pandas DataFrame. В качестве примера здесь используется таблица Росстата 'Индексы потребительских цен на товары и услуги' с 1991 по 2023.
+        <space></space>
+        Данные, публикуемые Росстатом на официальном сайте:
+        <space></space>
+        <img-center>
+        <img src='img/pci-raw.png' width='750px'>
+            </img-center>
+        <space></space>
+        Преобразованные данные:  
+        <space></space>
+        <img-center>
+            <img src='img/pci.png' style='border: 1px solid #CCCCCC;border-radius: 3px;'>
+            </img-center>
+        <space></space>
+        Данные можно экспортировать обратно в Excel: 
+        <space></space>
+</section>        
+        <img-center>
+            <img src='img/pci-excel-rus.png' width='750px'>
+            </img-center>
+        </p>
+    <h2>
+        <a class='anchor' id='actual'></a>
+        Актуальные данные
+    </h2>
+    <h3>
+        <a class='anchor' id='food'></a>
+        Динамика цен на продукты питания
+    </h3>
+    <p>
+        Базовые значения - средние цены за январь 2021 года.
+        </p>
+    <line-grey></line-grey> 
+    <h4>
+        <i>Хлеб</i>
+    </h4>
+    <p>
+        В период с января 2021 по октябрь 2023 года хлеб подорожал на 20%. Заметное снижение стоимости пшеницы с мая 2022 года не привело к уменьшению цены хлеба, но приостановило её дальнейший рост.
+        <space></space>
+        <img-center>
+        <img src='img/price-bread.png'>
+            </img-center>
+<section id='food'>
+        <space></space>
+        <img src='img/price-bread-structure.png'>
+        <space></space>
+        <img src='img/price-bread-structure-tax.png'>
+        <space></space>
+        </p>
+    <line-grey></line-grey>
+    <h4>
+        <i>Мясо</i>
+    </h4>
+    <p>
+        За аналогичный период времени говядина подорожала на 40%. В 2021 году рост цен составил 15%, затем резкий скачок в марте 2022 и плавное повышение до 40% в течение 2022-2023 годов.
+        <space></space>
+        <img-center>
+        <img src='img/price-beef.png'/>
+            </img-center>
+        <space></space>
+        В 2021 году свинина также подорожала на 15%, при этом за период с января 2022 по июль 2023 года рост цен составил примерно 1.5%. В целом, в 2023 году наблюдается тенденция, напоминающая 2021 год - рост цен с января по октябрь и резкий спад к январю следующего года. Цена в январе 2024 выше цены в январе 2022 на 11%.
+        <space></space>
+        <img-center>
+        <img src='img/price-pig.png'/>
+            </img-center>
+        <space></space>
+        С января 2021 года куриное мясо подорожало на 60%, резкий скачок - с мая 2023 года. После октября 2024 заметно некоторое снижение. 
+        <space></space>
+        <img-center>
+        <img src='img/price-poultry.png'/>
+            </img-center>
+        </p>
+    <line-grey></line-grey>
+    <h4>
+        <i>Молочные продукты</i>
+    </h4>
+    <p>
+        В период с октября 2021 по март 2022 года цены молочных продуктов резко выросли и стабилизировались на отметке примерно 20% от базовых значений за январь 2021. Этому способствовало резкое снижение цены сырого молока с марта по август 2023 года. В целом за этот период рост составил 25-30%. С октября 2023 рост цен возобновился. 
+        <space></space>
+        Как и в случае с хлебом, стоимость молочных продуктов не снижается при уменьшении цены сырого молока. 
+        <space></space>
+        <img-center>
+        <img src='img/price-milk-products.png'/>
+            </img-center>
+        </p>
+    <line-grey></line-grey>
+    <h4>
+        <i>Овощи</i>
+    </h4>
+    <p>
+        Цены на овощи имеют тенденцию к повышению весной-летом. Диапазон колебаний - от 50 до 200% от базовой цены на январь 2021 года.
+        <space></space>
+        <img-center>
+        <img src='img/price-vegetables.png'/>
+            </img-center>
+        </p>
+    <line-grey></line-grey>
+</section>
+    <h4>
+        <i>Куриные яйца</i>
+    </h4>
+    <p>
+        Цена на куриные яйца колеблется в районе 80 р. за десяток. Потребительские цены примерно на 20 рублей выше цен производителей. 
+        <space></space>
+        <img-center>
+        <img src='img/price-eggs.png'/>
+            </img-center>
+        </p>
+    <h2>
+        <a class='anchor' id='historic'></a>
+        Исторические данные
+    </h2>
+    <h3>
+        <a class='anchor' id='stabilization'></a>
+        Финансовая стабилизация 1990-х
+    </h3>
+    <p>
+        Графики показывают ежемесячное изменение одного из ключевых статистических показателей 1990-х годов - индекса потребительских цен. Дополнительно отмечены события, оказавшие значительное влияние на экономическую политику в целом и финансовую стабилизацию в частности, которая де-факто завершилась после выборов президента в июле 1996 года. 
+        <space></space>
+        В 1997 году годовая инфляция составила 11%, что соответствует медианному значению этого показателя за период с 2000 по 2017 год (в 2017 году было зафиксировано минимальное значение годовой инфляции - 2.5%). 
+        <space></space>
+<section id='stabilization'>
+        <img-center>
+        <img src='img/financial-stabilization-1990s.png'
+            style='display:block;background-color:#FFFFFF;'
+            onclick='clickSize(this)'>
+            </img-center>
+</section>
+        </p>
+    <line-grey></line-grey>
+    <h3>
+        <a class='anchor' id='incomes'></a>
+        Доходы в городской и сельской местности с 2004 по 2022 годы
+    </h3>
+    <p>
+        Здесь сравниваются доходы жителей городов и сельской местности.
+        <space></space>
+        Два первых графика - это абсолютная и относительная разница в доходах за период с 2004 по 2022 годы. C 2004 по 2013 год доходы в сельской местности стабильно растут по отношению к доходам в городах. С 2013 года наблюдается изменение тенденции.
+        </p>
+        <space></space>
+        <img-center>
+        <img src='img/income-(cities)-1.png'/>
+            </img-center>
+<section id='incomes'>
+        <space></space>
+    <p>
+        Первый график подтверждает два предыдущих - до 2013 года темпы роста доходов в сельской местности стабильно превышали темпы роста доходов в городской местности на 2-5%. Начиная с 2013 года среднегодовые темпы роста доходов в городской местности регулярно оказывались выше темпов роста доходов в сельской местности.
+        </p>
+        <space></space>
+</section>    
+        <img-center>
+        <img 
+            src='img/income-(cities)-2.png'
+            style="display:block;background-color:#FFFFFF;"
+            onclick='clickSize(this)'>
+            </img-center>
+    <line-grey></line-grey>
+    <h3>
+        <a class='anchor' id='outcomes'></a>
+        Структура расходов в городской местности с 2003 по 2022
+    </h3>
+    <p>
+        С 2003 по 2007 года доля затрат на продукты питания снижалась примерно с 42% до 32% (что соответствует закону Энгеля). Доля расходов на непродовольственные товары выросла с 35% до 40%, а доля расходов на услуги - с 20% до 25%, и продолжала расти вплоть до 2010 года. 
+        <space></space>
+        Для сравнения, доля расходов на продукты питания в Германии составляет <sb>11,7%</sb> - (исследование РИА Новости, 2020 год).
+        <space></space>
+        В кризисные периоды наблюдается рост расходов на питание и одновременное снижение расходов на непродовольственные товары. Доля расходов на услуги остается стабильной даже во время кризисов (за исключением спада из-за COVID-19, скорее вызванного резким снижением предложения на рынке, а не поведением потребителей).
+        </p>
+        <space></space>
+<section id='outcomes'>
+</section>
+        <img-center>
+        <img src='img/spend-structure-(cities).png'/>
+            </img-center>
+    <line-grey></line-grey>
+    <h3>
+        <a class='anchor' id='officials_freq'></a>
+        Численность госслужащих на 1000 человек (занятых в экономике) с 2000 по 2022
+    </h3>
+    <space></space>
+    <img-center>
+    <img src='img/officials-1000-workers.png'>
+        </img-center>
+    <space></space>
+<section id='officials_freq'>
+</section>
+</content-container>
+</sub-container>  
+</sub-container>
+</sub-container>
     </div>
 </div>
 
