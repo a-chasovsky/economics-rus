@@ -224,6 +224,16 @@ span.emoji {
     border: 1px solid #CCCCCC;
     border-radius: 3px;
 }
+line-grey {
+    height: 1px;
+    background-color: #DADADA;
+    border-width: 0;
+    /* margin-top:15px;
+    margin-right:auto;
+    margin-bottom:15px;
+    margin-left:auto; */
+    margin: 0 auto 15px auto;
+}
 </style>  
 
 <body>
@@ -239,7 +249,7 @@ span.emoji {
 <sub-container style='border-right: 1px solid #CFD7DE;'>
 <content-container style='text-align:right;'>
     <h1 id='title' style='text-align:right;'>
-       3Данные Росстата
+       4Данные Росстата
         </h1>
     <h5 style='text-align:right;'>
        Преобразование данных Росстата из Excel в Pandas DataFrames и визуализация некоторых статистических параметров
@@ -248,7 +258,9 @@ span.emoji {
         style='display:inline-block;margin-top:10px;'>
         <a href='https://a-chasovsky.github.io/economics-rus/' target='_blank'>
             <span class='emoji' style='vertical-align: -0.1em;'>
-                <img src='img/economics.png' style='width:20px;vertical-align:top'>
+                <img
+                    src='img/logo-economics.png'
+                    style='width:20px;vertical-align:top'>
                 </span>
             <span style='margin-left:3px;font-size:0.85em'>
                 Ссылка на репозиторий
@@ -259,7 +271,9 @@ span.emoji {
     <span style='display:inline-block;'>
         <a href='https://github.com/a-chasovsky' target='_blank'>
             <span>
-                <img src='img/logo-github.png' style='width:20px;vertical-align:top;'>
+                <img
+                    src='img/logo-github.png'
+                    style='width:20px;vertical-align:top;'>
                 </span>
             <span style='margin-left:3px;font-size:0.85em'>
                 Профиль Github 
@@ -268,15 +282,14 @@ span.emoji {
         </span>
 </content-container>
 <sub-container style='border-left: 1px solid #CFD7DE;'>
-    <button onclick="scrollToID('general')" id="toTocBtn" style='text-align:right'>
+    <button
+        id="toTocBtn" style='text-align:right'
+        onclick="scrollToID('general')" >
         Наверх
         </button>
 <content-container>
     <h2 style='margin-top: 10px;'>
-        <a
-            class='anchor'
-            id='review'>
-            </a>
+        <a class='anchor' id='review'></a>
         Преобразование таблиц Росстата из формата .xlxs (.xlx) в Pandas DataFrame
         </h2>
     <p>
@@ -297,33 +310,22 @@ span.emoji {
         Данные можно экспортировать обратно в Excel: 
         <space></space>
         <img-center>
-        <img src='img/pci-excel-rus.png' width='750px'>
+            <img src='img/pci-excel-rus.png' width='750px'>
             </img-center>
         </p>
     <h2>
-        <a
-            class='anchor'
-            id='actual'>
-            </a>
+        <a class='anchor' id='actual'></a>
         Актуальные данные
         </h2>
     <h3>
-        <a
-            class='anchor'
-            id='food'>
-            </a>
+        <a class='anchor' id='food'></a>
         Динамика цен на продовольственные товары с 2021 по 2024
         </h3>
     <p>
         Базовые значения - средние цены за январь 2021 года.
         </p>
-        <div class='line-grey'></div>
-    <hr 
-        style='height:1px;border-width:0;background-color:#DADADA;
-        margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
-    <h4>
-        <i>Хлеб</i>
-        </h4>
+    <line-grey></line-grey> 
+    <h4><i>Хлеб</i></h4>
     <p>
         В период с января 2021 по октябрь 2023 года хлеб подорожал на 20%. Заметное снижение стоимости пшеницы с мая 2022 года не привело к уменьшению цены хлеба, но приостановило её дальнейший рост.
         <space></space>
@@ -340,72 +342,62 @@ span.emoji {
             </img-center>
         <space></space>
         </p>
-    <hr 
-        style='height:1px;border-width:0;background-color:#DADADA;
-        margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
-    <h4>
-        <i>Мясо</i>
-        </h4>
+    <line-grey></line-grey>
+    <h4><i>Мясо</i></h4>
     <p>
         За аналогичный период времени говядина подорожала на 40%. В 2021 год рост цен составил порядка 15%, затем резкий скачок в марте 2022 и плавное повышение до 40% в течение 2022-2023 годов.
         <space></space>
-        <img src='img/price-beef.png' />
+        <img-center>
+        <img src='img/price-beef.png'/>
+            </img-center>
         <space></space>
         Как и в случае цен на говядину, для свинины удорожание сырья приводит к удорожанию конечной продукции. При этом график цен на свинину более сглажен по сравнению с ценой свиней у производителей.
         <space></space>
-        <img src='img/price-pig.png' />
+        <img-center>
+        <img src='img/price-pig.png'/>
+            </img-center>
         <space></space>
         С января 2021 года куриное мясо подорожало на 60%, резкий скачок - с мая 2023 года. 
         <space></space>
-        <img src='img/price-poultry.png' />
+        <img-center>
+        <img src='img/price-poultry.png'/>
+            </img-center>
         </p>
-    <hr 
-        style='height:1px;border-width:0;background-color:#DADADA;
-        margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
-    <h4>
-        <i>Молочные продукты</i>
-        </h4>
+    <line-grey></line-grey>
+    <h4><i>Молочные продукты</i></h4>
     <p>
         В период с октября 2021 по март 2022 года цены молочных продуктов резко выросли и стабилизировались на отметке примерно 20% от базовых значений за январь 2021 года. Этому способствовало резкое снижение цены сырого молока с марта по август 2023 года. В целом за этот период рост составил 25-30%. В октябре 2023 рост цен возобновился. 
         <space></space>
         Как и в случае с хлебом, стоимость молочных продуктов <sb>не снижается</sb> при уменьшении цены сырого молока. 
         <space></space>
-        <img src='img/price-milk-products.png' />
+        <img-center>
+        <img src='img/price-milk-products.png'/>
+            </img-center>
         </p>
-    <hr 
-        style='height:1px;border-width:0;background-color:#DADADA;
-        margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
-    <h4>
-        <i>Овощи</i>
-        </h4>
+    <line-grey></line-grey>
+    <h4><i>Овощи</i></h4>
     <p>
         Цены на овощи имеют тенденцию к повышению весной-летом. Диапазон колебаний достаточно велик - от 50 до 200% от базовой цены на январь 2021 года.
         <space></space>
-        <img src='img/price-vegetables.png' />
+        <img-center>
+        <img src='img/price-vegetables.png'/>
+            </img-center>
         </p>
-    <hr 
-        style='height:1px;border-width:0;background-color:#DADADA;
-        margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
-    <h4>
-        <i>Куриные яйца</i>
-        </h4>
+    <line-grey></line-grey>
+    <h4><i>Куриные яйца</i></h4>
     <p>
         Цена на куриные яйца колеблется в районе 80 р. за 10 шт. Потребительские цены примерно на 20 рублей выше цен производителей. 
         <space></space>
-        <img src='img/price-eggs.png' />
+        <img-center>
+        <img src='img/price-eggs.png'/>
+            </img-center>
         </p>
     <h2>
-        <a
-            class='anchor'
-            id='historic'>
-            </a>
+        <a class='anchor' id='historic'></a>
         Исторические данные
         </h2>
     <h3>
-        <a
-            class='anchor'
-            id='stabilization'>
-            </a>
+        <a class='anchor' id='stabilization'></a>
         Финансовая стабилизация 1990-х
         </h3>
     <p>
@@ -417,14 +409,9 @@ span.emoji {
         <img src='img/financial-stabilization-1990s.png'>
             </img-center>
         </p>
-    <hr 
-        style='height:1px;border-width:0;background-color:#DADADA;
-        margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+    <line-grey></line-grey>
     <h3>
-        <a
-            class='anchor'
-            id='stabilization'>
-            </a>
+        <a class='anchor' id='stabilization'></a>
         Доходы в городской и сельской местности с 2004 по 2022 годы
         </h3>
     <p>
@@ -442,14 +429,9 @@ span.emoji {
         <img src='img/income-(cities)-2.png'/>
             </img-center>
         </p>
-    <hr 
-        style='height:1px;border-width:0;background-color:#DADADA;
-        margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+    <line-grey></line-grey>
     <h3>
-        <a
-            class='anchor'
-            id='outcomes'>
-            </a>
+        <a class='anchor' id='outcomes'></a>
         Структура расходов в городской местности с 2003 по 2022
         </h3>
     <p>
@@ -459,20 +441,19 @@ span.emoji {
         <space></space>
         В кризисные периоды наблюдается рост расходов на питание и одновременное снижение расходов на непродовольственные товары. Доля расходов на услуги остается стабильной даже во время кризисов (за исключением спада из-за COVID-19, скорее вызванного резким снижением предложения на рынке, а не поведением потребителей).
         <space></space>
+        <img-center>
         <img src='img/spend-structure-(cities).png'/>
+            </img-center>
         </p>
-    <hr 
-        style='height:1px;border-width:0;background-color:#DADADA;
-        margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+    <line-grey></line-grey>
     <h3>
-        <a
-            class='anchor'
-            id='officials_freq'>
-            </a>
+        <a class='anchor' id='officials_freq'></a>
         Численность госслужащих на 1000 человек (занятых в экономике) с 2000 по 2022
         </h3>
     <space></space>
+    <img-center>
     <img src='img/officials-1000-workers.png'>
+        </img-center>
     <space></space>
 
 
@@ -488,10 +469,10 @@ span.emoji {
     <ol>
         <li style='margin-bottom:5px;color:#101010;font-weight:500;'>
             Содержание</li>
-        <li><a onclick='scrollToID("title")' id='#review'>Обзор и краткие результаты</a></li>
+        <li><a onclick='scrollToID("title")' id='#example'>Преобразование таблицы Росстата из формата .xlsx (.xlx) в Pandas DataFrame</a></li>
         <li style='margin-top:5px;margin-bottom:5px;color:#101010;font-weight:500;'>
-            Исследование и подготовка данных</li>
-        <li><a onclick='scrollToID("dataset_description")' id='#dataset_description'>Описание датасета</a></li>
+            Актуальные данные</li>
+        <li><a onclick='scrollToID("food")' id='#food'>Динамика цен на продовольственные товары с 2021 по 2024</a></li>
         <li><a onclick='scrollToID("missed_values")' id='#missed_values'>Заполнение отсутствующих значений</a></li>
         <li><a onclick='scrollToID("model_base")' id='#model_base'>Базовая модель</a></li>
         <li><a onclick='scrollToID("eda")' id='#eda'>Исследование данных</a></li>
