@@ -249,10 +249,10 @@ line-grey {
 <sub-container style='border-right: 1px solid #CFD7DE;'>
 <content-container style='text-align:right;'>
     <h1 id='title' style='text-align:right;'>
-       Данные Росстата 1
+       Данные Росстата о состоянии экономики РФ 2
     </h1>
     <h5 style='text-align:right;'>
-       Преобразование данных Росстата из Excel в Pandas DataFrames и визуализация некоторых статистических параметров
+       Преобразование данных Росстата и визуализация некоторых статистических параметров
     </h5>
     <span
         style='display:inline-block;margin-top:10px;'>
@@ -297,9 +297,9 @@ line-grey {
 <content-container>
 <section id='example'>
     <p>
-        В качестве примера используется таблица Росстата 'Индексы потребительских цен на товары и услуги' с 1991 по 2023.
+        Росстат публикует статистические данные на официальном сайте в формате .xlx. Для того, чтобы иметь возможность анализировать и визуализировать их с помощью библиотек Python, необходимо преобразовать их в формат Pandas DataFrame. В качестве примера здесь используется таблица Росстата 'Индексы потребительских цен на товары и услуги' с 1991 по 2023.
         <space></space>
-        Данные, публикуемые Росстатом на официальном сайте в формате .xlx:
+        Данные, публикуемые Росстатом на официальном сайте:
         <space></space>
         <img-center>
         <img src='img/pci-raw.png' width='750px'>
@@ -324,7 +324,7 @@ line-grey {
     </h2>
     <h3>
         <a class='anchor' id='food'></a>
-        Динамика цен на продовольственные товары
+        Динамика цен на продукты питания
     </h3>
     <p>
         Базовые значения - средние цены за январь 2021 года.
@@ -486,10 +486,10 @@ line-grey {
     <ol>
         <li style='margin-bottom:5px;color:#101010;font-weight:500;'>
             Содержание</li>
-        <li><a onclick='scrollToID("title")' id='#example'>Преобразование таблицы Росстата</a></li>
+        <li><a onclick='scrollToID("title")' id='#example'>Преобразование таблиц Росстата</a></li>
         <li style='margin-top:5px;margin-bottom:5px;color:#101010;font-weight:500;'>
             Актуальные данные</li>
-        <li><a onclick='scrollToID("food")' id='#food'>Динамика цен на продовольственные товары продовольственные продовольственные</a></li>
+        <li><a onclick='scrollToID("food")' id='#food'>Динамика цен на продукты питания</a></li>
         <li style='margin-top:5px;margin-bottom:5px;color:#101010;font-weight:500;'>
             Исторические данные</li>
         <li><a onclick='scrollToID("stabilization")' id='#stabilization'>Финансовая стабилизация 1990-х</a></li>
