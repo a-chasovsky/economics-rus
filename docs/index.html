@@ -12,7 +12,10 @@
 </head>
 <style>
 body {
-    font-family: system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    font-family: system-ui, 'Arial';
+    font-size: 1em;
+    color: #151515;
+    line-height: 1.5;
 }
 h1 { 
     font-family: system-ui;
@@ -78,7 +81,6 @@ main-container {
     display: grid;
     grid-template-columns: 810px 355px;
     margin: 0 0 75px 12%;
-    /* border: 1px solid black; */
 }
 sub-container {
     display: block;
@@ -277,7 +279,7 @@ line-grey {
        Преобразование данных Росстата и визуализация некоторых статистических параметров
     </h5>
     <span
-        style='display:inline-block;font-size:0.85em'>
+        style='display:inline-block;margin-top:10px;font-size:0.85em'>
         <a href='https://a-chasovsky.github.io/economics-rus/' target='_blank'>
             <span class='emoji' style='vertical-align: -0.1em;'>
                 <img
@@ -303,6 +305,7 @@ line-grey {
             </a>
         </span>
 </content-container>
+
 <content-container>
     <h2 style='margin-top: 10px;'>
         <a class='anchor' id='review'></a>
@@ -316,29 +319,33 @@ line-grey {
         Наверх
         </button>
 <content-container>
+<section id='example'>
     <p>
         Росстат публикует статистические данные на официальном сайте в формате .xlx. Для того, чтобы иметь возможность анализировать и визуализировать информацию с помощью библиотек Python, необходимо преобразовать их в формат Pandas DataFrame. В качестве примера здесь используется таблица Росстата 'Индексы потребительских цен на товары и услуги' с 1991 по 2023.
         <space></space>
         Данные, публикуемые Росстатом на официальном сайте:
+        </p>
         <space></space>
         <img-center>
         <img src='img/pci-raw.png' width='750px'>
             </img-center>
-<section id='example'>
         <space></space>
+   <p>
         Преобразованные данные:  
+       </p> 
         <space></space>
         <img-center>
             <img src='img/pci.png' style='border: 1px solid #CCCCCC;border-radius: 3px;'>
             </img-center>
         <space></space>
-        Данные можно экспортировать обратно в Excel: 
-        <space></space>
-</section>        
+    <p>
+        Данные можно экспортировать обратно в Excel:
+        </p>
+</section>
+        <space></space>        
         <img-center>
             <img src='img/pci-excel-rus.png' width='750px'>
             </img-center>
-        </p>
     <h2>
         <a class='anchor' id='actual'></a>
         Актуальные данные
