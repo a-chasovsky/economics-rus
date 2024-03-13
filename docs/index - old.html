@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Данные Росстата</title>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6">
+        </script>
+    <script id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+        </script>
+    </head>
+<style>
+    body {
+        background-color: #FFFFFF
+    }
+    .main-container {
+        width: 810px;
+        border-right: 1px solid #CFD7DE;
+        border-left: none;
+        padding: 0 30px 0 0;
+    }
+    .sub-container {
+        width: 750px;
+        border-right: none;
+        border-left: 1px solid #CFD7DE;
+        margin-left: 22.5%;
+        padding: 0 0 0 30px;
+    }
+    #toc_container {
+        background: #FFFDFF;
+        width: 720px;
+        border: 1px solid #CFD7DE;
+        display: table;
+        font-size: 95%;
+        margin-bottom: 1em;
+        padding: 5px 20px 20px 20px;
+        margin-top: 0px;
+        border-radius: 5px; 
+    }
+    h1 { 
+        font-family: system-ui;
+        color: #303030;
+        font-size: 1.5em;
+        font-weight: 600;
+        text-align: left;
+        line-height: 1.25;
+    }
+    h2 {
+        font-family: system-ui;
+        color: #252525;
+        font-size: 1.3em;
+        font-weight: 600;
+        text-align: left;
+        line-height: 1.5em;
+    }
+    h3 {
+        font-family: system-ui;
+        color: #252525;
+        font-size: 1.15em;
+        font-weight: 600;
+        text-align: left;
+        line-height: 1.25em;
+    }
+    h4 {
+        font-family: system-ui;
+        color: #252525;
+        font-size: 1em;
+        font-weight: 600;
+        text-align: left;
+        line-height: 1.25;
+        margin-bottom: 0px;
+    }
+    h5 {
+        font-family: system-ui;
+        font-style: italic;
+        color: #252525;
+        font-size:0.85em;
+        font-weight: 400;
+        text-align: left;
+        line-height: 1.25em;
+        margin-top: -5px;
+        margin-bottom: 0px;
+    }
+    p {
+        font-family: system-ui;
+        font-size: 1em;
+        color: #151515;
+        line-height: 1.5;
+        margin: 12.5px 0 0 0;
+        text-align: justify
+    }
+    img-center {
+        display: flex;
+        justify-content: center;
+        padding-right: 0px;
+        padding-left: 0px
+    }
+    img-margin {
+        margin-left: 30px;
+    }
+    img-border {
+        border: 1px solid #CCCCCC;
+        border-radius: 3px;
+    }
+    .toc_title {
+        font-weight: 600;
+        text-align: left;
+        font-family: system-ui;
+        color: #252525;
+        padding-bottom:10px;
+    }
+    text-number-toc {
+        font-family: system-ui;
+        font-weight:600;
+        color: #333333;
+        font-size: 0.85em;
+        text-align: justify;
+        line-height: 1.5;
+    }   
+    a {
+        scroll-margin-top: 15px;
+    }
+    a:link {
+        font-family: system-ui;
+        text-decoration: none;
+        color: #164B84;
+    }
+    a:visited {
+        font-family: system-ui;
+        color: #164B84;
+    }
+    a:hover {
+        font-family: system-ui;
+        color: #2373C7;
+        text-decoration: none;
+    }
+    a:active {
+        font-family: system-ui;
+        color: #2D8CF1;
+    }
+    sb {
+        font-weight:600;
+    }
+    line-height-1-75 {
+        line-height: 1.75em;
+    }
+    space {
+        display: block;
+        margin-top: 12.5px;
+        content: ' '
+    }
+    space20 {
+        display: block;
+        margin-top: 20px;
+        content: ' '
+    }
+    space25 {
+        display: block;
+        margin-top: 25px;
+        content: ' '
+    }
+    ul {
+        list-style-type: disc;
+        line-height: 1.5;
+        margin-top: -5px;
+    }
+    li {
+        font-family: system-ui;
+        line-height: 1.75em;
+    }
+    #toTocBtn {
+      display: none;
+      position: fixed;
+      margin-left: 880px;
+      bottom: 35px;
+      z-index: 99;
+      border: none; 
+      outline: none; 
+      background-color: #F1F1F1;
+      color: #1B60AA; 
+      cursor: pointer; 
+      padding: 15px; 
+      border-radius: 5px;
+      font-size: 14px;
+    }
+    #toTocBtn:hover {
+      background-color: #E1E1E1;
+      border: none; 
+      color: #1B60AA;
+    }
+    .sub-container span a:link {
+        font-family: system-ui;
+        color: #164B84;
+        font-size: 0.85em;
+        margin-left: 2.5px;
+        text-decoration: none;
+    }
+    .sub-container span a:visited {
+        font-family: system-ui;
+        color: #164B84;
+        font-size: 0.85em;
+        margin-left: 2.5px;
+        text-decoration: none;
+    }
+    .sub-container span a:hover {
+        font-family: system-ui;
+        color: #2373C7;
+        font-size: 0.85em;
+        margin-left: 2.5px;
+        text-decoration: none;
+    }
+    .sub-container span a:active {
+        font-family: system-ui;
+        color: #2D8CF1;
+        font-size: 0.85em;
+        margin-left: 2.5px;
+        text-decoration: none;
+    }
+    span.emoji {
+      font-size: 20px;
+    }
+    pageend {
+        display: block;
+        margin-top: 75px;
+        content: ' '
+    }
+</style>
+<body>
+<div class='sub-container' style='border-left:none'>
+    <img src='img/header.png'
+        style='width:760px'>
+    <h1 >
+        Данные Росстата
+        </h1>
+    <h5>
+       Преобразование данных Росстата из Excel в Pandas DataFrames и визуализация некоторых статистических параметров.
+        </h5>
+    <span style='padding-left:17px;margin-top:15px;margin-bottom:15px;display:inline-block;scroll-margin-top:15px;' id='links'>
+        <a href='https://github.com/a-chasovsky/pers_economics_rus' target='_blank'>
+            <span>
+                <img src='img/economics.png' style='width:20px;vertical-align:top'>
+                </span>
+            <span style='margin-left:2px;'>
+                Ссылка на репозиторий
+                </span>
+            </a>
+            &emsp;
+        </span>
+    <span style='margin-top:15px;margin-bottom:15px;display:inline-block;scroll-margin-top:15px;'>
+        <a href='https://github.com/a-chasovsky' target='_blank'>
+            <span>
+                <img src='img/github-logo.png' style='width:20px;vertical-align:top'>
+                </span>
+            <span style='margin-left:4px;'>
+                Профиль Github 
+                </span>
+            </a>
+        </span>
+    </div>
+<div class='sub-container' style='border-left:1px solid #CFD7DE;'>
+    <div id="toc_container">
+            <div class='toc_title'>
+                Содержание <a class='anchor' id="#toc"></a>
+                </div>
+             <line-height-1-75>
+                <text-number-toc>1.</text-number-toc> <a href="#example">Преобразование типичной таблицы Росстата из формата .xlsx (.xlx) в Pandas DataFrame</a><br>
+                <text-number-toc>2.</text-number-toc> <a href="#actual">Актуальные данные</a><br>
+                &emsp;<text-number-toc>2.1.</text-number-toc> <a href="#food">Динамика цен на продовольственные товары с 2021 по 2024</a><br>
+                <text-number-toc>3.</text-number-toc> <a href="#historic">Исторические данные</a><br>
+                &emsp;<text-number-toc>3.1.</text-number-toc> <a href="#stabilization">Финансовая стабилизация 1990-х</a><br>
+                &emsp;<text-number-toc>3.2.</text-number-toc> <a href="#incomes">Доходы в городской и сельской местности c 2004 по 2022</a><br>
+                &emsp;<text-number-toc>3.3.</text-number-toc> <a href="#outcomes">Структура расходов в городской местности с 2003 по 2022</a><br>
+                &emsp;<text-number-toc>3.4.</text-number-toc> <a href="#officials_freq">Численность госслужащих на 1000 человек (занятых в экономике) с 2000 по 2022</a><br>
+                </line-height-1-75>
+            </div>
+    <h2>
+        <a
+            class='anchor'
+            id='example'>
+            </a>
+        1. Преобразование типичной таблицы Росстата из формата .xlxs (.xlx) в Pandas DataFrame
+        </h2>
+    <div class='main-container'>
+        <button onclick="scrollToID('links')" id="toTocBtn">
+            К содержанию
+            </button>
+        <p>
+            В качестве примера используется таблица Росстата 'Индексы потребительских цен на товары и услуги' с 1991 по 2023.
+            <space></space>
+            Данные, публикуемые Росстатом на официальном сайте в формате .xlx:
+            <space></space>
+            <img src='img/pci-raw.png' width='800px'>
+            <space></space>
+            Преобразованные данные:  
+            <space></space>
+            <img-center><img-border><img src='img/pci.png'></img-border></img-center>
+            <space></space>
+            При необходимости данные могут быть экспортированы обратно в Excel: 
+            <space></space>
+            <img src='img/pci-excel-rus.png' width='800px'>
+            </p>
+        <h2>
+            <a
+                class='anchor'
+                id='actual'>
+                </a>
+            2. Актуальные данные
+            </h2>
+        <h3>
+            <a
+                class='anchor'
+                id='food'>
+                </a>
+            2.1. Динамика цен на продовольственные товары с 2021 по 2024
+            </h3>
+        <p>
+            Базовые значения - средние цены за январь 2021 года.
+            </p>
+            <div class='line-grey'></div>
+        <hr 
+            style='height:1px;border-width:0;background-color:#DADADA;
+            margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+        <h4>
+            <i>Хлеб</i>
+            </h4>
+        <p>
+            В период с января 2021 по октябрь 2023 года хлеб подорожал на 20%. Заметное снижение стоимости пшеницы с мая 2022 года не привело к уменьшению цены хлеба, но приостановило её дальнейший рост.
+            <space></space>
+            <img src='img/price-bread.png'>
+            <space></space>
+            <img-center>
+            <img src='img/price-bread-structure.png'>
+                </img-center>
+            <space></space>
+            <img-center>
+            <img src='img/price-bread-structure-tax.png'>
+                </img-center>
+            <space></space>
+            </p>
+        <hr 
+            style='height:1px;border-width:0;background-color:#DADADA;
+            margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+        <h4>
+            <i>Мясо</i>
+            </h4>
+        <p>
+            За аналогичный период времени говядина подорожала на 40%. В 2021 год рост цен составил порядка 15%, затем резкий скачок в марте 2022 и плавное повышение до 40% в течение 2022-2023 годов.
+            <space></space>
+            <img src='img/price-beef.png' />
+            <space></space>
+            Как и в случае цен на говядину, для свинины удорожание сырья приводит к удорожанию конечной продукции. При этом график цен на свинину более сглажен по сравнению с ценой свиней у производителей.
+            <space></space>
+            <img src='img/price-pig.png' />
+            <space></space>
+            С января 2021 года куриное мясо подорожало на 60%, резкий скачок - с мая 2023 года. 
+            <space></space>
+            <img src='img/price-poultry.png' />
+            </p>
+        <hr 
+            style='height:1px;border-width:0;background-color:#DADADA;
+            margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+        <h4>
+            <i>Молочные продукты</i>
+            </h4>
+        <p>
+            В период с октября 2021 по март 2022 года цены молочных продуктов резко выросли и стабилизировались на отметке примерно 20% от базовых значений за январь 2021 года. Этому способствовало резкое снижение цены сырого молока с марта по август 2023 года. В целом за этот период рост составил 25-30%. В октябре 2023 рост цен возобновился. 
+            <space></space>
+            Как и в случае с хлебом, стоимость молочных продуктов <sb>не снижается</sb> при уменьшении цены сырого молока. 
+            <space></space>
+            <img src='img/price-milk-products.png' />
+            </p>
+        <hr 
+            style='height:1px;border-width:0;background-color:#DADADA;
+            margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+        <h4>
+            <i>Овощи</i>
+            </h4>
+        <p>
+            Цены на овощи имеют тенденцию к повышению весной-летом. Диапазон колебаний достаточно велик - от 50 до 200% от базовой цены на январь 2021 года.
+            <space></space>
+            <img src='img/price-vegetables.png' />
+            </p>
+        <hr 
+            style='height:1px;border-width:0;background-color:#DADADA;
+            margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+        <h4>
+            <i>Куриные яйца</i>
+            </h4>
+        <p>
+            Цена на куриные яйца колеблется в районе 80 р. за 10 шт. Потребительские цены примерно на 20 рублей выше цен производителей. 
+            <space></space>
+            <img src='img/price-eggs.png' />
+            </p>
+        <h2>
+            <a
+                class='anchor'
+                id='historic'>
+                </a>
+            3. Исторические данные
+            </h2>
+        <h3>
+            <a
+                class='anchor'
+                id='stabilization'>
+                </a>
+            3.1. Финансовая стабилизация 1990-х
+            </h3>
+        <p>
+            Графики показывают помесячное изменение одного из ключевых статистических показателей 1990-х годов - индекса потребительских цен. Отдельно отмечены события, оказавшие значительное влияние на экономическую политику в целом и финансовую стабилизацию в частности, которая де-факто завершилась после выборов президента в июле 1996 года. 
+            <space></space>
+            В 1997 году годовая инфляция составила 11%, что соответствует медианному значению этого показателя за период с 2000 по 2017 год (в 2017 году было зафиксировано минимальное значение годовой инфляции - 2.5%). 
+            <space></space>
+            <img-center>
+            <img src='img/financial-stabilization-1990s.png'>
+                </img-center>
+            </p>
+        <hr 
+            style='height:1px;border-width:0;background-color:#DADADA;
+            margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+        <h3>
+            <a
+                class='anchor'
+                id='stabilization'>
+                </a>
+            3.2. Доходы в городской и сельской местности с 2004 по 2022 годы
+            </h3>
+        <p>
+            В данном пункте сравниваются доходы жителей городов и сельской местности.
+            <space></space>
+            Два первых графика - это абсолютная и относительная разница в доходах за период с 2004 по 2022 годы. C 2004 по 2013 год доходы в сельской местности стабильно растут по отношению к доходам в городах. С 2013 года наблюдается изменение тенденции.
+            <space></space>
+            <img src='img/income-(cities)-1.png'/>
+            <space></space>
+            Первый график подтверждает два предыдущих - до 2013 года темпы роста доходов в сельской местности стабильно превышали темпы роста доходов в городской местности на 2-5%. Начиная с 2013 года среднегодовые темпы роста доходов в городской местности регулярно оказывались выше темпов роста доходов в сельской местности.  
+            <space></space>
+            <img src='img/income-(cities)-2.png'/>
+            </p>
+        <hr 
+            style='height:1px;border-width:0;background-color:#DADADA;
+            margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+        <h3>
+            <a
+                class='anchor'
+                id='outcomes'>
+                </a>
+            3.3. Структура расходов в городской местности с 2003 по 2022
+            </h3>
+        <p>
+            С 2003 по 2007 года доля затрат на продукты питания снижалась примерно с 42% до 32% (что соответствует закону Энгеля). Доля расходов на непродовольственные товары выросла с 35% до 40%, а доля расходов на услуги - с 20% до 25%, - и продолжала расти вплоть до 2010 года. 
+            <space></space>
+            Доля расходов на продукты питания в Германии составляет <sb>11,7%</sb> - (исследование РИА Новости, 2020 год)
+            <space></space>
+            В кризисные периоды наблюдается рост расходов на питание и одновременное снижение расходов на непродовольственные товары. Доля расходов на услуги остается стабильной даже во время кризисов (за исключением спада из-за COVID-19, скорее вызванного резким снижением предложения на рынке, а не поведением потребителей).
+            <space></space>
+            <img src='img/spend-structure-(cities).png'/>
+            </p>
+        <hr 
+            style='height:1px;border-width:0;background-color:#DADADA;
+            margin-top:15px;margin-right:auto;margin-bottom:15px;margin-left:auto'>
+        <h3>
+            <a
+                class='anchor'
+                id='officials_freq'>
+                </a>
+            3.4. Численность госслужащих на 1000 человек (занятых в экономике) с 2000 по 2022
+            </h3>
+        <space></space>
+        <img src='img/officials-1000-workers.png'>
+        <space></space>
+        </div>
+    </div>
+<script>
+    let mybutton = document.getElementById('toTocBtn');
+    
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+    
+    function scrollFunction() {
+      if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+    
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      document.body.scrollTop = 290; // For Safari
+      document.documentElement.scrollTop = 290; // For Chrome, Firefox, IE and Opera
+    }
+
+    function scrollToID(id) {
+        let element = document.getElementById(id);
+        element.scrollIntoView({
+          block: 'start',
+          // behavior: 'smooth',
+          inline: 'start'
+        });
+    }
+    </script>
+<pageend></pageend>
+</body>
+</html>
