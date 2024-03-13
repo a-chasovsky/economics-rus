@@ -94,42 +94,39 @@ main-container > nav {
     align-self: start;
     overflow: scroll;
     scrollbar-width: none;
-    /* height: 750px; */
-    
-    
 }
-.section-nav {
+.toc {
     width: 100%;
     margin-top: 2.3em;
     padding-top: 0.2em;
-    /* padding-left: 30px; */
+    padding-left: 30px;
     height: 75px;
     direction:rtl;
 }
-.section-nav a {
+.toc a {
     display: block;
     text-decoration: none;
     color: #606060;
     cursor: pointer;
     /* transition: all 25ms ease-in-out; */
 }
-.section-nav a:hover,
-.section-nav a:focus {
+.toc a:hover,
+.toc a:focus {
     color: #1E5FA5;
 }
-.section-nav ol {
+.toc ol {
     display: block;
     list-style: none;
 }
-.section-nav ul {
+.toc ul {
     list-style: none;
     margin-left: -20px;
 }
-.section-nav li {
+.toc li {
     font-size: 0.85rem;
     text-align: left;
 }
-.section-nav li.active > a {
+.toc li.active > a {
     font-weight:600;
     color: #1E5FA5;
 }
@@ -252,7 +249,7 @@ line-grey {
 <sub-container style='border-right: 1px solid #CFD7DE;'>
 <content-container style='text-align:right;'>
     <h1 id='title' style='text-align:right;'>
-       Данные Росстата 1
+       Данные Росстата 2
     </h1>
     <h5 style='text-align:right;'>
        Преобразование данных Росстата из Excel в Pandas DataFrames и визуализация некоторых статистических параметров
@@ -480,7 +477,7 @@ line-grey {
 </sub-container>  
 </sub-container>
 </sub-container>
-<nav class='section-nav'>
+<nav class='toc'>
     <ol>
         <li style='margin-bottom:5px;color:#101010;font-weight:500;'>
             Содержание</li>
