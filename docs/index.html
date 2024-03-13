@@ -97,7 +97,7 @@ main-container > nav {
 }
 .toc {
     width: 100%;
-    margin-top: 2.3em;
+    margin-top: 0.35em;
     padding-top: 0.2em;
     /* padding-left: 30px; */
     height: 750px;
@@ -129,7 +129,8 @@ main-container > nav {
 .toc li.active > a {
     font-weight:600;
     color: #1E5FA5;
-    padding-right: -100px;
+    /* padding-right: -100px; */
+    white-space: nowrap;
 }
 ul {
     list-style-type: disc;
@@ -250,7 +251,7 @@ line-grey {
 <sub-container style='border-right: 1px solid #CFD7DE;'>
 <content-container style='text-align:right;'>
     <h1 id='title' style='text-align:right;'>
-       Данные Росстата 6
+       Данные Росстата 7
     </h1>
     <h5 style='text-align:right;'>
        Преобразование данных Росстата из Excel в Pandas DataFrames и визуализация некоторых статистических параметров
