@@ -2,8 +2,8 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
     <title>Данные Росстата</title>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
     <script id="MathJax-script" async
@@ -238,9 +238,30 @@ line-grey {
     margin-left:auto; */
     margin: 0 auto 15px auto;
 }
-</style>  
+  /* if desktop */
+    .mobile_device_380px {
+        display: none;
+    }
+    .mobile_device_480px {
+        display: none;
+    }
 
+
+    /* if mobile device max width 380px */
+    @media only screen and (max-device-width: 380px) {
+        .mobile_device_380px{display: block;}       
+        .desktop {display: none;}
+    } 
+
+    /* if mobile device max width 480px */
+    @media only screen and (max-device-width: 480px) {
+       .mobile_device_480px{display: block;}
+       .desktop {display: none;}
+    }
+</style>
 <body>
+<div id="content">
+    <div class="desktop">
 <sub-container
     id='general' 
     style='margin-left:12%;text-align:right;scroll-margin-top:10px;'>
@@ -253,7 +274,7 @@ line-grey {
 <sub-container style='border-right: 1px solid #CFD7DE;'>
 <content-container style='text-align:right;'>
     <h1 id='title' style='text-align:right;'>
-       Данные Росстата о состоянии экономики РФ
+       Данные Росстата о состоянии экономики РФ 1
     </h1>
     <h5 style='text-align:right;'>
        Преобразование данных Росстата и визуализация некоторых статистических параметров
@@ -507,6 +528,16 @@ line-grey {
         </ol> 
       </nav>
 </main-container>
+</div>
+<div class="mobile_device_380px">
+        <!-- content and some markups for mobile -->
+    </div>
+<div class="mobile_device_480px">
+        <!-- content and some markups for mobile -->
+    </div>
+</div>
+
+
 <script>
 // Button 'Наверх'
 let mybutton = document.getElementById('toTocBtn');
@@ -550,20 +581,5 @@ document.querySelectorAll('section[id]').forEach((section) => {
     observer.observe(section);
 });
 });
-// Mobile version
-function isMobile() {
-  $deviceList = array(
-    '/iphone/i' => 'iPhone', 
-    '/ipod/i' => 'iPod', 
-    '/ipad/i' => 'iPad', 
-    '/android/i' => 'Android'
-  );
-
-  foreach($deviceList as $deviceKey => $deviceOS) {
-    if(preg_match($deviceKey, $_SERVER['HTTP_USER_AGENT'])) {
-        // echo your content for mobile devices
-    }
-  }
-}
 </script>
 </body>
