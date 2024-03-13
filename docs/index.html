@@ -101,13 +101,15 @@ main-container > nav {
     padding-top: 0.2em;
     /* padding-left: 30px; */
     height: 750px;
+    font-size: 0.85rem;
     /* direction:rtl; */
     border:1px solid red;
+    color: #606060;
 }
 .toc a {
-    display: block;
+    /* display: block; */
     text-decoration: none;
-    color: #606060;
+    /* color: #606060; */
     cursor: pointer;
     /* transition: all 25ms ease-in-out; */
 }
@@ -118,14 +120,11 @@ main-container > nav {
 .toc ol {
     display: block;
     list-style: none;
+    padding-left: 1.8em;
 }
 .toc ul {
     list-style: none;
-    margin-left: -20px;
-}
-.toc li {
-    font-size: 0.85rem;
-    text-align: left;
+    padding-left: 2.3em;
 }
 .toc li.active > a {
     font-weight:600;
@@ -250,7 +249,7 @@ line-grey {
 <sub-container style='border-right: 1px solid #CFD7DE;'>
 <content-container style='text-align:right;'>
     <h1 id='title' style='text-align:right;'>
-       Данные Росстата 3
+       Данные Росстата 4
     </h1>
     <h5 style='text-align:right;'>
        Преобразование данных Росстата из Excel в Pandas DataFrames и визуализация некоторых статистических параметров
