@@ -230,33 +230,29 @@ span.emoji {
     border: 1px solid #CCCCCC;
     border-radius: 3px;
 }
-line-grey {
+hr.grey {
     height: 1px;
     background-color: #DADADA;
     border-width: 0;
-    /* margin-top:15px;
-    margin-right:auto;
-    margin-bottom:15px;
-    margin-left:auto; */
-    margin: 0 auto 15px auto;
+    margin: 1em auto 1em auto;
 }
-  /* if desktop */
-    .mobile_device_380px {
-        display: none;
-    }
-    .mobile_device_480px {
-        display: none;
-    }
-    /* if mobile device max width 380px */
-    @media only screen and (max-device-width: 380px) {
-        .mobile_device_380px{display: block;}       
-        .desktop {display: none;}
-    } 
-    /* if mobile device max width 480px */
-    @media only screen and (max-device-width: 480px) {
-       .mobile_device_480px{display: block;}
-       .desktop {display: none;}
-    }
+/* if desktop */
+.mobile_device_380px {
+    display: none;
+}
+.mobile_device_480px {
+    display: none;
+}
+/* if mobile device max width 380px */
+@media only screen and (max-device-width: 380px) {
+    .mobile_device_380px{display: block;}       
+    .desktop {display: none;}
+} 
+/* if mobile device max width 480px */
+@media only screen and (max-device-width: 480px) {
+   .mobile_device_480px{display: block;}
+   .desktop {display: none;}
+}
 </style>
 <body>
 <div id="content">
@@ -356,7 +352,7 @@ line-grey {
     <p>
         Базовые значения - средние цены за январь 2021 года.
         </p>
-    <line-grey></line-grey> 
+    <hr class='grey'>
     <h4>
         <i>Хлеб</i>
     </h4>
@@ -373,7 +369,7 @@ line-grey {
         <img src='img/price-bread-structure-tax.png'>
         <space></space>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h4>
         <i>Мясо</i>
     </h4>
@@ -396,7 +392,7 @@ line-grey {
         <img src='img/price-poultry.png'/>
             </img-center>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h4>
         <i>Молочные продукты</i>
     </h4>
@@ -409,7 +405,7 @@ line-grey {
         <img src='img/price-milk-products.png'/>
             </img-center>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h4>
         <i>Овощи</i>
     </h4>
@@ -420,7 +416,7 @@ line-grey {
         <img src='img/price-vegetables.png'/>
             </img-center>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
 </section>
     <h4>
         <i>Куриные яйца</i>
@@ -453,7 +449,7 @@ line-grey {
             </img-center>
 </section>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h3>
         <a class='anchor' id='incomes'></a>
         Доходы в городской и сельской местности с 2004 по 2022 годы
@@ -480,7 +476,7 @@ line-grey {
             style="display:block;background-color:#FFFFFF;"
             onclick='clickSize(this)'>
             </img-center>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h3>
         <a class='anchor' id='outcomes'></a>
         Структура расходов в городской местности с 2003 по 2022
@@ -498,7 +494,7 @@ line-grey {
         <img-center>
         <img src='img/spend-structure-(cities).png'/>
             </img-center>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h3>
         <a class='anchor' id='officials_freq'></a>
         Численность госслужащих на 1000 человек (занятых в экономике) с 2000 по 2022
@@ -532,6 +528,7 @@ line-grey {
       </nav>
 </main-container>
 </div>
+<!-- // Mobile Version 1 -->
 <div class="mobile_device_380px">
         <sub-container
     id='general' 
@@ -623,7 +620,7 @@ line-grey {
     <p>
         Базовые значения - средние цены за январь 2021 года.
         </p>
-    <line-grey></line-grey> 
+    <hr class='grey'>
     <h4>
         <i>Хлеб</i>
     </h4>
@@ -640,7 +637,7 @@ line-grey {
         <img src='img/price-bread-structure-tax.png'>
         <space></space>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h4>
         <i>Мясо</i>
     </h4>
@@ -663,7 +660,7 @@ line-grey {
         <img src='img/price-poultry.png'/>
             </img-center>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h4>
         <i>Молочные продукты</i>
     </h4>
@@ -676,7 +673,7 @@ line-grey {
         <img src='img/price-milk-products.png'/>
             </img-center>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h4>
         <i>Овощи</i>
     </h4>
@@ -687,7 +684,7 @@ line-grey {
         <img src='img/price-vegetables.png'/>
             </img-center>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
 </section>
     <h4>
         <i>Куриные яйца</i>
@@ -720,7 +717,7 @@ line-grey {
             </img-center>
 </section>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h3>
         <a class='anchor' id='incomes'></a>
         Доходы в городской и сельской местности с 2004 по 2022 годы
@@ -747,7 +744,7 @@ line-grey {
             style="display:block;background-color:#FFFFFF;"
             onclick='clickSize(this)'>
             </img-center>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h3>
         <a class='anchor' id='outcomes'></a>
         Структура расходов в городской местности с 2003 по 2022
@@ -765,7 +762,7 @@ line-grey {
         <img-center>
         <img src='img/spend-structure-(cities).png'/>
             </img-center>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h3>
         <a class='anchor' id='officials_freq'></a>
         Численность госслужащих на 1000 человек (занятых в экономике) с 2000 по 2022
@@ -782,6 +779,7 @@ line-grey {
 </sub-container>
 </sub-container>
     </div>
+<!-- // Mobile Version 2 -->
 <div class="mobile_device_480px">
         <sub-container
     id='general' 
@@ -873,7 +871,7 @@ line-grey {
     <p>
         Базовые значения - средние цены за январь 2021 года.
         </p>
-    <line-grey></line-grey> 
+    <hr class='grey'>
     <h4>
         <i>Хлеб</i>
     </h4>
@@ -890,7 +888,7 @@ line-grey {
         <img src='img/price-bread-structure-tax.png'>
         <space></space>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h4>
         <i>Мясо</i>
     </h4>
@@ -913,7 +911,7 @@ line-grey {
         <img src='img/price-poultry.png'/>
             </img-center>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h4>
         <i>Молочные продукты</i>
     </h4>
@@ -926,7 +924,7 @@ line-grey {
         <img src='img/price-milk-products.png'/>
             </img-center>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h4>
         <i>Овощи</i>
     </h4>
@@ -937,7 +935,7 @@ line-grey {
         <img src='img/price-vegetables.png'/>
             </img-center>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
 </section>
     <h4>
         <i>Куриные яйца</i>
@@ -970,7 +968,7 @@ line-grey {
             </img-center>
 </section>
         </p>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h3>
         <a class='anchor' id='incomes'></a>
         Доходы в городской и сельской местности с 2004 по 2022 годы
@@ -997,7 +995,7 @@ line-grey {
             style="display:block;background-color:#FFFFFF;"
             onclick='clickSize(this)'>
             </img-center>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h3>
         <a class='anchor' id='outcomes'></a>
         Структура расходов в городской местности с 2003 по 2022
@@ -1015,7 +1013,7 @@ line-grey {
         <img-center>
         <img src='img/spend-structure-(cities).png'/>
             </img-center>
-    <line-grey></line-grey>
+    <hr class='grey'>
     <h3>
         <a class='anchor' id='officials_freq'></a>
         Численность госслужащих на 1000 человек (занятых в экономике) с 2000 по 2022
@@ -1033,8 +1031,6 @@ line-grey {
 </sub-container>
     </div>
 </div>
-
-
 <script>
 // Button 'Наверх'
 let mybutton = document.getElementById('toTocBtn');
