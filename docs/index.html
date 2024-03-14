@@ -206,7 +206,7 @@ sb {
     display: none;
     position: fixed;
     margin-left: 845px;
-    bottom: 1em;
+    bottom: 2em;
     z-index: 99;
     border: none; 
     outline: none; 
@@ -280,12 +280,12 @@ hr.grey {
 </content-container>
 </sub-container>
 </main-container>
-<main-container style='border:1px solid red'>
+<main-container>
 <sub-container>
 <sub-container style='border-right: 1px solid #CFD7DE;'>
 <content-container style='text-align:right;'>
     <h1 id='title' style='text-align:right;'>
-        2Данные Росстата о состоянии экономики РФ
+        3Данные Росстата о состоянии экономики РФ
     </h1>
     <h5 style='text-align:right;margin-top:-0.8em'>
         Преобразование данных Росстата и визуализация некоторых статистических параметров
@@ -324,6 +324,11 @@ hr.grey {
     </h2>
 </content-container>
 <sub-container style='border-left: 1px solid #CFD7DE;'>
+    <!-- <button
+        id="toTocBtn" style='text-align:right;'
+        onclick="scrollToID('general')">
+        Наверх
+        </button> -->
 <content-container>
     <p>
         Росстат публикует статистические данные на своём официальном сайте в формате .xlx. Чтобы анализировать и визуализировать эти данные с помощью библиотек Python, необходимо преобразовать их в формат Pandas DataFrame. 
@@ -539,11 +544,6 @@ hr.grey {
         <li><a onclick='scrollToID("officials_freq")' id='#officials_freq'>Численность госслужащих на 1000 человек</a></li>
         </ol> 
       </nav>
-    <button
-        id="toTocBtn" style='text-align:right;'
-        onclick="scrollToID('general')" >
-        Наверх
-        </button>
 </main-container>
 </page-container>
 </div>
