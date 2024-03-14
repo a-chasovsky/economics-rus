@@ -125,13 +125,11 @@ main-container > nav {
 .toc ol {
     display: block;
     list-style: none;
-    /* padding-left: 2em; */
-    box-sizing: border-box;
+    padding-left: 2em;
 }
 .toc ul {
     list-style: none;
-    /* padding-left: 2.5em; */
-    box-sizing: border-box;
+    padding-left: 2.5em;
 }
 .toc li {
     text-align: left;
@@ -271,19 +269,25 @@ hr.grey {
 <body>
 <div id="content">
     <div class="desktop">
+<sub-container>
+    <main-container>
 <sub-container
     id='general' 
-    style='margin-left:12%;width:50%;text-align:right;scroll-margin-top:10px;'>
+    style='text-align:right;scroll-margin-top:10px;'>
+<content-container>
     <img 
         src='img/header.png'
-        style='width:90%;padding-right:30px;'>
-</sub-container>
+        style='width:100%;'>
+</content-container>
+    
+    </sub-container>
+        </main-container>
 <main-container>
 <sub-container>
 <sub-container style='border-right: 1px solid #CFD7DE;'>
 <content-container style='text-align:right;'>
     <h1 id='title' style='text-align:right;'>
-        8Данные Росстата о состоянии экономики РФ
+        1Данные Росстата о состоянии экономики РФ
     </h1>
     <h5 style='text-align:right;'>
         Преобразование данных Росстата и визуализация некоторых статистических параметров
@@ -541,6 +545,8 @@ hr.grey {
         </ol> 
       </nav>
 </main-container>
+    
+</sub-container>
 </div>
 
 
