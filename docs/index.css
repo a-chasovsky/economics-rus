@@ -156,6 +156,11 @@ space {
     margin-top: 0.8em;
     content: ' '
 }
+space1 {
+    display: block;
+    margin-top: 0.4em;
+    content: ' '
+}
 space2 {
     display: block;
     margin-top: 1.2em;
