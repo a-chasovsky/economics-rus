@@ -153,12 +153,12 @@ space0 {
 }
 space {
     display: block;
-    margin-top: 0.8em;
+    margin-top: 0.4em;
     content: ' '
 }
 space1 {
     display: block;
-    margin-top: 0.4em;
+    margin-top: 0.8em;
     content: ' '
 }
 space2 {
