@@ -13,6 +13,7 @@
 
 import numpy as np
 import pandas as pd
+import scipy
 import colorsys
 import seaborn as sns
 import matplotlib as mpl
@@ -21,6 +22,9 @@ import collections
 import numbers
 import decimal
 import time
+import datetime as dt
+import os
+import locale
 
 
 # ----------------------------------------------------------------------------
@@ -266,6 +270,7 @@ def saveit(file, name, dir='files'):
     print(f"File '{name}.pkl' saved in directory '{dir}'")
 
 
+fig = plt.figure()
 def savefig(name, dir=None, format='both', dpi=100, transparent=True,  figure=None, **kwargs):
     '''
     Saves figure
@@ -1955,6 +1960,19 @@ def axis_formatter_locator(formatter=None, locator=None, axis='x', ax=None):
             ax.yaxis.set_major_locator(locator)
         else:
             pass
+
+
+def axis_translate_months(language='eng-rus', capitalize=True, ax=None):
+
+    if language=='rus-eng':
+        locale.setlocale(locale.LC_ALL,'en_US')
+    elif language=='eng-rus':
+        locale.setlocale(locale.LC_ALL,'ru_RU.UTF-8')
+
+    if capitalize:
+        if ax is None: ax = plt.gca()
+        formatter = lambda x, pos: mpl.dates.DateFormatter('%b')(x, pos).capitalize()
+        ax.xaxis.set_major_formatter(mpl.ticker.FuncFormatter(formatter))
 
 
 
