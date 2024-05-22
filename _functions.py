@@ -2198,7 +2198,154 @@ def transform_fill_values_by_previous(data, kind='row', row_index=None, column_n
                 df.loc[i, column_name] = j
     else:
         print("Argument 'kind' must be 'row' or 'column'")
+        
     return df
+
+
+def transform_resources(
+        data, year, FD_partial_names_list, federal_districts_names_list,
+        drop_rows_end=None):
+    
+    df_raw = data.copy()
+    # create slice to remove rows at the end of df
+    if drop_rows_end is None:
+        slice_ = slice(7, None)
+    else:
+        slice_ = slice(7, -drop_rows_end)
+    # remove rows at the end of the df
+    df = df_raw.iloc[:, :4][slice_].copy()
+    df['Unnamed: 0'] = [i.strip() for i in df['Unnamed: 0']]
+    df['Unnamed: 0'] = [i.strip() for i in df['Unnamed: 0']]
+    # replace symbols
+    replace_dict_part = {
+        '/n': '',
+        '\n': ' ',
+        'Kемеровская область': 'Кемеровская область',
+        'г. Москва': 'Москва',
+        'г. Санкт-Петербург': 'Санкт-Петербург',
+        'г. Севастополь': 'Севастополь'
+    }
+    df = df.replace(replace_dict_part, regex=True)
+    replace_dict_full = {
+        ' -': np.NaN,
+        '-': np.NaN,
+        '…': np.NaN
+    }
+    df = df.replace(replace_dict_full)
+    # reset index
+    df = df.reset_index(drop=True)
+    # concatenate federal districts that names are separated in two rows
+    df = federal_district_concat(df, 'Unnamed: 0', FD_partial_names_list)
+    df = df[~df['Unnamed: 0'].isin(federal_districts_names_list)]
+    
+    df = df.rename(columns={
+        'Unnamed: 0': year,
+        'Unnamed: 1': 'Всего',
+        'Unnamed: 2': 'Городская местность',
+        'Unnamed: 3': 'Сельская местность'
+    })
+    # some clean
+    df = df.set_index(year, drop=True)
+    df.index.name = None
+    # drop unuseful regions
+    drop_list = [
+    'в том числе:                     Ханты-Мансийский  автономный округ - Югра',
+    'в том числе:                   Ненецкий автономный округ',
+    'Ямало-Ненецкий  автономный округ',
+    'Тюменская область',
+    'Архангельская область',
+    ]
+    df = df.drop(drop_list, axis=0)
+    # transform columns to values in two columns: 'variables' and 'values'
+    # rename 'variables' to 'index' becausse it will be index level1
+    # rename 'values' to year
+    df = df.melt(
+        var_name='index',
+        value_name=year,
+        ignore_index=False)
+    # create multiindex
+    df = df.set_index([df.index, 'index'], drop=True)
+    # remove multiindex names
+    df.index.names = (None, None)
+    # change order if index level0 as in 'regions_names_list'
+    # df = df.reindex(regions_names_list, level=0, axis=0)
+
+    return df
+
+
+def federal_district_concat(data, column_name, federal_district_list):
+    '''
+    Concat two rows with federal district names
+
+    Raw:
+    | column_name       |
+    -----------------------------
+    | Южный             | NaN   |
+    -----------------------------  -> concat this rows and drop one with NaN
+    | федеральный округ | 12345 |
+    -----------------------------
+
+    Result:
+    ---------------------------------
+    | Южный федеральный округ | 12345
+    ---------------------------------
+
+    Arguments:
+    df,
+    column_name - column with regions names
+    federal_district_list - list with first name of FD ('Южный', 'Центральный', 'Северо-Западный')
+    
+    '''
+    df = data.copy()
+    
+    for index in df.index:
+        if df.loc[index, column_name] in federal_district_list:
+            new_value = (df.loc[index, column_name]
+                         + ' '
+                         + df.loc[index+1, column_name])
+            df.loc[index+1, column_name] = new_value
+            df = df.drop(index, axis=0)
+            
+    return df
+
+
+def get_data_two_level(data, level0=None, level1=None, indexes=None, kind='column'):
+    
+    df = data.copy()
+    # check 'kind' argument
+    if kind == 'index':
+        df = df.T
+    elif kind == 'column':
+        pass
+    else:
+        print("'kind' argument must be 'column' or 'index'")
+    # turn 'level' arguments to slice
+    if (level0 is None) & (level1 is None):
+        return df
+    if level0 is None:
+        level0 = slice(level0)
+    if level1 is None:
+        level1 = slice(level1)
+    # adress to levels
+    df = df.loc[:, (level0, level1)]
+    # drop multiindex level0 if both 'levels' are single
+    if isinstance(level0, str) & isinstance(level1, str):
+        if isinstance(df, pd.Series):
+            df = df.to_frame()
+            df.columns = df.columns.droplevel(1)
+            df.columns.name = data.columns.names[0]
+        else:
+            df.columns = df.columns.droplevel(0)
+    else:
+        if isinstance(level0, str):
+            df.columns = df.columns.droplevel(0)
+        if isinstance(level1, str):
+            df.columns = df.columns.droplevel(1)
+    # return 
+    if kind == 'index':
+        return df.T
+    if kind == 'column':
+        return df
 
 
 
