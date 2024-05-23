@@ -1521,7 +1521,7 @@ def plot_fill_between(x, y1, y2, color, alpha=0.1, ax=None, **kwargs):
 
 
 def plot_timemarker(
-        text, x, y_text, y_line, delta, color_text=None, color_scatter='#AF4035',
+        text, x, y_text, y_line, delta, y_min=0, color_text=None, color_scatter='#AF4035',
         ha='left', weight='bold', size=8, show=None, ax=None, **kwargs):
     
     if ha == 'right':
@@ -1536,7 +1536,7 @@ def plot_timemarker(
     # line
     ax.axvline(
         x=x,
-        ymin=0, ymax=y_line, lw=0.85, ls=':',
+        ymin=y_min, ymax=y_line, lw=0.85, ls=':',
         color=color_scatter, alpha=0.75, zorder=0)
     # text
     x_text = x + delta
@@ -1987,10 +1987,14 @@ def plot_hline(y=0, xmin=0.01, xmax=0.99, lw=0.75, ls='--', zorder=-9, color='#C
         color=color, zorder=zorder, **kwargs)
 
 
-def axis_formatter_locator(formatter=None, locator=None, axis='x', ax=None):
+def axis_formatter_locator(
+        formatter=None, locator=None, axis='x',
+        months_capitalize=False, months_upper=False, ax=None):
     '''
-    mpl.dates.formatter
-    mpl.dates.locator
+    Formatter e.g.:
+        mpl.dates.DateFormatter('%b')
+    Locator e.g.:
+        mpl.dates.MonthLocator([1,4,7,10])
     '''
     
     if ax is None: ax = plt.gca()
@@ -2000,13 +2004,21 @@ def axis_formatter_locator(formatter=None, locator=None, axis='x', ax=None):
 
     if axis == 'x':
         if formatter is not None:
-            ax.xaxis.set_major_formatter(formatter)
+            if months_capitalize:
+                formatter_cap = lambda x, pos: formatter(x, pos).capitalize()
+                ax.xaxis.set_major_formatter(mpl.ticker.FuncFormatter(formatter_cap))
+            elif months_upper:
+                formatter_cap = lambda x, pos: formatter(x, pos).upper()
+                ax.xaxis.set_major_formatter(mpl.ticker.FuncFormatter(formatter_cap))
+            else:
+                ax.xaxis.set_major_formatter(formatter)
         else:
             pass
         if locator is not None:
             ax.xaxis.set_major_locator(locator)
         else:
             pass
+        
 
     if axis == 'y':
         if formatter is not None:
@@ -2038,7 +2050,7 @@ def axis_add_date_xaxis(
         offset=20,
         labelcolor=None,
         capitalize=True,
-        dateformat='%Y',
+        # dateformat='%Y',
         ax=None):
     # set ax
     if ax is None: ax = plt.gca()
@@ -2056,7 +2068,7 @@ def axis_add_date_xaxis(
     ax_.tick_params(labelcolor=labelcolor)
 
     if capitalize:
-        function = lambda x, pos: mpl.dates.DateFormatter(dateformat)(x, pos).capitalize()
+        function = lambda x, pos: formatter(x, pos).capitalize()
         ax_.xaxis.set_major_formatter(mpl.ticker.FuncFormatter(function))
         ax_.xaxis.set_minor_formatter(mpl.ticker.FuncFormatter(function))
 
@@ -2110,7 +2122,7 @@ def saveit_excel(data, filename, path, sheet):
                 excel_writer=writer,
                 sheet_name=sheet
             )
-            print(f"'{sheet}' sheet created if file '{filename + '.xlsx'}'")
+            print(f"'{sheet}' sheet created in file '{filename + '.xlsx'}'")
     # if not exist - create new .xlsx
     else:
         data.to_excel(
