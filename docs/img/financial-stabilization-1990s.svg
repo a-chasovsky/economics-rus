@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="608.9625pt" height="399.575937pt" viewBox="0 0 608.9625 399.575937" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="597.8025pt" height="399.575937pt" viewBox="0 0 597.8025 399.575937" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2024-05-23T14:51:41.016450</dc:date>
+    <dc:date>2024-05-23T14:58:22.326603</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -22,8 +22,8 @@
  <g id="figure_1">
   <g id="patch_1">
    <path d="M 0 399.575937 
-L 608.9625 399.575937 
-L 608.9625 0 
+L 597.8025 399.575937 
+L 597.8025 0 
 L 0 0 
 L 0 399.575937 
 z
@@ -32,38 +32,38 @@ z
   <g id="axes_1">
    <g id="patch_2">
     <path d="M 34.7375 160.604437 
-L 592.7375 160.604437 
-L 592.7375 27.548437 
+L 581.5775 160.604437 
+L 581.5775 27.548437 
 L 34.7375 27.548437 
 L 34.7375 160.604437 
 z
 " style="fill: none"/>
    </g>
    <g id="line2d_1">
-    <path d="M 72.548588 160.604437 
-L 72.548588 47.506837 
-" clip-path="url(#pd19be352f0)" style="fill: none; stroke-dasharray: 0.85,1.4025; stroke-dashoffset: 0; stroke: #af5a51; stroke-opacity: 0.75; stroke-width: 0.85"/>
+    <path d="M 71.792367 160.604437 
+L 71.792367 47.506837 
+" clip-path="url(#pcf247a6cb5)" style="fill: none; stroke-dasharray: 0.85,1.4025; stroke-dashoffset: 0; stroke: #af5a51; stroke-opacity: 0.75; stroke-width: 0.85"/>
    </g>
    <g id="line2d_2">
-    <path d="M 143.969533 160.604437 
-L 143.969533 67.465237 
-" clip-path="url(#pd19be352f0)" style="fill: none; stroke-dasharray: 0.85,1.4025; stroke-dashoffset: 0; stroke: #af4035; stroke-opacity: 0.75; stroke-width: 0.85"/>
+    <path d="M 141.784892 160.604437 
+L 141.784892 67.465237 
+" clip-path="url(#pcf247a6cb5)" style="fill: none; stroke-dasharray: 0.85,1.4025; stroke-dashoffset: 0; stroke: #af4035; stroke-opacity: 0.75; stroke-width: 0.85"/>
    </g>
    <g id="line2d_3">
-    <path d="M 228.376104 160.604437 
-L 228.376104 83.431957 
-" clip-path="url(#pd19be352f0)" style="fill: none; stroke-dasharray: 0.85,1.4025; stroke-dashoffset: 0; stroke: #af4035; stroke-opacity: 0.75; stroke-width: 0.85"/>
+    <path d="M 224.503332 160.604437 
+L 224.503332 83.431957 
+" clip-path="url(#pcf247a6cb5)" style="fill: none; stroke-dasharray: 0.85,1.4025; stroke-dashoffset: 0; stroke: #af4035; stroke-opacity: 0.75; stroke-width: 0.85"/>
    </g>
    <g id="line2d_4">
-    <path d="M 348.875077 160.604437 
-L 348.875077 116.695957 
-" clip-path="url(#pd19be352f0)" style="fill: none; stroke-dasharray: 0.85,1.4025; stroke-dashoffset: 0; stroke: #af4035; stroke-opacity: 0.75; stroke-width: 0.85"/>
+    <path d="M 342.592325 160.604437 
+L 342.592325 116.695957 
+" clip-path="url(#pcf247a6cb5)" style="fill: none; stroke-dasharray: 0.85,1.4025; stroke-dashoffset: 0; stroke: #af4035; stroke-opacity: 0.75; stroke-width: 0.85"/>
    </g>
    <g id="axes_2">
     <g id="patch_3">
      <path d="M 34.7375 160.604437 
-L 592.7375 160.604437 
-L 592.7375 160.604437 
+L 581.5775 160.604437 
+L 581.5775 160.604437 
 L 34.7375 160.604437 
 L 34.7375 160.604437 
 z
@@ -74,7 +74,7 @@ z
       <g id="line2d_5">
        <path d="M 34.7375 160.604437 
 L 34.7375 160.604437 
-" clip-path="url(#p2311cabd8b)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+" clip-path="url(#p2c13710802)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_1">
        <!-- 1992 -->
@@ -183,13 +183,13 @@ z
      </g>
      <g id="xtick_2">
       <g id="line2d_6">
-       <path d="M 104.630724 160.604437 
-L 104.630724 160.604437 
-" clip-path="url(#p2311cabd8b)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 103.232859 160.604437 
+L 103.232859 160.604437 
+" clip-path="url(#p2c13710802)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_2">
        <!-- 1993 -->
-       <g style="fill: #808080" transform="translate(95.605724 191.311937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(94.207859 191.311937) scale(0.08 -0.08)">
         <defs>
          <path id="Ubuntu-33" d="M 1446 435 
 Q 2016 435 2262 659 
@@ -249,13 +249,13 @@ z
      </g>
      <g id="xtick_3">
       <g id="line2d_7">
-       <path d="M 174.332983 160.604437 
-L 174.332983 160.604437 
-" clip-path="url(#p2311cabd8b)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 171.541073 160.604437 
+L 171.541073 160.604437 
+" clip-path="url(#p2c13710802)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_3">
        <!-- 1994 -->
-       <g style="fill: #808080" transform="translate(165.307983 191.311937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(162.516073 191.311937) scale(0.08 -0.08)">
         <defs>
          <path id="Ubuntu-34" d="M 256 1536 
 Q 378 1818 589 2192 
@@ -292,13 +292,13 @@ z
      </g>
      <g id="xtick_4">
       <g id="line2d_8">
-       <path d="M 244.035241 160.604437 
-L 244.035241 160.604437 
-" clip-path="url(#p2311cabd8b)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 239.849286 160.604437 
+L 239.849286 160.604437 
+" clip-path="url(#p2c13710802)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_4">
        <!-- 1995 -->
-       <g style="fill: #808080" transform="translate(235.010241 191.311937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(230.824286 191.311937) scale(0.08 -0.08)">
         <defs>
          <path id="Ubuntu-35" d="M 1274 2726 
 Q 2240 2688 2691 2304 
@@ -345,13 +345,13 @@ z
      </g>
      <g id="xtick_5">
       <g id="line2d_9">
-       <path d="M 313.7375 160.604437 
-L 313.7375 160.604437 
-" clip-path="url(#p2311cabd8b)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 308.1575 160.604437 
+L 308.1575 160.604437 
+" clip-path="url(#p2c13710802)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_5">
        <!-- 1996 -->
-       <g style="fill: #808080" transform="translate(304.7125 191.311937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(299.1325 191.311937) scale(0.08 -0.08)">
         <defs>
          <path id="Ubuntu-36" d="M 403 1779 
 Q 403 2426 582 2922 
@@ -403,13 +403,13 @@ z
      </g>
      <g id="xtick_6">
       <g id="line2d_10">
-       <path d="M 383.630724 160.604437 
-L 383.630724 160.604437 
-" clip-path="url(#p2311cabd8b)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 376.652859 160.604437 
+L 376.652859 160.604437 
+" clip-path="url(#p2c13710802)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_6">
        <!-- 1997 -->
-       <g style="fill: #808080" transform="translate(374.605724 191.311937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(367.627859 191.311937) scale(0.08 -0.08)">
         <defs>
          <path id="Ubuntu-37" d="M 1043 0 
 Q 1082 512 1226 1078 
@@ -437,13 +437,13 @@ z
      </g>
      <g id="xtick_7">
       <g id="line2d_11">
-       <path d="M 453.332983 160.604437 
-L 453.332983 160.604437 
-" clip-path="url(#p2311cabd8b)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 444.961073 160.604437 
+L 444.961073 160.604437 
+" clip-path="url(#p2c13710802)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_7">
        <!-- 1998 -->
-       <g style="fill: #808080" transform="translate(444.307983 191.311937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(435.936073 191.311937) scale(0.08 -0.08)">
         <defs>
          <path id="Ubuntu-38" d="M 3258 1152 
 Q 3258 883 3165 656 
@@ -516,13 +516,13 @@ z
      </g>
      <g id="xtick_8">
       <g id="line2d_12">
-       <path d="M 523.035241 160.604437 
-L 523.035241 160.604437 
-" clip-path="url(#p2311cabd8b)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 513.269286 160.604437 
+L 513.269286 160.604437 
+" clip-path="url(#p2c13710802)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_8">
        <!-- 1999 -->
-       <g style="fill: #808080" transform="translate(514.010241 191.311937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(504.244286 191.311937) scale(0.08 -0.08)">
         <use xlink:href="#Ubuntu-31"/>
         <use xlink:href="#Ubuntu-39" x="56.399994"/>
         <use xlink:href="#Ubuntu-39" x="112.799988"/>
@@ -532,13 +532,13 @@ L 523.035241 160.604437
      </g>
      <g id="xtick_9">
       <g id="line2d_13">
-       <path d="M 592.7375 160.604437 
-L 592.7375 160.604437 
-" clip-path="url(#p2311cabd8b)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 581.5775 160.604437 
+L 581.5775 160.604437 
+" clip-path="url(#p2c13710802)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_9">
        <!-- 2000 -->
-       <g style="fill: #808080" transform="translate(583.7125 191.311937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(572.5525 191.311937) scale(0.08 -0.08)">
         <defs>
          <path id="Ubuntu-30" d="M 320 2221 
 Q 320 3334 713 3936 
@@ -584,12 +584,12 @@ z
     <g id="xtick_10">
      <g id="line2d_14">
       <defs>
-       <path id="mce4c3f4047" d="M 0 0 
+       <path id="m09834f6292" d="M 0 0 
 L 0 3 
 " style="stroke: #cccccc; stroke-width: 0.75"/>
       </defs>
       <g>
-       <use xlink:href="#mce4c3f4047" x="34.7375" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="34.7375" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_10">
@@ -714,12 +714,12 @@ z
     <g id="xtick_11">
      <g id="line2d_15">
       <g>
-       <use xlink:href="#mce4c3f4047" x="52.115323" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="51.767767" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_11">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(44.795323 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(44.447767 180.811937) scale(0.08 -0.08)">
        <defs>
         <path id="Ubuntu-410" d="M 3514 0 
 Q 3405 288 3309 566 
@@ -798,12 +798,12 @@ z
     <g id="xtick_12">
      <g id="line2d_16">
       <g>
-       <use xlink:href="#mce4c3f4047" x="69.493147" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="68.798034" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_12">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(60.945647 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(60.250534 180.811937) scale(0.08 -0.08)">
        <defs>
         <path id="Ubuntu-418" d="M 550 0 
 L 550 4435 
@@ -895,12 +895,12 @@ z
     <g id="xtick_13">
      <g id="line2d_17">
       <g>
-       <use xlink:href="#mce4c3f4047" x="87.061935" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="86.015447" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_13">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(79.95006 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(78.903572 180.811937) scale(0.08 -0.08)">
        <defs>
         <path id="Ubuntu-41e" d="M 371 2221 
 Q 371 2790 540 3225 
@@ -986,12 +986,12 @@ z
     <g id="xtick_14">
      <g id="line2d_18">
       <g>
-       <use xlink:href="#mce4c3f4047" x="104.630724" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="103.232859" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_14">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(97.555099 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(96.157234 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -1001,12 +1001,12 @@ z
     <g id="xtick_15">
      <g id="line2d_19">
       <g>
-       <use xlink:href="#mce4c3f4047" x="121.817582" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="120.07598" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_15">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(114.497582 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(112.75598 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -1016,12 +1016,12 @@ z
     <g id="xtick_16">
      <g id="line2d_20">
       <g>
-       <use xlink:href="#mce4c3f4047" x="139.195406" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="137.106247" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_16">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(130.647906 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(128.558747 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -1031,12 +1031,12 @@ z
     <g id="xtick_17">
      <g id="line2d_21">
       <g>
-       <use xlink:href="#mce4c3f4047" x="156.764194" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="154.32366" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_17">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(149.652319 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(147.211785 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -1046,12 +1046,12 @@ z
     <g id="xtick_18">
      <g id="line2d_22">
       <g>
-       <use xlink:href="#mce4c3f4047" x="174.332983" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="171.541073" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_18">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(167.257358 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(164.465448 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -1061,12 +1061,12 @@ z
     <g id="xtick_19">
      <g id="line2d_23">
       <g>
-       <use xlink:href="#mce4c3f4047" x="191.519841" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="188.384194" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_19">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(184.199841 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(181.064194 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -1076,12 +1076,12 @@ z
     <g id="xtick_20">
      <g id="line2d_24">
       <g>
-       <use xlink:href="#mce4c3f4047" x="208.897664" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="205.414461" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_20">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(200.350164 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(196.866961 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -1091,12 +1091,12 @@ z
     <g id="xtick_21">
      <g id="line2d_25">
       <g>
-       <use xlink:href="#mce4c3f4047" x="226.466453" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="222.631874" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_21">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(219.354578 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(215.519999 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -1106,12 +1106,12 @@ z
     <g id="xtick_22">
      <g id="line2d_26">
       <g>
-       <use xlink:href="#mce4c3f4047" x="244.035241" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="239.849286" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_22">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(236.959616 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(232.773661 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -1121,12 +1121,12 @@ z
     <g id="xtick_23">
      <g id="line2d_27">
       <g>
-       <use xlink:href="#mce4c3f4047" x="261.2221" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="256.692408" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_23">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(253.9021 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(249.372408 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -1136,12 +1136,12 @@ z
     <g id="xtick_24">
      <g id="line2d_28">
       <g>
-       <use xlink:href="#mce4c3f4047" x="278.599923" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="273.722675" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_24">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(270.052423 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(265.175175 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -1151,12 +1151,12 @@ z
     <g id="xtick_25">
      <g id="line2d_29">
       <g>
-       <use xlink:href="#mce4c3f4047" x="296.168711" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="290.940087" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_25">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(289.056836 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(283.828212 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -1166,12 +1166,12 @@ z
     <g id="xtick_26">
      <g id="line2d_30">
       <g>
-       <use xlink:href="#mce4c3f4047" x="313.7375" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="308.1575" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_26">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(306.661875 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(301.081875 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -1181,12 +1181,12 @@ z
     <g id="xtick_27">
      <g id="line2d_31">
       <g>
-       <use xlink:href="#mce4c3f4047" x="331.115323" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="325.187767" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_27">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(323.795323 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(317.867767 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -1196,12 +1196,12 @@ z
     <g id="xtick_28">
      <g id="line2d_32">
       <g>
-       <use xlink:href="#mce4c3f4047" x="348.493147" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="342.218034" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_28">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(339.945647 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(333.670534 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -1211,12 +1211,12 @@ z
     <g id="xtick_29">
      <g id="line2d_33">
       <g>
-       <use xlink:href="#mce4c3f4047" x="366.061935" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="359.435447" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_29">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(358.95006 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(352.323572 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -1226,12 +1226,12 @@ z
     <g id="xtick_30">
      <g id="line2d_34">
       <g>
-       <use xlink:href="#mce4c3f4047" x="383.630724" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="376.652859" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_30">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(376.555099 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(369.577234 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -1241,12 +1241,12 @@ z
     <g id="xtick_31">
      <g id="line2d_35">
       <g>
-       <use xlink:href="#mce4c3f4047" x="400.817582" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="393.49598" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_31">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(393.497582 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(386.17598 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -1256,12 +1256,12 @@ z
     <g id="xtick_32">
      <g id="line2d_36">
       <g>
-       <use xlink:href="#mce4c3f4047" x="418.195406" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="410.526247" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_32">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(409.647906 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(401.978747 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -1271,12 +1271,12 @@ z
     <g id="xtick_33">
      <g id="line2d_37">
       <g>
-       <use xlink:href="#mce4c3f4047" x="435.764194" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="427.74366" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_33">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(428.652319 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(420.631785 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -1286,12 +1286,12 @@ z
     <g id="xtick_34">
      <g id="line2d_38">
       <g>
-       <use xlink:href="#mce4c3f4047" x="453.332983" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="444.961073" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_34">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(446.257358 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(437.885448 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -1301,12 +1301,12 @@ z
     <g id="xtick_35">
      <g id="line2d_39">
       <g>
-       <use xlink:href="#mce4c3f4047" x="470.519841" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="461.804194" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_35">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(463.199841 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(454.484194 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -1316,12 +1316,12 @@ z
     <g id="xtick_36">
      <g id="line2d_40">
       <g>
-       <use xlink:href="#mce4c3f4047" x="487.897664" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="478.834461" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_36">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(479.350164 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(470.286961 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -1331,12 +1331,12 @@ z
     <g id="xtick_37">
      <g id="line2d_41">
       <g>
-       <use xlink:href="#mce4c3f4047" x="505.466453" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="496.051874" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_37">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(498.354578 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(488.939999 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -1346,12 +1346,12 @@ z
     <g id="xtick_38">
      <g id="line2d_42">
       <g>
-       <use xlink:href="#mce4c3f4047" x="523.035241" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="513.269286" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_38">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(515.959616 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(506.193661 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -1361,12 +1361,12 @@ z
     <g id="xtick_39">
      <g id="line2d_43">
       <g>
-       <use xlink:href="#mce4c3f4047" x="540.2221" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="530.112408" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_39">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(532.9021 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(522.792408 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -1376,12 +1376,12 @@ z
     <g id="xtick_40">
      <g id="line2d_44">
       <g>
-       <use xlink:href="#mce4c3f4047" x="557.599923" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="547.142675" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_40">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(549.052423 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(538.595175 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -1391,12 +1391,12 @@ z
     <g id="xtick_41">
      <g id="line2d_45">
       <g>
-       <use xlink:href="#mce4c3f4047" x="575.168711" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="564.360087" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_41">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(568.056836 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(557.248212 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -1406,12 +1406,12 @@ z
     <g id="xtick_42">
      <g id="line2d_46">
       <g>
-       <use xlink:href="#mce4c3f4047" x="592.7375" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m09834f6292" x="581.5775" y="165.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_42">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(585.661875 180.811937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(574.501875 180.811937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -1423,12 +1423,12 @@ z
     <g id="ytick_1">
      <g id="line2d_47">
       <defs>
-       <path id="ma993aa1b43" d="M 0 0 
+       <path id="m1e8ee97caf" d="M 0 0 
 L -3 0 
 " style="stroke: #cccccc; stroke-width: 0.75"/>
       </defs>
       <g>
-       <use xlink:href="#ma993aa1b43" x="29.7375" y="160.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m1e8ee97caf" x="29.7375" y="160.604437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_43">
@@ -1442,7 +1442,7 @@ L -3 0
     <g id="ytick_2">
      <g id="line2d_48">
       <g>
-       <use xlink:href="#ma993aa1b43" x="29.7375" y="138.428437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m1e8ee97caf" x="29.7375" y="138.428437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_44">
@@ -1457,7 +1457,7 @@ L -3 0
     <g id="ytick_3">
      <g id="line2d_49">
       <g>
-       <use xlink:href="#ma993aa1b43" x="29.7375" y="116.252437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m1e8ee97caf" x="29.7375" y="116.252437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_45">
@@ -1472,7 +1472,7 @@ L -3 0
     <g id="ytick_4">
      <g id="line2d_50">
       <g>
-       <use xlink:href="#ma993aa1b43" x="29.7375" y="94.076437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m1e8ee97caf" x="29.7375" y="94.076437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_46">
@@ -1487,7 +1487,7 @@ L -3 0
     <g id="ytick_5">
      <g id="line2d_51">
       <g>
-       <use xlink:href="#ma993aa1b43" x="29.7375" y="71.900437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m1e8ee97caf" x="29.7375" y="71.900437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_47">
@@ -1502,7 +1502,7 @@ L -3 0
     <g id="ytick_6">
      <g id="line2d_52">
       <g>
-       <use xlink:href="#ma993aa1b43" x="29.7375" y="49.724437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m1e8ee97caf" x="29.7375" y="49.724437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_48">
@@ -1517,7 +1517,7 @@ L -3 0
     <g id="ytick_7">
      <g id="line2d_53">
       <g>
-       <use xlink:href="#ma993aa1b43" x="29.7375" y="27.548437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
+       <use xlink:href="#m1e8ee97caf" x="29.7375" y="27.548437" style="fill: #cccccc; stroke: #cccccc; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_49">
@@ -1531,843 +1531,844 @@ L -3 0
     </g>
    </g>
    <g id="PolyCollection_1">
-    <path d="M 49.932365 77.419925 
-L 49.932365 171.692437 
-L 50.392815 171.692437 
-L 50.853266 171.692437 
-L 51.313716 171.692437 
-L 51.774166 171.692437 
-L 52.234617 171.692437 
-L 52.695067 171.692437 
-L 53.155518 171.692437 
-L 53.615968 171.692437 
-L 54.076419 171.692437 
-L 54.536869 171.692437 
-L 54.99732 171.692437 
-L 55.45777 171.692437 
-L 55.91822 171.692437 
-L 56.378671 171.692437 
-L 56.839121 171.692437 
+    <path d="M 49.628467 77.419925 
+L 49.628467 171.692437 
+L 50.079709 171.692437 
+L 50.53095 171.692437 
+L 50.982192 171.692437 
+L 51.433433 171.692437 
+L 51.884675 171.692437 
+L 52.335916 171.692437 
+L 52.787157 171.692437 
+L 53.238399 171.692437 
+L 53.68964 171.692437 
+L 54.140882 171.692437 
+L 54.592123 171.692437 
+L 55.043365 171.692437 
+L 55.494606 171.692437 
+L 55.945847 171.692437 
+L 56.397089 171.692437 
+L 56.84833 171.692437 
 L 57.299572 171.692437 
-L 57.760022 171.692437 
-L 58.220473 171.692437 
-L 58.680923 171.692437 
-L 59.141374 171.692437 
-L 59.601824 171.692437 
-L 60.062274 171.692437 
-L 60.522725 171.692437 
-L 60.983175 171.692437 
-L 61.443626 171.692437 
-L 61.904076 171.692437 
-L 62.364527 171.692437 
-L 62.824977 171.692437 
-L 63.285428 171.692437 
-L 63.745878 171.692437 
-L 64.206328 171.692437 
-L 64.666779 171.692437 
-L 65.127229 171.692437 
-L 65.58768 171.692437 
-L 66.04813 171.692437 
-L 66.508581 171.692437 
-L 66.969031 171.692437 
-L 67.429482 171.692437 
-L 67.889932 171.692437 
-L 68.350382 171.692437 
-L 68.810833 171.692437 
-L 69.271283 171.692437 
-L 69.731734 171.692437 
-L 70.192184 171.692437 
-L 70.652635 171.692437 
-L 71.113085 171.692437 
-L 71.573536 171.692437 
-L 72.033986 171.692437 
-L 72.494436 171.692437 
-L 72.954887 171.692437 
-L 73.415337 171.692437 
-L 73.875788 171.692437 
-L 74.336238 171.692437 
-L 74.796689 171.692437 
-L 75.257139 171.692437 
-L 75.717589 171.692437 
-L 76.17804 171.692437 
-L 76.63849 171.692437 
-L 77.098941 171.692437 
-L 77.559391 171.692437 
-L 78.019842 171.692437 
-L 78.480292 171.692437 
-L 78.940743 171.692437 
-L 79.401193 171.692437 
+L 57.750813 171.692437 
+L 58.202055 171.692437 
+L 58.653296 171.692437 
+L 59.104537 171.692437 
+L 59.555779 171.692437 
+L 60.00702 171.692437 
+L 60.458262 171.692437 
+L 60.909503 171.692437 
+L 61.360745 171.692437 
+L 61.811986 171.692437 
+L 62.263228 171.692437 
+L 62.714469 171.692437 
+L 63.16571 171.692437 
+L 63.616952 171.692437 
+L 64.068193 171.692437 
+L 64.519435 171.692437 
+L 64.970676 171.692437 
+L 65.421918 171.692437 
+L 65.873159 171.692437 
+L 66.3244 171.692437 
+L 66.775642 171.692437 
+L 67.226883 171.692437 
+L 67.678125 171.692437 
+L 68.129366 171.692437 
+L 68.580608 171.692437 
+L 69.031849 171.692437 
+L 69.48309 171.692437 
+L 69.934332 171.692437 
+L 70.385573 171.692437 
+L 70.836815 171.692437 
+L 71.288056 171.692437 
+L 71.739298 171.692437 
+L 72.190539 171.692437 
+L 72.641781 171.692437 
+L 73.093022 171.692437 
+L 73.544263 171.692437 
+L 73.995505 171.692437 
+L 74.446746 171.692437 
+L 74.897988 171.692437 
+L 75.349229 171.692437 
+L 75.800471 171.692437 
+L 76.251712 171.692437 
+L 76.702953 171.692437 
+L 77.154195 171.692437 
+L 77.605436 171.692437 
+L 78.056678 171.692437 
+L 78.507919 171.692437 
+L 78.959161 171.692437 
+L 79.410402 171.692437 
 L 79.861643 171.692437 
-L 80.322094 171.692437 
-L 80.782544 171.692437 
-L 81.242995 171.692437 
-L 81.703445 171.692437 
-L 82.163896 171.692437 
-L 82.624346 171.692437 
-L 83.084797 171.692437 
-L 83.545247 171.692437 
-L 84.005697 171.692437 
-L 84.466148 171.692437 
-L 84.926598 171.692437 
-L 85.387049 171.692437 
-L 85.847499 171.692437 
-L 86.30795 171.692437 
-L 86.7684 171.692437 
-L 87.228851 171.692437 
-L 87.689301 171.692437 
-L 88.149751 171.692437 
-L 88.610202 171.692437 
-L 89.070652 171.692437 
-L 89.531103 171.692437 
-L 89.991553 171.692437 
-L 90.452004 171.692437 
-L 90.912454 171.692437 
-L 91.372905 171.692437 
-L 91.833355 171.692437 
-L 92.293805 171.692437 
-L 92.754256 171.692437 
-L 93.214706 171.692437 
-L 93.675157 171.692437 
-L 94.135607 171.692437 
-L 94.596058 171.692437 
-L 95.056508 171.692437 
-L 95.516959 171.692437 
-L 95.977409 171.692437 
-L 96.437859 171.692437 
-L 96.89831 171.692437 
-L 97.35876 171.692437 
-L 97.819211 171.692437 
-L 98.279661 171.692437 
-L 98.740112 171.692437 
-L 99.200562 171.692437 
-L 99.661013 171.692437 
-L 100.121463 171.692437 
-L 100.581913 171.692437 
-L 101.042364 171.692437 
-L 101.502814 171.692437 
-L 101.963265 171.692437 
+L 80.312885 171.692437 
+L 80.764126 171.692437 
+L 81.215368 171.692437 
+L 81.666609 171.692437 
+L 82.117851 171.692437 
+L 82.569092 171.692437 
+L 83.020334 171.692437 
+L 83.471575 171.692437 
+L 83.922816 171.692437 
+L 84.374058 171.692437 
+L 84.825299 171.692437 
+L 85.276541 171.692437 
+L 85.727782 171.692437 
+L 86.179024 171.692437 
+L 86.630265 171.692437 
+L 87.081506 171.692437 
+L 87.532748 171.692437 
+L 87.983989 171.692437 
+L 88.435231 171.692437 
+L 88.886472 171.692437 
+L 89.337714 171.692437 
+L 89.788955 171.692437 
+L 90.240196 171.692437 
+L 90.691438 171.692437 
+L 91.142679 171.692437 
+L 91.593921 171.692437 
+L 92.045162 171.692437 
+L 92.496404 171.692437 
+L 92.947645 171.692437 
+L 93.398887 171.692437 
+L 93.850128 171.692437 
+L 94.301369 171.692437 
+L 94.752611 171.692437 
+L 95.203852 171.692437 
+L 95.655094 171.692437 
+L 96.106335 171.692437 
+L 96.557577 171.692437 
+L 97.008818 171.692437 
+L 97.460059 171.692437 
+L 97.911301 171.692437 
+L 98.362542 171.692437 
+L 98.813784 171.692437 
+L 99.265025 171.692437 
+L 99.716267 171.692437 
+L 100.167508 171.692437 
+L 100.61875 171.692437 
+L 101.069991 171.692437 
+L 101.521232 171.692437 
+L 101.972474 171.692437 
 L 102.423715 171.692437 
-L 102.884166 171.692437 
-L 103.344616 171.692437 
-L 103.805067 171.692437 
-L 104.265517 171.692437 
-L 104.725967 171.692437 
-L 105.186418 171.692437 
-L 105.646868 171.692437 
-L 106.107319 171.692437 
-L 106.567769 171.692437 
-L 107.02822 171.692437 
-L 107.48867 171.692437 
-L 107.949121 171.692437 
-L 108.409571 171.692437 
-L 108.870021 171.692437 
-L 109.330472 171.692437 
-L 109.790922 171.692437 
-L 110.251373 171.692437 
-L 110.711823 171.692437 
-L 111.172274 171.692437 
-L 111.632724 171.692437 
-L 112.093175 171.692437 
-L 112.553625 171.692437 
-L 113.014075 171.692437 
-L 113.474526 171.692437 
-L 113.934976 171.692437 
-L 114.395427 171.692437 
-L 114.855877 171.692437 
-L 115.316328 171.692437 
-L 115.776778 171.692437 
-L 116.237229 171.692437 
-L 116.697679 171.692437 
-L 117.158129 171.692437 
-L 117.61858 171.692437 
-L 118.07903 171.692437 
-L 118.539481 171.692437 
-L 118.999931 171.692437 
-L 119.460382 171.692437 
-L 119.920832 171.692437 
-L 120.381283 171.692437 
-L 120.841733 171.692437 
-L 121.302183 171.692437 
-L 121.762634 171.692437 
-L 122.223084 171.692437 
-L 122.683535 171.692437 
-L 123.143985 171.692437 
-L 123.604436 171.692437 
-L 124.064886 171.692437 
-L 124.525337 171.692437 
+L 102.874957 171.692437 
+L 103.326198 171.692437 
+L 103.77744 171.692437 
+L 104.228681 171.692437 
+L 104.679922 171.692437 
+L 105.131164 171.692437 
+L 105.582405 171.692437 
+L 106.033647 171.692437 
+L 106.484888 171.692437 
+L 106.93613 171.692437 
+L 107.387371 171.692437 
+L 107.838612 171.692437 
+L 108.289854 171.692437 
+L 108.741095 171.692437 
+L 109.192337 171.692437 
+L 109.643578 171.692437 
+L 110.09482 171.692437 
+L 110.546061 171.692437 
+L 110.997303 171.692437 
+L 111.448544 171.692437 
+L 111.899785 171.692437 
+L 112.351027 171.692437 
+L 112.802268 171.692437 
+L 113.25351 171.692437 
+L 113.704751 171.692437 
+L 114.155993 171.692437 
+L 114.607234 171.692437 
+L 115.058475 171.692437 
+L 115.509717 171.692437 
+L 115.960958 171.692437 
+L 116.4122 171.692437 
+L 116.863441 171.692437 
+L 117.314683 171.692437 
+L 117.765924 171.692437 
+L 118.217165 171.692437 
+L 118.668407 171.692437 
+L 119.119648 171.692437 
+L 119.57089 171.692437 
+L 120.022131 171.692437 
+L 120.473373 171.692437 
+L 120.924614 171.692437 
+L 121.375856 171.692437 
+L 121.827097 171.692437 
+L 122.278338 171.692437 
+L 122.72958 171.692437 
+L 123.180821 171.692437 
+L 123.632063 171.692437 
+L 124.083304 171.692437 
+L 124.534546 171.692437 
 L 124.985787 171.692437 
-L 125.446237 171.692437 
-L 125.906688 171.692437 
-L 126.367138 171.692437 
-L 126.827589 171.692437 
-L 127.288039 171.692437 
-L 127.74849 171.692437 
-L 128.20894 171.692437 
-L 128.669391 171.692437 
-L 129.129841 171.692437 
-L 129.590291 171.692437 
-L 130.050742 171.692437 
-L 130.511192 171.692437 
-L 130.971643 171.692437 
-L 131.432093 171.692437 
-L 131.892544 171.692437 
-L 132.352994 171.692437 
-L 132.813445 171.692437 
-L 133.273895 171.692437 
-L 133.734345 171.692437 
-L 134.194796 171.692437 
-L 134.655246 171.692437 
-L 135.115697 171.692437 
-L 135.576147 171.692437 
-L 136.036598 171.692437 
-L 136.497048 171.692437 
-L 136.957499 171.692437 
-L 137.417949 171.692437 
-L 137.878399 171.692437 
-L 138.33885 171.692437 
-L 138.7993 171.692437 
-L 139.259751 171.692437 
-L 139.720201 171.692437 
-L 140.180652 171.692437 
-L 140.641102 171.692437 
-L 141.101553 171.692437 
-L 141.562003 171.692437 
-L 142.022453 171.692437 
-L 142.482904 171.692437 
-L 142.943354 171.692437 
-L 143.403805 171.692437 
-L 143.864255 171.692437 
-L 144.324706 171.692437 
-L 144.785156 171.692437 
-L 145.245607 171.692437 
-L 145.706057 171.692437 
-L 146.166507 171.692437 
-L 146.626958 171.692437 
-L 147.087408 171.692437 
+L 125.437028 171.692437 
+L 125.88827 171.692437 
+L 126.339511 171.692437 
+L 126.790753 171.692437 
+L 127.241994 171.692437 
+L 127.693236 171.692437 
+L 128.144477 171.692437 
+L 128.595718 171.692437 
+L 129.04696 171.692437 
+L 129.498201 171.692437 
+L 129.949443 171.692437 
+L 130.400684 171.692437 
+L 130.851926 171.692437 
+L 131.303167 171.692437 
+L 131.754409 171.692437 
+L 132.20565 171.692437 
+L 132.656891 171.692437 
+L 133.108133 171.692437 
+L 133.559374 171.692437 
+L 134.010616 171.692437 
+L 134.461857 171.692437 
+L 134.913099 171.692437 
+L 135.36434 171.692437 
+L 135.815581 171.692437 
+L 136.266823 171.692437 
+L 136.718064 171.692437 
+L 137.169306 171.692437 
+L 137.620547 171.692437 
+L 138.071789 171.692437 
+L 138.52303 171.692437 
+L 138.974271 171.692437 
+L 139.425513 171.692437 
+L 139.876754 171.692437 
+L 140.327996 171.692437 
+L 140.779237 171.692437 
+L 141.230479 171.692437 
+L 141.68172 171.692437 
+L 142.132962 171.692437 
+L 142.584203 171.692437 
+L 143.035444 171.692437 
+L 143.486686 171.692437 
+L 143.937927 171.692437 
+L 144.389169 171.692437 
+L 144.84041 171.692437 
+L 145.291652 171.692437 
+L 145.742893 171.692437 
+L 146.194134 171.692437 
+L 146.645376 171.692437 
+L 147.096617 171.692437 
 L 147.547859 171.692437 
-L 148.008309 171.692437 
-L 148.46876 171.692437 
-L 148.92921 171.692437 
-L 149.389661 171.692437 
-L 149.850111 171.692437 
-L 150.310561 171.692437 
-L 150.771012 171.692437 
-L 151.231462 171.692437 
-L 151.691913 171.692437 
-L 152.152363 171.692437 
-L 152.612814 171.692437 
-L 153.073264 171.692437 
-L 153.533715 171.692437 
-L 153.994165 171.692437 
-L 154.454615 171.692437 
-L 154.915066 171.692437 
-L 155.375516 171.692437 
-L 155.835967 171.692437 
-L 156.296417 171.692437 
-L 156.756868 171.692437 
-L 157.217318 171.692437 
-L 157.217318 95.603362 
-L 157.217318 95.603362 
-L 156.756868 95.166329 
-L 156.296417 94.702602 
-L 155.835967 94.211051 
-L 155.375516 93.692132 
-L 154.915066 93.1463 
-L 154.454615 92.574008 
-L 153.994165 91.975712 
-L 153.533715 91.351865 
-L 153.073264 90.702922 
-L 152.612814 90.029339 
-L 152.152363 89.331569 
-L 151.691913 88.610066 
-L 151.231462 87.865287 
-L 150.771012 87.097858 
-L 150.310561 86.314424 
-L 149.850111 85.52902 
-L 149.389661 84.756132 
-L 148.92921 84.010252 
-L 148.46876 83.305866 
-L 148.008309 82.657463 
-L 147.547859 82.079533 
-L 147.087408 81.586563 
-L 146.626958 81.193042 
-L 146.166507 80.913459 
-L 145.706057 80.762303 
-L 145.245607 80.754061 
-L 144.785156 80.900447 
-L 144.324706 81.192662 
-L 143.864255 81.612711 
-L 143.403805 82.142557 
-L 142.943354 82.764164 
-L 142.482904 83.459494 
-L 142.022453 84.21051 
-L 141.562003 84.999174 
-L 141.101553 85.807451 
-L 140.641102 86.617302 
-L 140.180652 87.410691 
-L 139.720201 88.169581 
-L 139.259751 88.875957 
-L 138.7993 89.518469 
-L 138.33885 90.101531 
-L 137.878399 90.631844 
-L 137.417949 91.116106 
-L 136.957499 91.561016 
-L 136.497048 91.973273 
-L 136.036598 92.359574 
-L 135.576147 92.72662 
-L 135.115697 93.081109 
-L 134.655246 93.429739 
-L 134.194796 93.77921 
-L 133.734345 94.13622 
-L 133.273895 94.507097 
-L 132.813445 94.89158 
-L 132.352994 95.283743 
-L 131.892544 95.677474 
-L 131.432093 96.066665 
-L 130.971643 96.445203 
-L 130.511192 96.806979 
-L 130.050742 97.145881 
-L 129.590291 97.455799 
-L 129.129841 97.730623 
-L 128.669391 97.964241 
-L 128.20894 98.150544 
-L 127.74849 98.28342 
-L 127.288039 98.358486 
-L 126.827589 98.379713 
-L 126.367138 98.353591 
-L 125.906688 98.286614 
-L 125.446237 98.185275 
-L 124.985787 98.056065 
-L 124.525337 97.905477 
-L 124.064886 97.740005 
-L 123.604436 97.56614 
-L 123.143985 97.390375 
-L 122.683535 97.219203 
-L 122.223084 97.059116 
-L 121.762634 96.916525 
-L 121.302183 96.792184 
-L 120.841733 96.677666 
-L 120.381283 96.5637 
-L 119.920832 96.441015 
-L 119.460382 96.300341 
-L 118.999931 96.132408 
-L 118.539481 95.927946 
-L 118.07903 95.677684 
-L 117.61858 95.372351 
-L 117.158129 95.002678 
-L 116.697679 94.559393 
-L 116.237229 94.033228 
-L 115.776778 93.41625 
-L 115.316328 92.71462 
-L 114.855877 91.94293 
-L 114.395427 91.115884 
-L 113.934976 90.248187 
-L 113.474526 89.354545 
-L 113.014075 88.449661 
-L 112.553625 87.548241 
-L 112.093175 86.664991 
-L 111.632724 85.814614 
-L 111.172274 85.011816 
-L 110.711823 84.271301 
-L 110.251373 83.607774 
-L 109.790922 83.031836 
-L 109.330472 82.540918 
-L 108.870021 82.129813 
-L 108.409571 81.793314 
-L 107.949121 81.526215 
-L 107.48867 81.32331 
-L 107.02822 81.179391 
-L 106.567769 81.089252 
-L 106.107319 81.047686 
-L 105.646868 81.049488 
-L 105.186418 81.089449 
-L 104.725967 81.162363 
-L 104.265517 81.263015 
-L 103.805067 81.385927 
-L 103.344616 81.525323 
-L 102.884166 81.675412 
-L 102.423715 81.830402 
-L 101.963265 81.984502 
-L 101.502814 82.131921 
-L 101.042364 82.266867 
-L 100.581913 82.383549 
-L 100.121463 82.476176 
-L 99.661013 82.538957 
-L 99.200562 82.566099 
-L 98.740112 82.551812 
-L 98.279661 82.491549 
-L 97.819211 82.389082 
-L 97.35876 82.251594 
-L 96.89831 82.086279 
-L 96.437859 81.900329 
-L 95.977409 81.70094 
-L 95.516959 81.495303 
-L 95.056508 81.290612 
-L 94.596058 81.094061 
-L 94.135607 80.912843 
-L 93.675157 80.754151 
-L 93.214706 80.625179 
-L 92.754256 80.533132 
-L 92.293805 80.487205 
-L 91.833355 80.500916 
-L 91.372905 80.588343 
-L 90.912454 80.763568 
-L 90.452004 81.040671 
-L 89.991553 81.433732 
-L 89.531103 81.956832 
-L 89.070652 82.62405 
-L 88.610202 83.449467 
-L 88.149751 84.447164 
-L 87.689301 85.63122 
-L 87.228851 87.015716 
-L 86.7684 88.61301 
-L 86.30795 90.408579 
-L 85.847499 92.366623 
-L 85.387049 94.450764 
-L 84.926598 96.624622 
-L 84.466148 98.851818 
-L 84.005697 101.095972 
-L 83.545247 103.320705 
-L 83.084797 105.489637 
-L 82.624346 107.566388 
-L 82.163896 109.514579 
-L 81.703445 111.29783 
-L 81.242995 112.879762 
-L 80.782544 114.232668 
-L 80.322094 115.366978 
-L 79.861643 116.303604 
-L 79.401193 117.063457 
-L 78.940743 117.667451 
-L 78.480292 118.136497 
-L 78.019842 118.491506 
-L 77.559391 118.753391 
-L 77.098941 118.943064 
-L 76.63849 119.081436 
-L 76.17804 119.18942 
-L 75.717589 119.287927 
-L 75.257139 119.39756 
-L 74.796689 119.522079 
-L 74.336238 119.640095 
-L 73.875788 119.728167 
-L 73.415337 119.762852 
-L 72.954887 119.720708 
-L 72.494436 119.578293 
-L 72.033986 119.312163 
-L 71.573536 118.898878 
-L 71.113085 118.314995 
-L 70.652635 117.53707 
-L 70.192184 116.541663 
-L 69.731734 115.305331 
-L 69.271283 113.810104 
-L 68.810833 112.089613 
-L 68.350382 110.205832 
-L 67.889932 108.221031 
-L 67.429482 106.197476 
-L 66.969031 104.197436 
-L 66.508581 102.283179 
-L 66.04813 100.516973 
-L 65.58768 98.961086 
-L 65.127229 97.677786 
-L 64.666779 96.72934 
-L 64.206328 96.178017 
-L 63.745878 96.086058 
-L 63.285428 96.48409 
-L 62.824977 97.310238 
-L 62.364527 98.4858 
-L 61.904076 99.932073 
-L 61.443626 101.570354 
-L 60.983175 103.32194 
-L 60.522725 105.108127 
-L 60.062274 106.850213 
-L 59.601824 108.469494 
-L 59.141374 109.887268 
-L 58.680923 111.024832 
-L 58.220473 111.803483 
-L 57.760022 112.146689 
-L 57.299572 112.031803 
-L 56.839121 111.492324 
-L 56.378671 110.564377 
-L 55.91822 109.284086 
-L 55.45777 107.687576 
-L 54.99732 105.810974 
-L 54.536869 103.690403 
-L 54.076419 101.361989 
-L 53.615968 98.861856 
-L 53.155518 96.226131 
-L 52.695067 93.490937 
-L 52.234617 90.692401 
-L 51.774166 87.868916 
-L 51.313716 85.072628 
-L 50.853266 82.360831 
-L 50.392815 79.790829 
-L 49.932365 77.419925 
+L 147.9991 171.692437 
+L 148.450342 171.692437 
+L 148.901583 171.692437 
+L 149.352824 171.692437 
+L 149.804066 171.692437 
+L 150.255307 171.692437 
+L 150.706549 171.692437 
+L 151.15779 171.692437 
+L 151.609032 171.692437 
+L 152.060273 171.692437 
+L 152.511515 171.692437 
+L 152.962756 171.692437 
+L 153.413997 171.692437 
+L 153.865239 171.692437 
+L 154.31648 171.692437 
+L 154.767722 171.692437 
+L 154.767722 95.603362 
+L 154.767722 95.603362 
+L 154.31648 95.166329 
+L 153.865239 94.702602 
+L 153.413997 94.211051 
+L 152.962756 93.692132 
+L 152.511515 93.1463 
+L 152.060273 92.574008 
+L 151.609032 91.975712 
+L 151.15779 91.351865 
+L 150.706549 90.702922 
+L 150.255307 90.029339 
+L 149.804066 89.331569 
+L 149.352824 88.610066 
+L 148.901583 87.865287 
+L 148.450342 87.097858 
+L 147.9991 86.314424 
+L 147.547859 85.52902 
+L 147.096617 84.756132 
+L 146.645376 84.010252 
+L 146.194134 83.305866 
+L 145.742893 82.657463 
+L 145.291652 82.079533 
+L 144.84041 81.586563 
+L 144.389169 81.193042 
+L 143.937927 80.913459 
+L 143.486686 80.762303 
+L 143.035444 80.754061 
+L 142.584203 80.900447 
+L 142.132962 81.192662 
+L 141.68172 81.612711 
+L 141.230479 82.142557 
+L 140.779237 82.764164 
+L 140.327996 83.459494 
+L 139.876754 84.21051 
+L 139.425513 84.999174 
+L 138.974271 85.807451 
+L 138.52303 86.617302 
+L 138.071789 87.410691 
+L 137.620547 88.169581 
+L 137.169306 88.875957 
+L 136.718064 89.518469 
+L 136.266823 90.101531 
+L 135.815581 90.631844 
+L 135.36434 91.116106 
+L 134.913099 91.561016 
+L 134.461857 91.973273 
+L 134.010616 92.359574 
+L 133.559374 92.72662 
+L 133.108133 93.081109 
+L 132.656891 93.429739 
+L 132.20565 93.77921 
+L 131.754409 94.13622 
+L 131.303167 94.507097 
+L 130.851926 94.89158 
+L 130.400684 95.283743 
+L 129.949443 95.677474 
+L 129.498201 96.066665 
+L 129.04696 96.445203 
+L 128.595718 96.806979 
+L 128.144477 97.145881 
+L 127.693236 97.455799 
+L 127.241994 97.730623 
+L 126.790753 97.964241 
+L 126.339511 98.150544 
+L 125.88827 98.28342 
+L 125.437028 98.358486 
+L 124.985787 98.379713 
+L 124.534546 98.353591 
+L 124.083304 98.286614 
+L 123.632063 98.185275 
+L 123.180821 98.056065 
+L 122.72958 97.905477 
+L 122.278338 97.740005 
+L 121.827097 97.56614 
+L 121.375856 97.390375 
+L 120.924614 97.219203 
+L 120.473373 97.059116 
+L 120.022131 96.916525 
+L 119.57089 96.792184 
+L 119.119648 96.677666 
+L 118.668407 96.5637 
+L 118.217165 96.441015 
+L 117.765924 96.300341 
+L 117.314683 96.132408 
+L 116.863441 95.927946 
+L 116.4122 95.677684 
+L 115.960958 95.372351 
+L 115.509717 95.002678 
+L 115.058475 94.559393 
+L 114.607234 94.033228 
+L 114.155993 93.41625 
+L 113.704751 92.71462 
+L 113.25351 91.94293 
+L 112.802268 91.115884 
+L 112.351027 90.248187 
+L 111.899785 89.354545 
+L 111.448544 88.449661 
+L 110.997303 87.548241 
+L 110.546061 86.664991 
+L 110.09482 85.814614 
+L 109.643578 85.011816 
+L 109.192337 84.271301 
+L 108.741095 83.607774 
+L 108.289854 83.031836 
+L 107.838612 82.540918 
+L 107.387371 82.129813 
+L 106.93613 81.793314 
+L 106.484888 81.526215 
+L 106.033647 81.32331 
+L 105.582405 81.179391 
+L 105.131164 81.089252 
+L 104.679922 81.047686 
+L 104.228681 81.049488 
+L 103.77744 81.089449 
+L 103.326198 81.162363 
+L 102.874957 81.263015 
+L 102.423715 81.385927 
+L 101.972474 81.525323 
+L 101.521232 81.675412 
+L 101.069991 81.830402 
+L 100.61875 81.984502 
+L 100.167508 82.131921 
+L 99.716267 82.266867 
+L 99.265025 82.383549 
+L 98.813784 82.476176 
+L 98.362542 82.538957 
+L 97.911301 82.566099 
+L 97.460059 82.551812 
+L 97.008818 82.491549 
+L 96.557577 82.389082 
+L 96.106335 82.251594 
+L 95.655094 82.086279 
+L 95.203852 81.900329 
+L 94.752611 81.70094 
+L 94.301369 81.495303 
+L 93.850128 81.290612 
+L 93.398887 81.094061 
+L 92.947645 80.912843 
+L 92.496404 80.754151 
+L 92.045162 80.625179 
+L 91.593921 80.533132 
+L 91.142679 80.487205 
+L 90.691438 80.500916 
+L 90.240196 80.588343 
+L 89.788955 80.763568 
+L 89.337714 81.040671 
+L 88.886472 81.433732 
+L 88.435231 81.956832 
+L 87.983989 82.62405 
+L 87.532748 83.449467 
+L 87.081506 84.447164 
+L 86.630265 85.63122 
+L 86.179024 87.015716 
+L 85.727782 88.61301 
+L 85.276541 90.408579 
+L 84.825299 92.366623 
+L 84.374058 94.450764 
+L 83.922816 96.624622 
+L 83.471575 98.851818 
+L 83.020334 101.095972 
+L 82.569092 103.320705 
+L 82.117851 105.489637 
+L 81.666609 107.566388 
+L 81.215368 109.514579 
+L 80.764126 111.29783 
+L 80.312885 112.879762 
+L 79.861643 114.232668 
+L 79.410402 115.366978 
+L 78.959161 116.303604 
+L 78.507919 117.063457 
+L 78.056678 117.667451 
+L 77.605436 118.136497 
+L 77.154195 118.491506 
+L 76.702953 118.753391 
+L 76.251712 118.943064 
+L 75.800471 119.081436 
+L 75.349229 119.18942 
+L 74.897988 119.287927 
+L 74.446746 119.39756 
+L 73.995505 119.522079 
+L 73.544263 119.640095 
+L 73.093022 119.728167 
+L 72.641781 119.762852 
+L 72.190539 119.720708 
+L 71.739298 119.578293 
+L 71.288056 119.312163 
+L 70.836815 118.898878 
+L 70.385573 118.314995 
+L 69.934332 117.53707 
+L 69.48309 116.541663 
+L 69.031849 115.305331 
+L 68.580608 113.810104 
+L 68.129366 112.089613 
+L 67.678125 110.205832 
+L 67.226883 108.221031 
+L 66.775642 106.197476 
+L 66.3244 104.197436 
+L 65.873159 102.283179 
+L 65.421918 100.516973 
+L 64.970676 98.961086 
+L 64.519435 97.677786 
+L 64.068193 96.72934 
+L 63.616952 96.178017 
+L 63.16571 96.086058 
+L 62.714469 96.48409 
+L 62.263228 97.310238 
+L 61.811986 98.4858 
+L 61.360745 99.932073 
+L 60.909503 101.570354 
+L 60.458262 103.32194 
+L 60.00702 105.108127 
+L 59.555779 106.850213 
+L 59.104537 108.469494 
+L 58.653296 109.887268 
+L 58.202055 111.024832 
+L 57.750813 111.803483 
+L 57.299572 112.146689 
+L 56.84833 112.031803 
+L 56.397089 111.492324 
+L 55.945847 110.564377 
+L 55.494606 109.284086 
+L 55.043365 107.687576 
+L 54.592123 105.810974 
+L 54.140882 103.690403 
+L 53.68964 101.361989 
+L 53.238399 98.861856 
+L 52.787157 96.226131 
+L 52.335916 93.490937 
+L 51.884675 90.692401 
+L 51.433433 87.868916 
+L 50.982192 85.072628 
+L 50.53095 82.360831 
+L 50.079709 79.790829 
+L 49.628467 77.419925 
 z
-" clip-path="url(#pd19be352f0)" style="fill: #af5a51; fill-opacity: 0.15"/>
+" clip-path="url(#pcf247a6cb5)" style="fill: #af5a51; fill-opacity: 0.15"/>
    </g>
    <g id="line2d_54">
-    <path d="M 39.036165 -1 
-L 39.802455 31.490887 
-L 40.723356 58.36474 
-L 41.183806 67.660699 
-L 41.644257 74.563035 
-L 42.104707 79.347015 
-L 42.565158 82.287907 
-L 43.025608 83.660977 
-L 43.486058 83.741492 
-L 43.946509 82.804719 
-L 44.406959 81.125924 
-L 46.248761 72.495876 
-L 46.709212 71.211851 
-L 47.169662 70.584566 
-L 47.630112 70.557505 
-L 48.090563 71.073363 
-L 48.551013 72.074838 
-L 49.011464 73.504626 
-L 49.932365 77.419925 
-L 51.313716 85.072628 
-L 54.076419 101.361989 
-L 54.99732 105.810974 
-L 55.91822 109.284086 
-L 56.378671 110.564377 
-L 56.839121 111.492324 
-L 57.299572 112.031803 
-L 57.760022 112.146689 
-L 58.220473 111.803483 
-L 58.680923 111.024832 
-L 59.601824 108.469494 
-L 60.983175 103.32194 
-L 62.364527 98.4858 
-L 62.824977 97.310238 
-L 63.285428 96.48409 
-L 63.745878 96.086058 
-L 64.206328 96.178017 
-L 64.666779 96.72934 
-L 65.127229 97.677786 
-L 66.04813 100.516973 
-L 67.429482 106.197476 
-L 69.271283 113.810104 
-L 70.192184 116.541663 
-L 71.113085 118.314995 
-L 72.033986 119.312163 
-L 72.954887 119.720708 
-L 73.875788 119.728167 
-L 76.17804 119.18942 
-L 77.559391 118.753391 
-L 78.480292 118.136497 
-L 79.401193 117.063457 
-L 80.322094 115.366978 
-L 81.242995 112.879762 
-L 82.163896 109.514579 
-L 83.545247 103.320705 
-L 86.30795 90.408579 
-L 87.228851 87.015716 
-L 88.149751 84.447164 
-L 89.070652 82.62405 
-L 89.991553 81.433732 
-L 90.912454 80.763568 
-L 91.833355 80.500916 
-L 92.754256 80.533132 
-L 94.135607 80.912843 
-L 98.279661 82.491549 
-L 99.200562 82.566099 
-L 100.581913 82.383549 
-L 102.423715 81.830402 
-L 104.725967 81.162363 
-L 106.107319 81.047686 
-L 107.02822 81.179391 
-L 107.949121 81.526215 
-L 108.870021 82.129813 
-L 109.790922 83.031836 
-L 110.711823 84.271301 
-L 112.093175 86.664991 
-L 115.316328 92.71462 
-L 116.237229 94.033228 
-L 117.158129 95.002678 
-L 118.07903 95.677684 
-L 118.999931 96.132408 
-L 120.381283 96.5637 
-L 122.683535 97.219203 
-L 125.446237 98.185275 
-L 126.827589 98.379713 
-L 127.74849 98.28342 
-L 128.669391 97.964241 
-L 130.050742 97.145881 
-L 131.892544 95.677474 
-L 134.655246 93.429739 
-L 136.957499 91.561016 
-L 138.33885 90.101531 
-L 139.259751 88.875957 
-L 140.641102 86.617302 
-L 142.943354 82.764164 
-L 143.864255 81.612711 
-L 144.785156 80.900447 
-L 145.245607 80.754061 
-L 145.706057 80.762303 
-L 146.166507 80.913459 
-L 147.087408 81.586563 
-L 148.008309 82.657463 
-L 149.389661 84.756132 
-L 152.612814 90.029339 
-L 154.454615 92.574008 
-L 156.296417 94.702602 
-L 158.138219 96.432633 
-L 159.980021 98.201794 
-L 160.900922 99.307289 
-L 161.821822 100.67046 
-L 162.742723 102.373835 
-L 166.426327 110.06269 
-L 166.886777 110.592663 
-L 167.347228 110.916815 
-L 167.807678 111.002141 
-L 168.268129 110.815637 
-L 168.728579 110.329667 
-L 169.18903 109.569059 
-L 170.10993 107.44221 
-L 172.872633 100.163755 
-L 173.333084 99.395362 
-L 173.793534 98.900213 
-L 174.253984 98.733115 
-L 174.714435 98.92776 
-L 175.174885 99.454116 
-L 175.635336 100.27018 
-L 176.556237 102.603416 
-L 177.937588 107.225995 
-L 179.77939 113.721049 
-L 180.700291 116.380229 
-L 181.621192 118.466065 
-L 182.542092 120.025188 
-L 183.462993 121.105395 
-L 184.383894 121.754484 
-L 185.304795 122.020252 
-L 186.225696 121.951202 
-L 187.146597 121.619459 
-L 188.988399 120.572648 
-L 190.36975 119.855648 
-L 191.290651 119.602229 
-L 192.211552 119.64107 
-L 193.132453 119.969709 
-L 194.513804 120.841865 
-L 198.197408 123.577638 
-L 199.578759 124.209953 
-L 201.420561 124.751847 
-L 207.866867 126.227046 
-L 209.708669 126.94527 
-L 212.471371 128.072787 
-L 213.852723 128.31798 
-L 214.773624 128.251916 
-L 215.694524 127.947373 
-L 216.615425 127.368909 
-L 217.536326 126.485186 
-L 218.457227 125.264872 
-L 219.378128 123.676636 
-L 220.299029 121.689145 
-L 221.68038 117.937195 
-L 224.903533 108.337109 
-L 225.824434 106.276995 
-L 226.745335 104.886823 
-L 227.205786 104.479956 
-L 227.666236 104.242892 
-L 228.126686 104.152112 
-L 229.047587 104.31533 
-L 229.968488 104.781468 
-L 231.81029 105.869921 
-L 232.731191 106.119287 
-L 233.652092 106.02826 
-L 234.572993 105.633945 
-L 235.493894 104.980162 
-L 236.875245 103.608837 
-L 238.717047 101.285724 
-L 240.098398 99.525136 
-L 241.019299 98.608683 
-L 241.9402 98.073665 
-L 242.40065 97.996234 
-L 242.861101 98.070611 
-L 243.321551 98.31561 
-L 243.782001 98.750049 
-L 244.242452 99.390627 
-L 245.163353 101.230809 
-L 246.084254 103.623209 
-L 249.767857 114.05597 
-L 250.688758 115.772161 
-L 251.609659 116.977567 
-L 252.53056 117.770449 
-L 253.451461 118.249073 
-L 254.832812 118.592724 
-L 262.200019 119.71872 
-L 265.423172 120.384661 
-L 267.725425 121.099889 
-L 270.027677 122.076378 
-L 273.71128 123.940745 
-L 278.315785 126.233983 
-L 281.078487 127.32928 
-L 283.38074 127.986361 
-L 285.222541 128.312031 
-L 287.524794 128.478574 
-L 290.747947 128.438028 
-L 294.892001 128.165455 
-L 299.956956 127.705187 
-L 301.338307 127.954617 
-L 302.259208 128.322599 
-L 303.640559 129.16596 
-L 305.942811 130.706968 
-L 306.863712 131.133182 
-L 307.784613 131.328532 
-L 308.705514 131.234128 
-L 309.626415 130.911195 
-L 312.849568 129.440043 
-L 313.770469 129.339147 
-L 314.69137 129.524976 
-L 315.612271 129.93597 
-L 317.454073 131.095426 
-L 318.835424 131.927559 
-L 319.756325 132.306549 
-L 320.677226 132.492941 
-L 322.058577 132.5088 
-L 325.74218 132.233725 
-L 327.123532 132.417252 
-L 328.965334 132.887056 
-L 333.569838 134.196138 
-L 337.253442 134.938237 
-L 342.318396 135.712915 
-L 346.922901 136.417925 
-L 348.764703 136.950598 
-L 353.829658 138.790584 
-L 355.211009 138.912143 
-L 356.59236 138.776545 
-L 358.434162 138.324896 
-L 363.959567 136.511485 
-L 367.643171 135.104266 
-L 369.484973 134.480501 
-L 370.866324 134.226673 
-L 372.247675 134.264483 
-L 373.629027 134.581793 
-L 376.391729 135.300277 
-L 377.31263 135.347242 
-L 378.233531 135.205885 
-L 379.614882 134.704712 
-L 382.377585 133.52586 
-L 383.298486 133.33787 
-L 384.219387 133.355391 
-L 385.600738 133.699251 
-L 390.205243 135.291164 
-L 392.047044 135.376479 
-L 395.730648 135.369523 
-L 398.0329 135.706748 
-L 401.716504 136.320595 
-L 404.018756 136.471658 
-L 406.781459 136.426565 
-L 415.530017 135.972446 
-L 417.371819 136.212095 
-L 419.213621 136.731298 
-L 421.976323 137.860852 
-L 424.278575 138.702647 
-L 426.120377 139.083072 
-L 427.962179 139.203657 
-L 429.803981 139.105262 
-L 432.106233 138.747221 
-L 439.47344 137.362222 
-L 447.301098 136.22106 
-L 451.905602 135.160235 
-L 453.286953 135.107284 
-L 454.668305 135.285754 
-L 456.970557 135.889715 
-L 459.272809 136.498087 
-L 461.575061 136.828662 
-L 470.32362 137.551693 
-L 472.625872 137.339194 
-L 474.928124 137.16849 
-L 476.309476 137.30093 
-L 477.690827 137.696166 
-L 479.993079 138.410049 
-L 480.91398 138.494204 
-L 481.834881 138.349764 
-L 482.755782 137.911035 
-L 485.058034 136.38838 
-L 485.978935 136.174416 
-L 486.439385 136.260441 
-L 486.899836 136.511252 
-L 487.360286 136.953934 
-L 487.820737 137.615575 
-L 488.741638 139.612593 
-L 490.122989 142.865287 
-L 490.583439 143.546623 
-L 491.04389 143.829716 
-L 491.50434 143.596489 
-L 491.964791 142.728864 
-L 492.425241 141.108764 
-L 492.885692 138.618112 
-L 493.346142 135.13883 
-L 493.806592 130.552841 
-L 494.727493 118.047766 
-L 496.569295 86.41225 
-L 497.490196 71.46154 
-L 498.411097 59.875359 
-L 498.871547 55.997053 
-L 499.331998 53.743581 
-L 499.792448 53.373408 
-L 500.252899 54.955768 
-L 500.713349 58.252475 
-L 501.1738 62.997176 
-L 502.0947 75.765161 
-L 505.317854 126.911371 
-L 505.778304 131.508195 
-L 506.238754 134.891894 
-L 506.699205 137.178496 
-L 507.159655 138.485851 
-L 507.620106 138.931809 
-L 508.080556 138.63422 
-L 508.541007 137.710935 
-L 509.001457 136.279802 
-L 509.922358 132.365395 
-L 511.76416 123.602707 
-L 512.685061 120.101226 
-L 513.605962 117.314663 
-L 514.526862 115.212202 
-L 515.447763 113.763029 
-L 516.368664 112.936329 
-L 516.829115 112.746777 
-L 517.289565 112.701175 
-L 517.750016 112.792301 
-L 518.670916 113.34089 
-L 519.591817 114.303866 
-L 520.512718 115.592352 
-L 521.89407 117.940991 
-L 526.498574 126.280366 
-L 527.879925 128.32017 
-L 529.261277 129.923875 
-L 530.642628 131.04959 
-L 532.023979 131.760555 
-L 533.405331 132.126934 
-L 534.786682 132.218948 
-L 536.628484 132.061522 
-L 539.391186 131.759048 
-L 540.772538 131.821929 
-L 542.153889 132.108301 
-L 543.995691 132.721995 
-L 548.139745 134.194763 
-L 549.521096 134.440979 
-L 550.902448 134.435114 
-L 551.823348 134.252656 
-L 553.2047 133.695987 
-L 555.967402 132.393793 
-L 556.888303 132.189029 
-L 557.809204 132.228586 
-L 558.730105 132.55723 
-L 560.111456 133.435694 
-L 562.874159 135.439267 
-L 563.79506 135.842443 
-L 564.715961 136.006704 
-L 565.636862 135.97923 
-L 567.018213 135.70558 
-L 569.780916 135.039278 
-L 571.162267 134.948942 
-L 573.004069 135.053062 
-L 579.910825 135.730293 
-L 583.133979 135.770832 
-L 586.357132 135.590715 
-L 586.817582 135.545557 
-L 586.817582 135.545557 
-" clip-path="url(#pd19be352f0)" style="fill: none; stroke: #5d5d5d; stroke-opacity: 0.85; stroke-linecap: square"/>
+    <path d="M 38.950192 -1 
+L 39.701156 31.490887 
+L 40.603639 58.36474 
+L 41.05488 67.660699 
+L 41.506122 74.563035 
+L 41.957363 79.347015 
+L 42.408604 82.287907 
+L 42.859846 83.660977 
+L 43.311087 83.741492 
+L 43.762329 82.804719 
+L 44.21357 81.125924 
+L 46.018536 72.495876 
+L 46.469777 71.211851 
+L 46.921019 70.584566 
+L 47.37226 70.557505 
+L 47.823502 71.073363 
+L 48.274743 72.074838 
+L 48.725984 73.504626 
+L 49.628467 77.419925 
+L 50.982192 85.072628 
+L 53.68964 101.361989 
+L 54.592123 105.810974 
+L 55.494606 109.284086 
+L 55.945847 110.564377 
+L 56.397089 111.492324 
+L 56.84833 112.031803 
+L 57.299572 112.146689 
+L 57.750813 111.803483 
+L 58.202055 111.024832 
+L 59.104537 108.469494 
+L 60.458262 103.32194 
+L 61.811986 98.4858 
+L 62.263228 97.310238 
+L 62.714469 96.48409 
+L 63.16571 96.086058 
+L 63.616952 96.178017 
+L 64.068193 96.72934 
+L 64.519435 97.677786 
+L 65.421918 100.516973 
+L 66.775642 106.197476 
+L 68.580608 113.810104 
+L 69.48309 116.541663 
+L 70.385573 118.314995 
+L 71.288056 119.312163 
+L 72.190539 119.720708 
+L 73.093022 119.728167 
+L 75.349229 119.18942 
+L 76.702953 118.753391 
+L 77.605436 118.136497 
+L 78.507919 117.063457 
+L 79.410402 115.366978 
+L 80.312885 112.879762 
+L 81.215368 109.514579 
+L 82.569092 103.320705 
+L 85.276541 90.408579 
+L 86.179024 87.015716 
+L 87.081506 84.447164 
+L 87.983989 82.62405 
+L 88.886472 81.433732 
+L 89.788955 80.763568 
+L 90.691438 80.500916 
+L 91.593921 80.533132 
+L 92.947645 80.912843 
+L 97.008818 82.491549 
+L 97.911301 82.566099 
+L 99.265025 82.383549 
+L 101.069991 81.830402 
+L 103.326198 81.162363 
+L 104.679922 81.047686 
+L 105.582405 81.179391 
+L 106.484888 81.526215 
+L 107.387371 82.129813 
+L 108.289854 83.031836 
+L 109.192337 84.271301 
+L 110.546061 86.664991 
+L 113.704751 92.71462 
+L 114.607234 94.033228 
+L 115.509717 95.002678 
+L 116.4122 95.677684 
+L 117.314683 96.132408 
+L 118.668407 96.5637 
+L 120.924614 97.219203 
+L 123.632063 98.185275 
+L 124.985787 98.379713 
+L 125.88827 98.28342 
+L 126.790753 97.964241 
+L 128.144477 97.145881 
+L 129.949443 95.677474 
+L 132.656891 93.429739 
+L 134.913099 91.561016 
+L 136.266823 90.101531 
+L 137.169306 88.875957 
+L 138.52303 86.617302 
+L 140.779237 82.764164 
+L 141.68172 81.612711 
+L 142.584203 80.900447 
+L 143.035444 80.754061 
+L 143.486686 80.762303 
+L 143.937927 80.913459 
+L 144.84041 81.586563 
+L 145.742893 82.657463 
+L 147.096617 84.756132 
+L 150.255307 90.029339 
+L 152.060273 92.574008 
+L 153.865239 94.702602 
+L 155.670205 96.432633 
+L 157.47517 98.201794 
+L 158.377653 99.307289 
+L 159.280136 100.67046 
+L 160.182619 102.373835 
+L 163.79255 110.06269 
+L 164.243792 110.592663 
+L 164.695033 110.916815 
+L 165.146275 111.002141 
+L 165.597516 110.815637 
+L 166.048758 110.329667 
+L 166.499999 109.569059 
+L 167.402482 107.44221 
+L 170.10993 100.163755 
+L 170.561172 99.395362 
+L 171.012413 98.900213 
+L 171.463655 98.733115 
+L 171.914896 98.92776 
+L 172.366138 99.454116 
+L 172.817379 100.27018 
+L 173.719862 102.603416 
+L 175.073586 107.225995 
+L 176.878552 113.721049 
+L 177.781035 116.380229 
+L 178.683518 118.466065 
+L 179.586001 120.025188 
+L 180.488483 121.105395 
+L 181.390966 121.754484 
+L 182.293449 122.020252 
+L 183.195932 121.951202 
+L 184.098415 121.619459 
+L 185.903381 120.572648 
+L 187.257105 119.855648 
+L 188.159588 119.602229 
+L 189.062071 119.64107 
+L 189.964554 119.969709 
+L 191.318278 120.841865 
+L 194.928209 123.577638 
+L 196.281934 124.209953 
+L 198.086899 124.751847 
+L 204.40428 126.227046 
+L 206.209245 126.94527 
+L 208.916694 128.072787 
+L 210.270418 128.31798 
+L 211.172901 128.251916 
+L 212.075384 127.947373 
+L 212.977867 127.368909 
+L 213.88035 126.485186 
+L 214.782833 125.264872 
+L 215.685315 123.676636 
+L 216.587798 121.689145 
+L 217.941523 117.937195 
+L 221.100213 108.337109 
+L 222.002696 106.276995 
+L 222.905178 104.886823 
+L 223.35642 104.479956 
+L 223.807661 104.242892 
+L 224.258903 104.152112 
+L 225.161386 104.31533 
+L 226.063868 104.781468 
+L 227.868834 105.869921 
+L 228.771317 106.119287 
+L 229.6738 106.02826 
+L 230.576283 105.633945 
+L 231.478766 104.980162 
+L 232.83249 103.608837 
+L 234.637456 101.285724 
+L 235.99118 99.525136 
+L 236.893663 98.608683 
+L 237.796146 98.073665 
+L 238.247387 97.996234 
+L 238.698629 98.070611 
+L 239.14987 98.31561 
+L 239.601111 98.750049 
+L 240.052353 99.390627 
+L 240.954836 101.230809 
+L 242.30856 104.953693 
+L 245.016009 112.982095 
+L 245.918492 114.984055 
+L 246.820974 116.432571 
+L 247.723457 117.419432 
+L 248.62594 118.042902 
+L 249.528423 118.401245 
+L 250.882147 118.656596 
+L 255.845803 119.407827 
+L 260.358217 120.271065 
+L 262.614425 120.934444 
+L 264.870632 121.86414 
+L 268.029322 123.459274 
+L 273.444219 126.233983 
+L 276.151668 127.32928 
+L 278.407875 127.986361 
+L 280.212841 128.312031 
+L 282.469048 128.478574 
+L 285.627738 128.438028 
+L 289.688911 128.165455 
+L 294.652567 127.705187 
+L 296.006291 127.954617 
+L 296.908774 128.322599 
+L 298.262498 129.16596 
+L 300.518705 130.706968 
+L 301.421188 131.133182 
+L 302.323671 131.328532 
+L 303.226154 131.234128 
+L 304.128637 130.911195 
+L 307.287327 129.440043 
+L 308.18981 129.339147 
+L 309.092292 129.524976 
+L 309.994775 129.93597 
+L 311.799741 131.095426 
+L 313.153465 131.927559 
+L 314.055948 132.306549 
+L 314.958431 132.492941 
+L 316.312155 132.5088 
+L 319.922087 132.233725 
+L 321.275811 132.417252 
+L 323.080777 132.887056 
+L 327.593191 134.196138 
+L 331.203123 134.938237 
+L 336.166779 135.712915 
+L 340.679193 136.417925 
+L 342.484159 136.950598 
+L 347.447814 138.790584 
+L 348.801539 138.912143 
+L 350.155263 138.776545 
+L 351.960229 138.324896 
+L 357.375126 136.511485 
+L 360.985057 135.104266 
+L 362.790023 134.480501 
+L 364.143748 134.226673 
+L 365.497472 134.264483 
+L 366.851196 134.581793 
+L 369.558645 135.300277 
+L 370.461128 135.347242 
+L 371.36361 135.205885 
+L 372.717335 134.704712 
+L 375.424783 133.52586 
+L 376.327266 133.33787 
+L 377.229749 133.355391 
+L 378.583473 133.699251 
+L 383.095888 135.291164 
+L 384.900854 135.376479 
+L 388.510785 135.369523 
+L 390.766992 135.706748 
+L 394.376924 136.320595 
+L 396.633131 136.471658 
+L 399.340579 136.426565 
+L 407.914167 135.972446 
+L 409.719132 136.212095 
+L 411.524098 136.731298 
+L 414.231547 137.860852 
+L 416.487754 138.702647 
+L 418.29272 139.083072 
+L 420.097685 139.203657 
+L 421.902651 139.105262 
+L 424.158858 138.747221 
+L 431.378721 137.362222 
+L 439.049826 136.22106 
+L 443.56224 135.160235 
+L 444.915964 135.107284 
+L 446.269689 135.285754 
+L 448.525896 135.889715 
+L 450.782103 136.498087 
+L 453.03831 136.828662 
+L 461.611897 137.551693 
+L 463.868105 137.339194 
+L 466.124312 137.16849 
+L 467.478036 137.30093 
+L 468.83176 137.696166 
+L 471.087968 138.410049 
+L 471.99045 138.494204 
+L 472.892933 138.349764 
+L 473.795416 137.911035 
+L 476.051623 136.38838 
+L 476.954106 136.174416 
+L 477.405348 136.260441 
+L 477.856589 136.511252 
+L 478.307831 136.953934 
+L 478.759072 137.615575 
+L 479.661555 139.612593 
+L 481.015279 142.865287 
+L 481.466521 143.546623 
+L 481.917762 143.829716 
+L 482.369003 143.596489 
+L 482.820245 142.728864 
+L 483.271486 141.108764 
+L 483.722728 138.618112 
+L 484.173969 135.13883 
+L 484.625211 130.552841 
+L 485.527694 118.047766 
+L 487.332659 86.41225 
+L 488.235142 71.46154 
+L 489.137625 59.875359 
+L 489.588866 55.997053 
+L 490.040108 53.743581 
+L 490.491349 53.373408 
+L 490.942591 54.955768 
+L 491.393832 58.252475 
+L 491.845074 62.997176 
+L 492.747556 75.765161 
+L 495.906247 126.911371 
+L 496.357488 131.508195 
+L 496.808729 134.891894 
+L 497.259971 137.178496 
+L 497.711212 138.485851 
+L 498.162454 138.931809 
+L 498.613695 138.63422 
+L 499.064937 137.710935 
+L 499.516178 136.279802 
+L 500.418661 132.365395 
+L 502.223627 123.602707 
+L 503.126109 120.101226 
+L 504.028592 117.314663 
+L 504.931075 115.212202 
+L 505.833558 113.763029 
+L 506.736041 112.936329 
+L 507.187282 112.746777 
+L 507.638524 112.701175 
+L 508.089765 112.792301 
+L 508.992248 113.34089 
+L 509.894731 114.303866 
+L 510.797214 115.592352 
+L 512.150938 117.940991 
+L 516.663353 126.280366 
+L 518.017077 128.32017 
+L 519.370801 129.923875 
+L 520.724525 131.04959 
+L 522.07825 131.760555 
+L 523.431974 132.126934 
+L 524.785698 132.218948 
+L 526.590664 132.061522 
+L 529.298113 131.759048 
+L 530.651837 131.821929 
+L 532.005561 132.108301 
+L 533.810527 132.721995 
+L 537.8717 134.194763 
+L 539.225424 134.440979 
+L 540.579149 134.435114 
+L 541.481631 134.252656 
+L 542.835356 133.695987 
+L 545.542804 132.393793 
+L 546.445287 132.189029 
+L 547.34777 132.228586 
+L 548.250253 132.55723 
+L 549.603977 133.435694 
+L 552.311426 135.439267 
+L 553.213909 135.842443 
+L 554.116392 136.006704 
+L 555.018874 135.97923 
+L 556.372599 135.70558 
+L 559.080047 135.039278 
+L 560.433772 134.948942 
+L 562.238737 135.053062 
+L 569.007359 135.730293 
+L 572.166049 135.770832 
+L 575.324739 135.590715 
+L 575.77598 135.545557 
+L 575.77598 135.545557 
+" clip-path="url(#pcf247a6cb5)" style="fill: none; stroke: #5d5d5d; stroke-opacity: 0.85; stroke-linecap: square"/>
    </g>
    <g id="patch_4">
     <path d="M 29.7375 160.604437 
@@ -2376,14 +2377,14 @@ L 29.7375 27.548437
    </g>
    <g id="patch_5">
     <path d="M 34.7375 165.604437 
-L 592.7375 165.604437 
+L 581.5775 165.604437 
 " style="fill: none; stroke: #cccccc; stroke-width: 0.75; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_50">
     <!--  -->
-    <g style="fill: #4b4b4b" transform="translate(78.277541 30.682027) scale(0.08 -0.08)"/>
+    <g style="fill: #4b4b4b" transform="translate(77.40674 30.682027) scale(0.08 -0.08)"/>
     <!-- Назначение -->
-    <g style="fill: #4b4b4b" transform="translate(78.277541 39.611027) scale(0.08 -0.08)">
+    <g style="fill: #4b4b4b" transform="translate(77.40674 39.611027) scale(0.08 -0.08)">
      <defs>
       <path id="Ubuntu-MediumItalic-41d" d="M 4186 4435 
 L 4992 4435 
@@ -2591,7 +2592,7 @@ z
      <use xlink:href="#Ubuntu-MediumItalic-435" x="505.699905"/>
     </g>
     <!-- В.Геращенко на пост -->
-    <g style="fill: #4b4b4b" transform="translate(78.277541 48.540027) scale(0.08 -0.08)">
+    <g style="fill: #4b4b4b" transform="translate(77.40674 48.540027) scale(0.08 -0.08)">
      <defs>
       <path id="Ubuntu-MediumItalic-412" d="M 1850 -51 
 Q 1523 -51 1161 -22 
@@ -2905,7 +2906,7 @@ z
      <use xlink:href="#Ubuntu-MediumItalic-442" x="926.274826"/>
     </g>
     <!-- председателя ЦБ -->
-    <g style="fill: #4b4b4b" transform="translate(78.277541 57.469027) scale(0.08 -0.08)">
+    <g style="fill: #4b4b4b" transform="translate(77.40674 57.469027) scale(0.08 -0.08)">
      <defs>
       <path id="Ubuntu-MediumItalic-434" d="M 1933 4314 
 Q 1741 4314 1587 4278 
@@ -3060,13 +3061,13 @@ z
      <use xlink:href="#Ubuntu-MediumItalic-411" x="774.774841"/>
     </g>
     <!--  -->
-    <g style="fill: #4b4b4b" transform="translate(78.277541 66.398027) scale(0.08 -0.08)"/>
+    <g style="fill: #4b4b4b" transform="translate(77.40674 66.398027) scale(0.08 -0.08)"/>
    </g>
    <g id="text_51">
     <!--  -->
-    <g style="fill: #4b4b4b" transform="translate(149.698486 56.435487) scale(0.08 -0.08)"/>
+    <g style="fill: #4b4b4b" transform="translate(147.399266 56.435487) scale(0.08 -0.08)"/>
     <!-- Начало -->
-    <g style="fill: #4b4b4b" transform="translate(149.698486 65.364487) scale(0.08 -0.08)">
+    <g style="fill: #4b4b4b" transform="translate(147.399266 65.364487) scale(0.08 -0.08)">
      <use xlink:href="#Ubuntu-MediumItalic-41d"/>
      <use xlink:href="#Ubuntu-MediumItalic-430" x="69.599991"/>
      <use xlink:href="#Ubuntu-MediumItalic-447" x="125.399979"/>
@@ -3075,7 +3076,7 @@ z
      <use xlink:href="#Ubuntu-MediumItalic-43e" x="293.199936"/>
     </g>
     <!-- денежной реформы -->
-    <g style="fill: #4b4b4b" transform="translate(149.698486 74.293487) scale(0.08 -0.08)">
+    <g style="fill: #4b4b4b" transform="translate(147.399266 74.293487) scale(0.08 -0.08)">
      <defs>
       <path id="Ubuntu-MediumItalic-436" d="M 5658 45 
 Q 5542 -6 5385 -44 
@@ -3303,13 +3304,13 @@ z
      <use xlink:href="#Ubuntu-MediumItalic-44b" x="872.199844"/>
     </g>
     <!--  -->
-    <g style="fill: #4b4b4b" transform="translate(149.698486 83.222487) scale(0.08 -0.08)"/>
+    <g style="fill: #4b4b4b" transform="translate(147.399266 83.222487) scale(0.08 -0.08)"/>
    </g>
    <g id="text_52">
     <!--  -->
-    <g style="fill: #4b4b4b" transform="translate(234.105056 71.958687) scale(0.08 -0.08)"/>
+    <g style="fill: #4b4b4b" transform="translate(230.117705 71.958687) scale(0.08 -0.08)"/>
     <!-- Черный вторник, -->
-    <g style="fill: #4b4b4b" transform="translate(234.105056 80.887687) scale(0.08 -0.08)">
+    <g style="fill: #4b4b4b" transform="translate(230.117705 80.887687) scale(0.08 -0.08)">
      <defs>
       <path id="Ubuntu-MediumItalic-427" d="M 1901 3142 
 Q 1843 2899 1843 2726 
@@ -3400,7 +3401,7 @@ z
      <use xlink:href="#Ubuntu-MediumItalic-2c" x="812.899872"/>
     </g>
     <!-- отставка В.Геращенко -->
-    <g style="fill: #4b4b4b" transform="translate(234.105056 89.816688) scale(0.08 -0.08)">
+    <g style="fill: #4b4b4b" transform="translate(230.117705 89.816688) scale(0.08 -0.08)">
      <use xlink:href="#Ubuntu-MediumItalic-43e"/>
      <use xlink:href="#Ubuntu-MediumItalic-442" x="56.299988"/>
      <use xlink:href="#Ubuntu-MediumItalic-441" x="140.499969"/>
@@ -3423,13 +3424,13 @@ z
      <use xlink:href="#Ubuntu-MediumItalic-43e" x="1065.024811"/>
     </g>
     <!--  -->
-    <g style="fill: #4b4b4b" transform="translate(234.105056 98.745687) scale(0.08 -0.08)"/>
+    <g style="fill: #4b4b4b" transform="translate(230.117705 98.745687) scale(0.08 -0.08)"/>
    </g>
    <g id="text_53">
     <!--  -->
-    <g style="fill: #4b4b4b" transform="translate(354.60403 109.687187) scale(0.08 -0.08)"/>
+    <g style="fill: #4b4b4b" transform="translate(348.206699 109.687187) scale(0.08 -0.08)"/>
     <!-- Выборы президента РФ -->
-    <g style="fill: #4b4b4b" transform="translate(354.60403 118.616187) scale(0.08 -0.08)">
+    <g style="fill: #4b4b4b" transform="translate(348.206699 118.616187) scale(0.08 -0.08)">
      <defs>
       <path id="Ubuntu-MediumItalic-431" d="M 2406 2630 
 Q 2195 2630 1980 2556 
@@ -3562,13 +3563,13 @@ z
      <use xlink:href="#Ubuntu-MediumItalic-424" x="1069.599808"/>
     </g>
     <!--  -->
-    <g style="fill: #4b4b4b" transform="translate(354.60403 127.545187) scale(0.08 -0.08)"/>
+    <g style="fill: #4b4b4b" transform="translate(348.206699 127.545187) scale(0.08 -0.08)"/>
    </g>
    <g id="text_54">
     <!--  -->
-    <g style="fill: #4b4b4b" transform="translate(592.7375 27.372637) scale(0.08 -0.08)"/>
+    <g style="fill: #4b4b4b" transform="translate(581.5775 27.372637) scale(0.08 -0.08)"/>
     <!-- *ИПЦ в Январе 1992 г. -->
-    <g style="fill: #4b4b4b" transform="translate(510.5775 36.301637) scale(0.08 -0.08)">
+    <g style="fill: #4b4b4b" transform="translate(499.4175 36.301637) scale(0.08 -0.08)">
      <defs>
       <path id="Ubuntu-Italic-2a" d="M 2534 4384 
 Q 2534 4115 2486 3872 
@@ -4050,7 +4051,7 @@ z
      <use xlink:href="#Ubuntu-Italic-2e" x="1002.399826"/>
     </g>
     <!-- составил 345.3%. -->
-    <g style="fill: #4b4b4b" transform="translate(526.4575 45.230637) scale(0.08 -0.08)">
+    <g style="fill: #4b4b4b" transform="translate(515.2975 45.230637) scale(0.08 -0.08)">
      <defs>
       <path id="Ubuntu-Italic-441" d="M 640 1190 
 Q 640 1626 771 2029 
@@ -4409,7 +4410,7 @@ z
      <use xlink:href="#Ubuntu-Italic-2e" x="803.899872"/>
     </g>
     <!--  -->
-    <g style="fill: #4b4b4b" transform="translate(592.7375 54.159637) scale(0.08 -0.08)"/>
+    <g style="fill: #4b4b4b" transform="translate(581.5775 54.159637) scale(0.08 -0.08)"/>
    </g>
    <g id="legend_1">
     <g id="line2d_55">
@@ -5196,7 +5197,7 @@ z
    </g>
    <g id="PathCollection_1">
     <defs>
-     <path id="m8b4f39d09a" d="M 0 1.118034 
+     <path id="m1ee987a222" d="M 0 1.118034 
 C 0.296506 1.118034 0.580908 1.000231 0.790569 0.790569 
 C 1.000231 0.580908 1.118034 0.296506 1.118034 0 
 C 1.118034 -0.296506 1.000231 -0.580908 0.790569 -0.790569 
@@ -5208,13 +5209,13 @@ C -0.580908 1.000231 -0.296506 1.118034 0 1.118034
 z
 " style="stroke: #af5a51"/>
     </defs>
-    <g clip-path="url(#pd19be352f0)">
-     <use xlink:href="#m8b4f39d09a" x="72.548588" y="46.176277" style="fill: #af5a51; stroke: #af5a51"/>
+    <g clip-path="url(#pcf247a6cb5)">
+     <use xlink:href="#m1ee987a222" x="71.792367" y="46.176277" style="fill: #af5a51; stroke: #af5a51"/>
     </g>
    </g>
    <g id="PathCollection_2">
     <defs>
-     <path id="m35d9b8491f" d="M 0 1.118034 
+     <path id="m4b1b9ed7c5" d="M 0 1.118034 
 C 0.296506 1.118034 0.580908 1.000231 0.790569 0.790569 
 C 1.000231 0.580908 1.118034 0.296506 1.118034 0 
 C 1.118034 -0.296506 1.000231 -0.580908 0.790569 -0.790569 
@@ -5226,26 +5227,26 @@ C -0.580908 1.000231 -0.296506 1.118034 0 1.118034
 z
 " style="stroke: #af4035"/>
     </defs>
-    <g clip-path="url(#pd19be352f0)">
-     <use xlink:href="#m35d9b8491f" x="143.969533" y="67.465237" style="fill: #af4035; stroke: #af4035"/>
+    <g clip-path="url(#pcf247a6cb5)">
+     <use xlink:href="#m4b1b9ed7c5" x="141.784892" y="67.465237" style="fill: #af4035; stroke: #af4035"/>
     </g>
    </g>
    <g id="PathCollection_3">
-    <g clip-path="url(#pd19be352f0)">
-     <use xlink:href="#m35d9b8491f" x="228.376104" y="82.988437" style="fill: #af4035; stroke: #af4035"/>
+    <g clip-path="url(#pcf247a6cb5)">
+     <use xlink:href="#m4b1b9ed7c5" x="224.503332" y="82.988437" style="fill: #af4035; stroke: #af4035"/>
     </g>
    </g>
    <g id="PathCollection_4">
-    <g clip-path="url(#pd19be352f0)">
-     <use xlink:href="#m35d9b8491f" x="348.875077" y="116.252437" style="fill: #af4035; stroke: #af4035"/>
+    <g clip-path="url(#pcf247a6cb5)">
+     <use xlink:href="#m4b1b9ed7c5" x="342.592325" y="116.252437" style="fill: #af4035; stroke: #af4035"/>
     </g>
    </g>
   </g>
   <g id="axes_3">
    <g id="patch_6">
     <path d="M 34.7375 360.188437 
-L 592.7375 360.188437 
-L 592.7375 227.132437 
+L 581.5775 360.188437 
+L 581.5775 227.132437 
 L 34.7375 227.132437 
 L 34.7375 360.188437 
 z
@@ -5254,8 +5255,8 @@ z
    <g id="axes_4">
     <g id="patch_7">
      <path d="M 34.7375 360.188437 
-L 592.7375 360.188437 
-L 592.7375 360.188437 
+L 581.5775 360.188437 
+L 581.5775 360.188437 
 L 34.7375 360.188437 
 L 34.7375 360.188437 
 z
@@ -5266,7 +5267,7 @@ z
       <g id="line2d_57">
        <path d="M 34.7375 360.188437 
 L 34.7375 360.188437 
-" clip-path="url(#pe6c47e4346)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+" clip-path="url(#p14feff18f1)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_57">
        <!-- 1992 -->
@@ -5280,13 +5281,13 @@ L 34.7375 360.188437
      </g>
      <g id="xtick_44">
       <g id="line2d_58">
-       <path d="M 104.630724 360.188437 
-L 104.630724 360.188437 
-" clip-path="url(#pe6c47e4346)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 103.232859 360.188437 
+L 103.232859 360.188437 
+" clip-path="url(#p14feff18f1)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_58">
        <!-- 1993 -->
-       <g style="fill: #808080" transform="translate(95.605724 390.895937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(94.207859 390.895937) scale(0.08 -0.08)">
         <use xlink:href="#Ubuntu-31"/>
         <use xlink:href="#Ubuntu-39" x="56.399994"/>
         <use xlink:href="#Ubuntu-39" x="112.799988"/>
@@ -5296,13 +5297,13 @@ L 104.630724 360.188437
      </g>
      <g id="xtick_45">
       <g id="line2d_59">
-       <path d="M 174.332983 360.188437 
-L 174.332983 360.188437 
-" clip-path="url(#pe6c47e4346)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 171.541073 360.188437 
+L 171.541073 360.188437 
+" clip-path="url(#p14feff18f1)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_59">
        <!-- 1994 -->
-       <g style="fill: #808080" transform="translate(165.307983 390.895937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(162.516073 390.895937) scale(0.08 -0.08)">
         <use xlink:href="#Ubuntu-31"/>
         <use xlink:href="#Ubuntu-39" x="56.399994"/>
         <use xlink:href="#Ubuntu-39" x="112.799988"/>
@@ -5312,13 +5313,13 @@ L 174.332983 360.188437
      </g>
      <g id="xtick_46">
       <g id="line2d_60">
-       <path d="M 244.035241 360.188437 
-L 244.035241 360.188437 
-" clip-path="url(#pe6c47e4346)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 239.849286 360.188437 
+L 239.849286 360.188437 
+" clip-path="url(#p14feff18f1)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_60">
        <!-- 1995 -->
-       <g style="fill: #808080" transform="translate(235.010241 390.895937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(230.824286 390.895937) scale(0.08 -0.08)">
         <use xlink:href="#Ubuntu-31"/>
         <use xlink:href="#Ubuntu-39" x="56.399994"/>
         <use xlink:href="#Ubuntu-39" x="112.799988"/>
@@ -5328,13 +5329,13 @@ L 244.035241 360.188437
      </g>
      <g id="xtick_47">
       <g id="line2d_61">
-       <path d="M 313.7375 360.188437 
-L 313.7375 360.188437 
-" clip-path="url(#pe6c47e4346)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 308.1575 360.188437 
+L 308.1575 360.188437 
+" clip-path="url(#p14feff18f1)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_61">
        <!-- 1996 -->
-       <g style="fill: #808080" transform="translate(304.7125 390.895937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(299.1325 390.895937) scale(0.08 -0.08)">
         <use xlink:href="#Ubuntu-31"/>
         <use xlink:href="#Ubuntu-39" x="56.399994"/>
         <use xlink:href="#Ubuntu-39" x="112.799988"/>
@@ -5344,13 +5345,13 @@ L 313.7375 360.188437
      </g>
      <g id="xtick_48">
       <g id="line2d_62">
-       <path d="M 383.630724 360.188437 
-L 383.630724 360.188437 
-" clip-path="url(#pe6c47e4346)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 376.652859 360.188437 
+L 376.652859 360.188437 
+" clip-path="url(#p14feff18f1)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_62">
        <!-- 1997 -->
-       <g style="fill: #808080" transform="translate(374.605724 390.895937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(367.627859 390.895937) scale(0.08 -0.08)">
         <use xlink:href="#Ubuntu-31"/>
         <use xlink:href="#Ubuntu-39" x="56.399994"/>
         <use xlink:href="#Ubuntu-39" x="112.799988"/>
@@ -5360,13 +5361,13 @@ L 383.630724 360.188437
      </g>
      <g id="xtick_49">
       <g id="line2d_63">
-       <path d="M 453.332983 360.188437 
-L 453.332983 360.188437 
-" clip-path="url(#pe6c47e4346)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 444.961073 360.188437 
+L 444.961073 360.188437 
+" clip-path="url(#p14feff18f1)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_63">
        <!-- 1998 -->
-       <g style="fill: #808080" transform="translate(444.307983 390.895937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(435.936073 390.895937) scale(0.08 -0.08)">
         <use xlink:href="#Ubuntu-31"/>
         <use xlink:href="#Ubuntu-39" x="56.399994"/>
         <use xlink:href="#Ubuntu-39" x="112.799988"/>
@@ -5376,13 +5377,13 @@ L 453.332983 360.188437
      </g>
      <g id="xtick_50">
       <g id="line2d_64">
-       <path d="M 523.035241 360.188437 
-L 523.035241 360.188437 
-" clip-path="url(#pe6c47e4346)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 513.269286 360.188437 
+L 513.269286 360.188437 
+" clip-path="url(#p14feff18f1)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_64">
        <!-- 1999 -->
-       <g style="fill: #808080" transform="translate(514.010241 390.895937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(504.244286 390.895937) scale(0.08 -0.08)">
         <use xlink:href="#Ubuntu-31"/>
         <use xlink:href="#Ubuntu-39" x="56.399994"/>
         <use xlink:href="#Ubuntu-39" x="112.799988"/>
@@ -5392,13 +5393,13 @@ L 523.035241 360.188437
      </g>
      <g id="xtick_51">
       <g id="line2d_65">
-       <path d="M 592.7375 360.188437 
-L 592.7375 360.188437 
-" clip-path="url(#pe6c47e4346)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
+       <path d="M 581.5775 360.188437 
+L 581.5775 360.188437 
+" clip-path="url(#p14feff18f1)" style="fill: none; stroke-dasharray: 0.5,0.825; stroke-dashoffset: 0; stroke: #d9d9d9; stroke-width: 0.5"/>
       </g>
       <g id="text_65">
        <!-- 2000 -->
-       <g style="fill: #808080" transform="translate(583.7125 390.895937) scale(0.08 -0.08)">
+       <g style="fill: #808080" transform="translate(572.5525 390.895937) scale(0.08 -0.08)">
         <use xlink:href="#Ubuntu-32"/>
         <use xlink:href="#Ubuntu-30" x="56.399994"/>
         <use xlink:href="#Ubuntu-30" x="112.799988"/>
@@ -5413,12 +5414,12 @@ L 592.7375 360.188437
     <g id="xtick_52">
      <g id="line2d_66">
       <defs>
-       <path id="m6fe5bee8a1" d="M 0 0 
+       <path id="mf79339671c" d="M 0 0 
 L 0 3 
 " style="stroke: #cecece; stroke-width: 0.75"/>
       </defs>
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="34.7375" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="34.7375" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_66">
@@ -5433,12 +5434,12 @@ L 0 3
     <g id="xtick_53">
      <g id="line2d_67">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="52.115323" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="51.767767" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_67">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(44.795323 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(44.447767 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -5448,12 +5449,12 @@ L 0 3
     <g id="xtick_54">
      <g id="line2d_68">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="69.493147" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="68.798034" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_68">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(60.945647 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(60.250534 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -5463,12 +5464,12 @@ L 0 3
     <g id="xtick_55">
      <g id="line2d_69">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="87.061935" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="86.015447" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_69">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(79.95006 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(78.903572 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -5478,12 +5479,12 @@ L 0 3
     <g id="xtick_56">
      <g id="line2d_70">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="104.630724" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="103.232859" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_70">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(97.555099 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(96.157234 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -5493,12 +5494,12 @@ L 0 3
     <g id="xtick_57">
      <g id="line2d_71">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="121.817582" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="120.07598" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_71">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(114.497582 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(112.75598 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -5508,12 +5509,12 @@ L 0 3
     <g id="xtick_58">
      <g id="line2d_72">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="139.195406" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="137.106247" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_72">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(130.647906 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(128.558747 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -5523,12 +5524,12 @@ L 0 3
     <g id="xtick_59">
      <g id="line2d_73">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="156.764194" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="154.32366" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_73">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(149.652319 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(147.211785 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -5538,12 +5539,12 @@ L 0 3
     <g id="xtick_60">
      <g id="line2d_74">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="174.332983" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="171.541073" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_74">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(167.257358 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(164.465448 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -5553,12 +5554,12 @@ L 0 3
     <g id="xtick_61">
      <g id="line2d_75">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="191.519841" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="188.384194" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_75">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(184.199841 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(181.064194 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -5568,12 +5569,12 @@ L 0 3
     <g id="xtick_62">
      <g id="line2d_76">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="208.897664" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="205.414461" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_76">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(200.350164 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(196.866961 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -5583,12 +5584,12 @@ L 0 3
     <g id="xtick_63">
      <g id="line2d_77">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="226.466453" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="222.631874" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_77">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(219.354578 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(215.519999 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -5598,12 +5599,12 @@ L 0 3
     <g id="xtick_64">
      <g id="line2d_78">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="244.035241" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="239.849286" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_78">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(236.959616 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(232.773661 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -5613,12 +5614,12 @@ L 0 3
     <g id="xtick_65">
      <g id="line2d_79">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="261.2221" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="256.692408" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_79">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(253.9021 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(249.372408 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -5628,12 +5629,12 @@ L 0 3
     <g id="xtick_66">
      <g id="line2d_80">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="278.599923" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="273.722675" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_80">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(270.052423 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(265.175175 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -5643,12 +5644,12 @@ L 0 3
     <g id="xtick_67">
      <g id="line2d_81">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="296.168711" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="290.940087" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_81">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(289.056836 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(283.828212 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -5658,12 +5659,12 @@ L 0 3
     <g id="xtick_68">
      <g id="line2d_82">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="313.7375" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="308.1575" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_82">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(306.661875 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(301.081875 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -5673,12 +5674,12 @@ L 0 3
     <g id="xtick_69">
      <g id="line2d_83">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="331.115323" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="325.187767" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_83">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(323.795323 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(317.867767 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -5688,12 +5689,12 @@ L 0 3
     <g id="xtick_70">
      <g id="line2d_84">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="348.493147" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="342.218034" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_84">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(339.945647 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(333.670534 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -5703,12 +5704,12 @@ L 0 3
     <g id="xtick_71">
      <g id="line2d_85">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="366.061935" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="359.435447" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_85">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(358.95006 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(352.323572 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -5718,12 +5719,12 @@ L 0 3
     <g id="xtick_72">
      <g id="line2d_86">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="383.630724" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="376.652859" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_86">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(376.555099 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(369.577234 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -5733,12 +5734,12 @@ L 0 3
     <g id="xtick_73">
      <g id="line2d_87">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="400.817582" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="393.49598" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_87">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(393.497582 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(386.17598 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -5748,12 +5749,12 @@ L 0 3
     <g id="xtick_74">
      <g id="line2d_88">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="418.195406" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="410.526247" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_88">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(409.647906 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(401.978747 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -5763,12 +5764,12 @@ L 0 3
     <g id="xtick_75">
      <g id="line2d_89">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="435.764194" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="427.74366" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_89">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(428.652319 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(420.631785 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -5778,12 +5779,12 @@ L 0 3
     <g id="xtick_76">
      <g id="line2d_90">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="453.332983" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="444.961073" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_90">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(446.257358 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(437.885448 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -5793,12 +5794,12 @@ L 0 3
     <g id="xtick_77">
      <g id="line2d_91">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="470.519841" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="461.804194" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_91">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(463.199841 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(454.484194 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -5808,12 +5809,12 @@ L 0 3
     <g id="xtick_78">
      <g id="line2d_92">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="487.897664" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="478.834461" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_92">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(479.350164 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(470.286961 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -5823,12 +5824,12 @@ L 0 3
     <g id="xtick_79">
      <g id="line2d_93">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="505.466453" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="496.051874" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_93">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(498.354578 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(488.939999 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -5838,12 +5839,12 @@ L 0 3
     <g id="xtick_80">
      <g id="line2d_94">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="523.035241" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="513.269286" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_94">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(515.959616 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(506.193661 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -5853,12 +5854,12 @@ L 0 3
     <g id="xtick_81">
      <g id="line2d_95">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="540.2221" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="530.112408" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_95">
       <!-- Апр -->
-      <g style="fill: #808080" transform="translate(532.9021 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(522.792408 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-410"/>
        <use xlink:href="#Ubuntu-43f" x="66.299988"/>
        <use xlink:href="#Ubuntu-440" x="124.099976"/>
@@ -5868,12 +5869,12 @@ L 0 3
     <g id="xtick_82">
      <g id="line2d_96">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="557.599923" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="547.142675" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_96">
       <!-- Июл -->
-      <g style="fill: #808080" transform="translate(549.052423 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(538.595175 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-418"/>
        <use xlink:href="#Ubuntu-44e" x="72.799988"/>
        <use xlink:href="#Ubuntu-43b" x="153.899979"/>
@@ -5883,12 +5884,12 @@ L 0 3
     <g id="xtick_83">
      <g id="line2d_97">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="575.168711" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="564.360087" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_97">
       <!-- Окт -->
-      <g style="fill: #808080" transform="translate(568.056836 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(557.248212 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-41e"/>
        <use xlink:href="#Ubuntu-43a" x="77.799988"/>
        <use xlink:href="#Ubuntu-442" x="131.499985"/>
@@ -5898,12 +5899,12 @@ L 0 3
     <g id="xtick_84">
      <g id="line2d_98">
       <g>
-       <use xlink:href="#m6fe5bee8a1" x="592.7375" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf79339671c" x="581.5775" y="365.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_98">
       <!-- Янв -->
-      <g style="fill: #808080" transform="translate(585.661875 380.395937) scale(0.08 -0.08)">
+      <g style="fill: #808080" transform="translate(574.501875 380.395937) scale(0.08 -0.08)">
        <use xlink:href="#Ubuntu-42f"/>
        <use xlink:href="#Ubuntu-43d" x="63.499985"/>
        <use xlink:href="#Ubuntu-432" x="122.099976"/>
@@ -5915,12 +5916,12 @@ L 0 3
     <g id="ytick_8">
      <g id="line2d_99">
       <defs>
-       <path id="me04b97e737" d="M 0 0 
+       <path id="mf98cf9088b" d="M 0 0 
 L -3 0 
 " style="stroke: #cecece; stroke-width: 0.75"/>
       </defs>
       <g>
-       <use xlink:href="#me04b97e737" x="29.7375" y="360.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf98cf9088b" x="29.7375" y="360.188437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_99">
@@ -5934,7 +5935,7 @@ L -3 0
     <g id="ytick_9">
      <g id="line2d_100">
       <g>
-       <use xlink:href="#me04b97e737" x="29.7375" y="338.012437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf98cf9088b" x="29.7375" y="338.012437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_100">
@@ -5949,7 +5950,7 @@ L -3 0
     <g id="ytick_10">
      <g id="line2d_101">
       <g>
-       <use xlink:href="#me04b97e737" x="29.7375" y="315.836437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf98cf9088b" x="29.7375" y="315.836437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_101">
@@ -5964,7 +5965,7 @@ L -3 0
     <g id="ytick_11">
      <g id="line2d_102">
       <g>
-       <use xlink:href="#me04b97e737" x="29.7375" y="293.660437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf98cf9088b" x="29.7375" y="293.660437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_102">
@@ -5979,7 +5980,7 @@ L -3 0
     <g id="ytick_12">
      <g id="line2d_103">
       <g>
-       <use xlink:href="#me04b97e737" x="29.7375" y="271.484437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf98cf9088b" x="29.7375" y="271.484437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_103">
@@ -5994,7 +5995,7 @@ L -3 0
     <g id="ytick_13">
      <g id="line2d_104">
       <g>
-       <use xlink:href="#me04b97e737" x="29.7375" y="249.308437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf98cf9088b" x="29.7375" y="249.308437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_104">
@@ -6009,7 +6010,7 @@ L -3 0
     <g id="ytick_14">
      <g id="line2d_105">
       <g>
-       <use xlink:href="#me04b97e737" x="29.7375" y="227.132437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
+       <use xlink:href="#mf98cf9088b" x="29.7375" y="227.132437" style="fill: #cecece; stroke: #cecece; stroke-width: 0.75"/>
       </g>
      </g>
      <g id="text_105">
@@ -6025,972 +6026,973 @@ L -3 0
    <g id="PolyCollection_2">
     <path d="M 34.7375 -205.964843 
 L 34.7375 371.276437 
-L 35.19795 371.276437 
-L 35.658401 371.276437 
-L 36.118851 371.276437 
-L 36.579302 371.276437 
-L 37.039752 371.276437 
-L 37.500203 371.276437 
-L 37.960653 371.276437 
-L 38.421104 371.276437 
-L 38.881554 371.276437 
-L 39.342004 371.276437 
-L 39.802455 371.276437 
-L 40.262905 371.276437 
-L 40.723356 371.276437 
-L 41.183806 371.276437 
-L 41.644257 371.276437 
-L 42.104707 371.276437 
-L 42.565158 371.276437 
-L 43.025608 371.276437 
-L 43.486058 371.276437 
-L 43.946509 371.276437 
-L 44.406959 371.276437 
-L 44.86741 371.276437 
-L 45.32786 371.276437 
-L 45.788311 371.276437 
-L 46.248761 371.276437 
-L 46.709212 371.276437 
-L 47.169662 371.276437 
-L 47.630112 371.276437 
-L 48.090563 371.276437 
-L 48.551013 371.276437 
-L 49.011464 371.276437 
-L 49.471914 371.276437 
-L 49.932365 371.276437 
-L 50.392815 371.276437 
-L 50.853266 371.276437 
-L 51.313716 371.276437 
-L 51.774166 371.276437 
-L 52.234617 371.276437 
-L 52.695067 371.276437 
-L 53.155518 371.276437 
-L 53.615968 371.276437 
-L 54.076419 371.276437 
-L 54.536869 371.276437 
-L 54.99732 371.276437 
-L 55.45777 371.276437 
-L 55.91822 371.276437 
-L 56.378671 371.276437 
-L 56.839121 371.276437 
+L 35.188741 371.276437 
+L 35.639983 371.276437 
+L 36.091224 371.276437 
+L 36.542466 371.276437 
+L 36.993707 371.276437 
+L 37.444949 371.276437 
+L 37.89619 371.276437 
+L 38.347431 371.276437 
+L 38.798673 371.276437 
+L 39.249914 371.276437 
+L 39.701156 371.276437 
+L 40.152397 371.276437 
+L 40.603639 371.276437 
+L 41.05488 371.276437 
+L 41.506122 371.276437 
+L 41.957363 371.276437 
+L 42.408604 371.276437 
+L 42.859846 371.276437 
+L 43.311087 371.276437 
+L 43.762329 371.276437 
+L 44.21357 371.276437 
+L 44.664812 371.276437 
+L 45.116053 371.276437 
+L 45.567294 371.276437 
+L 46.018536 371.276437 
+L 46.469777 371.276437 
+L 46.921019 371.276437 
+L 47.37226 371.276437 
+L 47.823502 371.276437 
+L 48.274743 371.276437 
+L 48.725984 371.276437 
+L 49.177226 371.276437 
+L 49.628467 371.276437 
+L 50.079709 371.276437 
+L 50.53095 371.276437 
+L 50.982192 371.276437 
+L 51.433433 371.276437 
+L 51.884675 371.276437 
+L 52.335916 371.276437 
+L 52.787157 371.276437 
+L 53.238399 371.276437 
+L 53.68964 371.276437 
+L 54.140882 371.276437 
+L 54.592123 371.276437 
+L 55.043365 371.276437 
+L 55.494606 371.276437 
+L 55.945847 371.276437 
+L 56.397089 371.276437 
+L 56.84833 371.276437 
 L 57.299572 371.276437 
-L 57.760022 371.276437 
-L 58.220473 371.276437 
-L 58.680923 371.276437 
-L 59.141374 371.276437 
-L 59.601824 371.276437 
-L 60.062274 371.276437 
-L 60.522725 371.276437 
-L 60.983175 371.276437 
-L 61.443626 371.276437 
-L 61.904076 371.276437 
-L 62.364527 371.276437 
-L 62.824977 371.276437 
-L 63.285428 371.276437 
-L 63.745878 371.276437 
-L 64.206328 371.276437 
-L 64.666779 371.276437 
-L 65.127229 371.276437 
-L 65.58768 371.276437 
-L 66.04813 371.276437 
-L 66.508581 371.276437 
-L 66.969031 371.276437 
-L 67.429482 371.276437 
-L 67.889932 371.276437 
-L 68.350382 371.276437 
-L 68.810833 371.276437 
-L 69.271283 371.276437 
-L 69.731734 371.276437 
-L 70.192184 371.276437 
-L 70.652635 371.276437 
-L 71.113085 371.276437 
-L 71.573536 371.276437 
-L 72.033986 371.276437 
-L 72.494436 371.276437 
-L 72.494436 319.162293 
-L 72.494436 319.162293 
-L 72.033986 318.896163 
-L 71.573536 318.482878 
-L 71.113085 317.898995 
-L 70.652635 317.12107 
-L 70.192184 316.125663 
-L 69.731734 314.889331 
-L 69.271283 313.394104 
-L 68.810833 311.673613 
-L 68.350382 309.789832 
-L 67.889932 307.805031 
-L 67.429482 305.781476 
-L 66.969031 303.781436 
-L 66.508581 301.867179 
-L 66.04813 300.100973 
-L 65.58768 298.545086 
-L 65.127229 297.261786 
-L 64.666779 296.31334 
-L 64.206328 295.762017 
-L 63.745878 295.670058 
-L 63.285428 296.06809 
-L 62.824977 296.894238 
-L 62.364527 298.0698 
-L 61.904076 299.516073 
-L 61.443626 301.154354 
-L 60.983175 302.90594 
-L 60.522725 304.692127 
-L 60.062274 306.434213 
-L 59.601824 308.053494 
-L 59.141374 309.471268 
-L 58.680923 310.608832 
-L 58.220473 311.387483 
-L 57.760022 311.730689 
-L 57.299572 311.615803 
-L 56.839121 311.076324 
-L 56.378671 310.148377 
-L 55.91822 308.868086 
-L 55.45777 307.271576 
-L 54.99732 305.394974 
-L 54.536869 303.274403 
-L 54.076419 300.945989 
-L 53.615968 298.445856 
-L 53.155518 295.810131 
-L 52.695067 293.074937 
-L 52.234617 290.276401 
-L 51.774166 287.452916 
-L 51.313716 284.656628 
-L 50.853266 281.944831 
-L 50.392815 279.374829 
-L 49.932365 277.003925 
-L 49.471914 274.889422 
-L 49.011464 273.088626 
-L 48.551013 271.658838 
-L 48.090563 270.657363 
-L 47.630112 270.141505 
-L 47.169662 270.168566 
-L 46.709212 270.795851 
-L 46.248761 272.079876 
-L 45.788311 273.974085 
-L 45.32786 276.227341 
-L 44.86741 278.564376 
-L 44.406959 280.709924 
-L 43.946509 282.388719 
-L 43.486058 283.325492 
-L 43.025608 283.244977 
-L 42.565158 281.871907 
-L 42.104707 278.931015 
-L 41.644257 274.147035 
-L 41.183806 267.244699 
-L 40.723356 257.94874 
-L 40.262905 245.983892 
-L 39.802455 231.074887 
-L 39.342004 212.946458 
-L 38.881554 191.323339 
-L 38.421104 165.930263 
-L 37.960653 136.491963 
-L 37.500203 102.733171 
-L 37.039752 64.378621 
-L 36.579302 21.153047 
-L 36.118851 -27.21882 
-L 35.658401 -81.012246 
-L 35.19795 -140.502498 
+L 57.750813 371.276437 
+L 58.202055 371.276437 
+L 58.653296 371.276437 
+L 59.104537 371.276437 
+L 59.555779 371.276437 
+L 60.00702 371.276437 
+L 60.458262 371.276437 
+L 60.909503 371.276437 
+L 61.360745 371.276437 
+L 61.811986 371.276437 
+L 62.263228 371.276437 
+L 62.714469 371.276437 
+L 63.16571 371.276437 
+L 63.616952 371.276437 
+L 64.068193 371.276437 
+L 64.519435 371.276437 
+L 64.970676 371.276437 
+L 65.421918 371.276437 
+L 65.873159 371.276437 
+L 66.3244 371.276437 
+L 66.775642 371.276437 
+L 67.226883 371.276437 
+L 67.678125 371.276437 
+L 68.129366 371.276437 
+L 68.580608 371.276437 
+L 69.031849 371.276437 
+L 69.48309 371.276437 
+L 69.934332 371.276437 
+L 70.385573 371.276437 
+L 70.836815 371.276437 
+L 71.288056 371.276437 
+L 71.739298 371.276437 
+L 71.739298 319.162293 
+L 71.739298 319.162293 
+L 71.288056 318.896163 
+L 70.836815 318.482878 
+L 70.385573 317.898995 
+L 69.934332 317.12107 
+L 69.48309 316.125663 
+L 69.031849 314.889331 
+L 68.580608 313.394104 
+L 68.129366 311.673613 
+L 67.678125 309.789832 
+L 67.226883 307.805031 
+L 66.775642 305.781476 
+L 66.3244 303.781436 
+L 65.873159 301.867179 
+L 65.421918 300.100973 
+L 64.970676 298.545086 
+L 64.519435 297.261786 
+L 64.068193 296.31334 
+L 63.616952 295.762017 
+L 63.16571 295.670058 
+L 62.714469 296.06809 
+L 62.263228 296.894238 
+L 61.811986 298.0698 
+L 61.360745 299.516073 
+L 60.909503 301.154354 
+L 60.458262 302.90594 
+L 60.00702 304.692127 
+L 59.555779 306.434213 
+L 59.104537 308.053494 
+L 58.653296 309.471268 
+L 58.202055 310.608832 
+L 57.750813 311.387483 
+L 57.299572 311.730689 
+L 56.84833 311.615803 
+L 56.397089 311.076324 
+L 55.945847 310.148377 
+L 55.494606 308.868086 
+L 55.043365 307.271576 
+L 54.592123 305.394974 
+L 54.140882 303.274403 
+L 53.68964 300.945989 
+L 53.238399 298.445856 
+L 52.787157 295.810131 
+L 52.335916 293.074937 
+L 51.884675 290.276401 
+L 51.433433 287.452916 
+L 50.982192 284.656628 
+L 50.53095 281.944831 
+L 50.079709 279.374829 
+L 49.628467 277.003925 
+L 49.177226 274.889422 
+L 48.725984 273.088626 
+L 48.274743 271.658838 
+L 47.823502 270.657363 
+L 47.37226 270.141505 
+L 46.921019 270.168566 
+L 46.469777 270.795851 
+L 46.018536 272.079876 
+L 45.567294 273.974085 
+L 45.116053 276.227341 
+L 44.664812 278.564376 
+L 44.21357 280.709924 
+L 43.762329 282.388719 
+L 43.311087 283.325492 
+L 42.859846 283.244977 
+L 42.408604 281.871907 
+L 41.957363 278.931015 
+L 41.506122 274.147035 
+L 41.05488 267.244699 
+L 40.603639 257.94874 
+L 40.152397 245.983892 
+L 39.701156 231.074887 
+L 39.249914 212.946458 
+L 38.798673 191.323339 
+L 38.347431 165.930263 
+L 37.89619 136.491963 
+L 37.444949 102.733171 
+L 36.993707 64.378621 
+L 36.542466 21.153047 
+L 36.091224 -27.21882 
+L 35.639983 -81.012246 
+L 35.188741 -140.502498 
 L 34.7375 -205.964843 
 z
-" clip-path="url(#p4609f51a64)" style="fill: #608eb4; fill-opacity: 0.4"/>
+" clip-path="url(#p46738cc638)" style="fill: #608eb4; fill-opacity: 0.4"/>
    </g>
    <g id="PolyCollection_3">
-    <path d="M 145.245607 280.338061 
-L 145.245607 371.276437 
-L 145.706057 371.276437 
-L 146.166507 371.276437 
-L 146.626958 371.276437 
-L 147.087408 371.276437 
+    <path d="M 143.035444 280.338061 
+L 143.035444 371.276437 
+L 143.486686 371.276437 
+L 143.937927 371.276437 
+L 144.389169 371.276437 
+L 144.84041 371.276437 
+L 145.291652 371.276437 
+L 145.742893 371.276437 
+L 146.194134 371.276437 
+L 146.645376 371.276437 
+L 147.096617 371.276437 
 L 147.547859 371.276437 
-L 148.008309 371.276437 
-L 148.46876 371.276437 
-L 148.92921 371.276437 
-L 149.389661 371.276437 
-L 149.850111 371.276437 
-L 150.310561 371.276437 
-L 150.771012 371.276437 
-L 151.231462 371.276437 
-L 151.691913 371.276437 
-L 152.152363 371.276437 
-L 152.612814 371.276437 
-L 153.073264 371.276437 
-L 153.533715 371.276437 
-L 153.994165 371.276437 
-L 154.454615 371.276437 
-L 154.915066 371.276437 
-L 155.375516 371.276437 
-L 155.835967 371.276437 
-L 156.296417 371.276437 
-L 156.756868 371.276437 
-L 157.217318 371.276437 
-L 157.677768 371.276437 
-L 158.138219 371.276437 
-L 158.598669 371.276437 
-L 159.05912 371.276437 
-L 159.51957 371.276437 
-L 159.980021 371.276437 
-L 160.440471 371.276437 
-L 160.900922 371.276437 
-L 161.361372 371.276437 
-L 161.821822 371.276437 
-L 162.282273 371.276437 
-L 162.742723 371.276437 
-L 163.203174 371.276437 
-L 163.663624 371.276437 
-L 164.124075 371.276437 
-L 164.584525 371.276437 
-L 165.044976 371.276437 
-L 165.505426 371.276437 
-L 165.965876 371.276437 
-L 166.426327 371.276437 
-L 166.886777 371.276437 
-L 167.347228 371.276437 
-L 167.807678 371.276437 
-L 168.268129 371.276437 
-L 168.268129 310.399637 
-L 168.268129 310.399637 
-L 167.807678 310.586141 
-L 167.347228 310.500815 
-L 166.886777 310.176663 
-L 166.426327 309.64669 
-L 165.965876 308.943899 
-L 165.505426 308.101296 
-L 165.044976 307.151883 
-L 164.584525 306.128666 
-L 164.124075 305.064648 
-L 163.663624 303.992834 
-L 163.203174 302.946228 
-L 162.742723 301.957835 
-L 162.282273 301.058551 
-L 161.821822 300.25446 
-L 161.361372 299.53549 
-L 160.900922 298.891289 
-L 160.440471 298.311507 
-L 159.980021 297.785794 
-L 159.51957 297.303801 
-L 159.05912 296.855176 
-L 158.598669 296.42957 
-L 158.138219 296.016633 
-L 157.677768 295.606014 
-L 157.217318 295.187362 
-L 156.756868 294.750329 
-L 156.296417 294.286602 
-L 155.835967 293.795051 
-L 155.375516 293.276132 
-L 154.915066 292.7303 
-L 154.454615 292.158008 
-L 153.994165 291.559712 
-L 153.533715 290.935865 
-L 153.073264 290.286922 
-L 152.612814 289.613339 
-L 152.152363 288.915569 
-L 151.691913 288.194066 
-L 151.231462 287.449287 
-L 150.771012 286.681858 
-L 150.310561 285.898424 
-L 149.850111 285.11302 
-L 149.389661 284.340132 
-L 148.92921 283.594252 
-L 148.46876 282.889866 
-L 148.008309 282.241463 
-L 147.547859 281.663533 
-L 147.087408 281.170563 
-L 146.626958 280.777042 
-L 146.166507 280.497459 
-L 145.706057 280.346303 
-L 145.245607 280.338061 
+L 147.9991 371.276437 
+L 148.450342 371.276437 
+L 148.901583 371.276437 
+L 149.352824 371.276437 
+L 149.804066 371.276437 
+L 150.255307 371.276437 
+L 150.706549 371.276437 
+L 151.15779 371.276437 
+L 151.609032 371.276437 
+L 152.060273 371.276437 
+L 152.511515 371.276437 
+L 152.962756 371.276437 
+L 153.413997 371.276437 
+L 153.865239 371.276437 
+L 154.31648 371.276437 
+L 154.767722 371.276437 
+L 155.218963 371.276437 
+L 155.670205 371.276437 
+L 156.121446 371.276437 
+L 156.572687 371.276437 
+L 157.023929 371.276437 
+L 157.47517 371.276437 
+L 157.926412 371.276437 
+L 158.377653 371.276437 
+L 158.828895 371.276437 
+L 159.280136 371.276437 
+L 159.731377 371.276437 
+L 160.182619 371.276437 
+L 160.63386 371.276437 
+L 161.085102 371.276437 
+L 161.536343 371.276437 
+L 161.987585 371.276437 
+L 162.438826 371.276437 
+L 162.890068 371.276437 
+L 163.341309 371.276437 
+L 163.79255 371.276437 
+L 164.243792 371.276437 
+L 164.695033 371.276437 
+L 165.146275 371.276437 
+L 165.597516 371.276437 
+L 165.597516 310.399637 
+L 165.597516 310.399637 
+L 165.146275 310.586141 
+L 164.695033 310.500815 
+L 164.243792 310.176663 
+L 163.79255 309.64669 
+L 163.341309 308.943899 
+L 162.890068 308.101296 
+L 162.438826 307.151883 
+L 161.987585 306.128666 
+L 161.536343 305.064648 
+L 161.085102 303.992834 
+L 160.63386 302.946228 
+L 160.182619 301.957835 
+L 159.731377 301.058551 
+L 159.280136 300.25446 
+L 158.828895 299.53549 
+L 158.377653 298.891289 
+L 157.926412 298.311507 
+L 157.47517 297.785794 
+L 157.023929 297.303801 
+L 156.572687 296.855176 
+L 156.121446 296.42957 
+L 155.670205 296.016633 
+L 155.218963 295.606014 
+L 154.767722 295.187362 
+L 154.31648 294.750329 
+L 153.865239 294.286602 
+L 153.413997 293.795051 
+L 152.962756 293.276132 
+L 152.511515 292.7303 
+L 152.060273 292.158008 
+L 151.609032 291.559712 
+L 151.15779 290.935865 
+L 150.706549 290.286922 
+L 150.255307 289.613339 
+L 149.804066 288.915569 
+L 149.352824 288.194066 
+L 148.901583 287.449287 
+L 148.450342 286.681858 
+L 147.9991 285.898424 
+L 147.547859 285.11302 
+L 147.096617 284.340132 
+L 146.645376 283.594252 
+L 146.194134 282.889866 
+L 145.742893 282.241463 
+L 145.291652 281.663533 
+L 144.84041 281.170563 
+L 144.389169 280.777042 
+L 143.937927 280.497459 
+L 143.486686 280.346303 
+L 143.035444 280.338061 
 z
-" clip-path="url(#p4609f51a64)" style="fill: #489079; fill-opacity: 0.3"/>
+" clip-path="url(#p46738cc638)" style="fill: #489079; fill-opacity: 0.3"/>
    </g>
    <g id="PolyCollection_4">
-    <path d="M 238.256596 301.484232 
-L 238.256596 371.276437 
-L 238.717047 371.276437 
-L 239.177497 371.276437 
-L 239.637947 371.276437 
-L 240.098398 371.276437 
-L 240.558848 371.276437 
-L 241.019299 371.276437 
-L 241.479749 371.276437 
-L 241.9402 371.276437 
-L 242.40065 371.276437 
-L 242.861101 371.276437 
-L 243.321551 371.276437 
-L 243.782001 371.276437 
-L 244.242452 371.276437 
-L 244.702902 371.276437 
-L 245.163353 371.276437 
-L 245.623803 371.276437 
-L 246.084254 371.276437 
-L 246.544704 371.276437 
-L 247.005155 371.276437 
-L 247.465605 371.276437 
-L 247.926055 371.276437 
-L 248.386506 371.276437 
-L 248.846956 371.276437 
-L 249.307407 371.276437 
-L 249.767857 371.276437 
-L 250.228308 371.276437 
-L 250.688758 371.276437 
-L 251.149209 371.276437 
-L 251.609659 371.276437 
-L 252.070109 371.276437 
-L 252.53056 371.276437 
-L 252.99101 371.276437 
-L 253.451461 371.276437 
-L 253.911911 371.276437 
-L 254.372362 371.276437 
-L 254.832812 371.276437 
-L 255.293263 371.276437 
-L 255.753713 371.276437 
-L 256.214163 371.276437 
-L 256.674614 371.276437 
-L 257.135064 371.276437 
-L 257.595515 371.276437 
-L 258.055965 371.276437 
-L 258.516416 371.276437 
-L 258.976866 371.276437 
-L 259.437317 371.276437 
-L 259.897767 371.276437 
+    <path d="M 234.186214 301.484232 
+L 234.186214 371.276437 
+L 234.637456 371.276437 
+L 235.088697 371.276437 
+L 235.539939 371.276437 
+L 235.99118 371.276437 
+L 236.442421 371.276437 
+L 236.893663 371.276437 
+L 237.344904 371.276437 
+L 237.796146 371.276437 
+L 238.247387 371.276437 
+L 238.698629 371.276437 
+L 239.14987 371.276437 
+L 239.601111 371.276437 
+L 240.052353 371.276437 
+L 240.503594 371.276437 
+L 240.954836 371.276437 
+L 241.406077 371.276437 
+L 241.857319 371.276437 
+L 242.30856 371.276437 
+L 242.759802 371.276437 
+L 243.211043 371.276437 
+L 243.662284 371.276437 
+L 244.113526 371.276437 
+L 244.564767 371.276437 
+L 245.016009 371.276437 
+L 245.46725 371.276437 
+L 245.918492 371.276437 
+L 246.369733 371.276437 
+L 246.820974 371.276437 
+L 247.272216 371.276437 
+L 247.723457 371.276437 
+L 248.174699 371.276437 
+L 248.62594 371.276437 
+L 249.077182 371.276437 
+L 249.528423 371.276437 
+L 249.979664 371.276437 
+L 250.430906 371.276437 
+L 250.882147 371.276437 
+L 251.333389 371.276437 
+L 251.78463 371.276437 
+L 252.235872 371.276437 
+L 252.687113 371.276437 
+L 253.138355 371.276437 
+L 253.589596 371.276437 
+L 254.040837 371.276437 
+L 254.492079 371.276437 
+L 254.94332 371.276437 
+L 255.394562 371.276437 
+L 255.845803 371.276437 
+L 256.297045 371.276437 
+L 256.748286 371.276437 
+L 257.199527 371.276437 
+L 257.650769 371.276437 
+L 258.10201 371.276437 
+L 258.553252 371.276437 
+L 259.004493 371.276437 
+L 259.455735 371.276437 
+L 259.906976 371.276437 
 L 260.358217 371.276437 
-L 260.818668 371.276437 
-L 261.279118 371.276437 
-L 261.739569 371.276437 
-L 262.200019 371.276437 
-L 262.66047 371.276437 
-L 263.12092 371.276437 
-L 263.581371 371.276437 
-L 264.041821 371.276437 
-L 264.502271 371.276437 
-L 264.962722 371.276437 
-L 265.423172 371.276437 
-L 265.883623 371.276437 
-L 266.344073 371.276437 
-L 266.804524 371.276437 
-L 267.264974 371.276437 
-L 267.725425 371.276437 
-L 268.185875 371.276437 
-L 268.646325 371.276437 
-L 269.106776 371.276437 
-L 269.567226 371.276437 
-L 270.027677 371.276437 
-L 270.488127 371.276437 
-L 270.948578 371.276437 
-L 271.409028 371.276437 
-L 271.869479 371.276437 
-L 272.329929 371.276437 
-L 272.790379 371.276437 
-L 273.25083 371.276437 
-L 273.71128 371.276437 
-L 274.171731 371.276437 
-L 274.632181 371.276437 
-L 275.092632 371.276437 
-L 275.553082 371.276437 
-L 276.013533 371.276437 
-L 276.473983 371.276437 
-L 276.934433 371.276437 
-L 277.394884 371.276437 
-L 277.855334 371.276437 
-L 278.315785 371.276437 
-L 278.776235 371.276437 
-L 279.236686 371.276437 
-L 279.697136 371.276437 
-L 280.157587 371.276437 
-L 280.618037 371.276437 
-L 281.078487 371.276437 
-L 281.538938 371.276437 
-L 281.999388 371.276437 
-L 282.459839 371.276437 
+L 260.809459 371.276437 
+L 261.2607 371.276437 
+L 261.711942 371.276437 
+L 262.163183 371.276437 
+L 262.614425 371.276437 
+L 263.065666 371.276437 
+L 263.516908 371.276437 
+L 263.968149 371.276437 
+L 264.41939 371.276437 
+L 264.870632 371.276437 
+L 265.321873 371.276437 
+L 265.773115 371.276437 
+L 266.224356 371.276437 
+L 266.675598 371.276437 
+L 267.126839 371.276437 
+L 267.57808 371.276437 
+L 268.029322 371.276437 
+L 268.480563 371.276437 
+L 268.931805 371.276437 
+L 269.383046 371.276437 
+L 269.834288 371.276437 
+L 270.285529 371.276437 
+L 270.73677 371.276437 
+L 271.188012 371.276437 
+L 271.639253 371.276437 
+L 272.090495 371.276437 
+L 272.541736 371.276437 
+L 272.992978 371.276437 
+L 273.444219 371.276437 
+L 273.895461 371.276437 
+L 274.346702 371.276437 
+L 274.797943 371.276437 
+L 275.249185 371.276437 
+L 275.700426 371.276437 
+L 276.151668 371.276437 
+L 276.602909 371.276437 
+L 277.054151 371.276437 
+L 277.505392 371.276437 
+L 277.956633 371.276437 
+L 278.407875 371.276437 
+L 278.859116 371.276437 
+L 279.310358 371.276437 
+L 279.761599 371.276437 
+L 280.212841 371.276437 
+L 280.664082 371.276437 
+L 281.115323 371.276437 
+L 281.566565 371.276437 
+L 282.017806 371.276437 
+L 282.469048 371.276437 
 L 282.920289 371.276437 
-L 283.38074 371.276437 
-L 283.84119 371.276437 
-L 284.301641 371.276437 
-L 284.762091 371.276437 
-L 285.222541 371.276437 
-L 285.682992 371.276437 
-L 286.143442 371.276437 
-L 286.603893 371.276437 
-L 287.064343 371.276437 
-L 287.524794 371.276437 
-L 287.985244 371.276437 
-L 288.445695 371.276437 
-L 288.906145 371.276437 
-L 289.366595 371.276437 
-L 289.827046 371.276437 
-L 290.287496 371.276437 
-L 290.747947 371.276437 
-L 291.208397 371.276437 
-L 291.668848 371.276437 
-L 292.129298 371.276437 
-L 292.589749 371.276437 
-L 293.050199 371.276437 
-L 293.510649 371.276437 
-L 293.9711 371.276437 
-L 294.43155 371.276437 
-L 294.892001 371.276437 
-L 295.352451 371.276437 
-L 295.812902 371.276437 
-L 296.273352 371.276437 
-L 296.733803 371.276437 
-L 297.194253 371.276437 
-L 297.654703 371.276437 
-L 298.115154 371.276437 
-L 298.575604 371.276437 
-L 299.036055 371.276437 
-L 299.496505 371.276437 
-L 299.956956 371.276437 
-L 300.417406 371.276437 
-L 300.877857 371.276437 
-L 301.338307 371.276437 
-L 301.798757 371.276437 
-L 302.259208 371.276437 
-L 302.719658 371.276437 
-L 303.180109 371.276437 
-L 303.640559 371.276437 
-L 304.10101 371.276437 
-L 304.56146 371.276437 
-L 305.021911 371.276437 
-L 305.482361 371.276437 
-L 305.942811 371.276437 
-L 306.403262 371.276437 
-L 306.863712 371.276437 
-L 307.324163 371.276437 
-L 307.784613 371.276437 
-L 308.245064 371.276437 
-L 308.705514 371.276437 
-L 309.165965 371.276437 
-L 309.626415 371.276437 
-L 310.086865 371.276437 
-L 310.547316 371.276437 
-L 310.547316 330.044762 
-L 310.547316 330.044762 
-L 310.086865 330.2796 
-L 309.626415 330.495195 
-L 309.165965 330.678915 
-L 308.705514 330.818128 
-L 308.245064 330.900202 
-L 307.784613 330.912532 
-L 307.324163 330.848806 
-L 306.863712 330.717182 
-L 306.403262 330.527842 
-L 305.942811 330.290968 
-L 305.482361 330.016742 
-L 305.021911 329.715346 
-L 304.56146 329.396962 
-L 304.10101 329.071773 
-L 303.640559 328.74996 
-L 303.180109 328.441705 
-L 302.719658 328.157191 
-L 302.259208 327.906599 
-L 301.798757 327.699669 
-L 301.338307 327.538617 
-L 300.877857 327.419366 
-L 300.417406 327.337646 
-L 299.956956 327.289187 
-L 299.496505 327.269718 
-L 299.036055 327.274969 
-L 298.575604 327.30067 
-L 298.115154 327.34255 
-L 297.654703 327.39634 
-L 297.194253 327.457768 
-L 296.733803 327.522565 
-L 296.273352 327.58646 
-L 295.812902 327.645829 
-L 295.352451 327.700067 
-L 294.892001 327.749455 
-L 294.43155 327.794273 
-L 293.9711 327.834804 
-L 293.510649 327.871327 
-L 293.050199 327.904123 
-L 292.589749 327.933473 
-L 292.129298 327.959657 
-L 291.668848 327.982958 
-L 291.208397 328.003654 
-L 290.747947 328.022028 
-L 290.287496 328.038353 
-L 289.827046 328.0525 
-L 289.366595 328.063701 
-L 288.906145 328.071133 
-L 288.445695 328.073972 
-L 287.985244 328.071394 
-L 287.524794 328.062574 
-L 287.064343 328.046691 
-L 286.603893 328.022918 
-L 286.143442 327.990433 
-L 285.682992 327.948412 
-L 285.222541 327.896031 
-L 284.762091 327.832467 
-L 284.301641 327.756964 
-L 283.84119 327.669475 
-L 283.38074 327.570361 
-L 282.920289 327.459991 
-L 282.459839 327.33873 
-L 281.999388 327.206947 
-L 281.538938 327.065008 
-L 281.078487 326.91328 
-L 280.618037 326.752131 
-L 280.157587 326.581928 
-L 279.697136 326.403038 
-L 279.236686 326.215828 
-L 278.776235 326.020665 
-L 278.315785 325.817983 
-L 277.855334 325.60842 
-L 277.394884 325.392656 
-L 276.934433 325.171369 
-L 276.473983 324.945238 
-L 276.013533 324.714942 
-L 275.553082 324.481159 
-L 275.092632 324.24457 
-L 274.632181 324.005851 
-L 274.171731 323.765683 
-L 273.71128 323.524745 
-L 273.25083 323.283714 
-L 272.790379 323.043274 
-L 272.329929 322.804202 
-L 271.869479 322.567381 
-L 271.409028 322.333699 
-L 270.948578 322.104046 
-L 270.488127 321.87931 
-L 270.027677 321.660378 
-L 269.567226 321.44814 
-L 269.106776 321.243483 
-L 268.646325 321.047297 
-L 268.185875 320.860469 
-L 267.725425 320.683889 
-L 267.264974 320.518444 
-L 266.804524 320.364843 
-L 266.344073 320.222627 
-L 265.883623 320.090874 
-L 265.423172 319.968661 
-L 264.962722 319.855065 
-L 264.502271 319.749161 
-L 264.041821 319.650027 
-L 263.581371 319.55674 
-L 263.12092 319.468375 
-L 262.66047 319.384009 
-L 262.200019 319.30272 
-L 261.739569 319.223582 
-L 261.279118 319.145676 
-L 260.818668 319.0684 
-L 260.358217 318.991827 
-L 259.897767 318.916114 
-L 259.437317 318.841419 
-L 258.976866 318.767901 
-L 258.516416 318.695716 
-L 258.055965 318.625024 
-L 257.595515 318.555982 
-L 257.135064 318.488747 
-L 256.674614 318.423478 
-L 256.214163 318.360333 
-L 255.753713 318.299469 
-L 255.293263 318.240596 
-L 254.832812 318.176724 
-L 254.372362 318.095701 
-L 253.911911 317.985245 
-L 253.451461 317.833073 
-L 252.99101 317.626902 
-L 252.53056 317.354449 
-L 252.070109 317.003432 
-L 251.609659 316.561567 
-L 251.149209 316.016571 
-L 250.688758 315.356161 
-L 250.228308 314.568055 
-L 249.767857 313.63997 
-L 249.307407 312.566095 
-L 248.846956 311.368206 
-L 248.386506 310.075421 
-L 247.926055 308.716858 
-L 247.465605 307.321637 
-L 247.005155 305.918875 
-L 246.544704 304.537693 
-L 246.084254 303.207209 
-L 245.623803 301.956541 
-L 245.163353 300.814809 
-L 244.702902 299.811132 
-L 244.242452 298.974627 
-L 243.782001 298.334049 
-L 243.321551 297.89961 
-L 242.861101 297.654611 
-L 242.40065 297.580234 
-L 241.9402 297.657665 
-L 241.479749 297.868087 
-L 241.019299 298.192683 
-L 240.558848 298.612638 
-L 240.098398 299.109136 
-L 239.637947 299.66336 
-L 239.177497 300.256495 
-L 238.717047 300.869724 
-L 238.256596 301.484232 
+L 283.371531 371.276437 
+L 283.822772 371.276437 
+L 284.274014 371.276437 
+L 284.725255 371.276437 
+L 285.176496 371.276437 
+L 285.627738 371.276437 
+L 286.078979 371.276437 
+L 286.530221 371.276437 
+L 286.981462 371.276437 
+L 287.432704 371.276437 
+L 287.883945 371.276437 
+L 288.335186 371.276437 
+L 288.786428 371.276437 
+L 289.237669 371.276437 
+L 289.688911 371.276437 
+L 290.140152 371.276437 
+L 290.591394 371.276437 
+L 291.042635 371.276437 
+L 291.493876 371.276437 
+L 291.945118 371.276437 
+L 292.396359 371.276437 
+L 292.847601 371.276437 
+L 293.298842 371.276437 
+L 293.750084 371.276437 
+L 294.201325 371.276437 
+L 294.652567 371.276437 
+L 295.103808 371.276437 
+L 295.555049 371.276437 
+L 296.006291 371.276437 
+L 296.457532 371.276437 
+L 296.908774 371.276437 
+L 297.360015 371.276437 
+L 297.811257 371.276437 
+L 298.262498 371.276437 
+L 298.713739 371.276437 
+L 299.164981 371.276437 
+L 299.616222 371.276437 
+L 300.067464 371.276437 
+L 300.518705 371.276437 
+L 300.969947 371.276437 
+L 301.421188 371.276437 
+L 301.872429 371.276437 
+L 302.323671 371.276437 
+L 302.774912 371.276437 
+L 303.226154 371.276437 
+L 303.677395 371.276437 
+L 304.128637 371.276437 
+L 304.579878 371.276437 
+L 305.03112 371.276437 
+L 305.03112 330.044762 
+L 305.03112 330.044762 
+L 304.579878 330.2796 
+L 304.128637 330.495195 
+L 303.677395 330.678915 
+L 303.226154 330.818128 
+L 302.774912 330.900202 
+L 302.323671 330.912532 
+L 301.872429 330.848806 
+L 301.421188 330.717182 
+L 300.969947 330.527842 
+L 300.518705 330.290968 
+L 300.067464 330.016742 
+L 299.616222 329.715346 
+L 299.164981 329.396962 
+L 298.713739 329.071773 
+L 298.262498 328.74996 
+L 297.811257 328.441705 
+L 297.360015 328.157191 
+L 296.908774 327.906599 
+L 296.457532 327.699669 
+L 296.006291 327.538617 
+L 295.555049 327.419366 
+L 295.103808 327.337646 
+L 294.652567 327.289187 
+L 294.201325 327.269718 
+L 293.750084 327.274969 
+L 293.298842 327.30067 
+L 292.847601 327.34255 
+L 292.396359 327.39634 
+L 291.945118 327.457768 
+L 291.493876 327.522565 
+L 291.042635 327.58646 
+L 290.591394 327.645829 
+L 290.140152 327.700067 
+L 289.688911 327.749455 
+L 289.237669 327.794273 
+L 288.786428 327.834804 
+L 288.335186 327.871327 
+L 287.883945 327.904123 
+L 287.432704 327.933473 
+L 286.981462 327.959657 
+L 286.530221 327.982958 
+L 286.078979 328.003654 
+L 285.627738 328.022028 
+L 285.176496 328.038353 
+L 284.725255 328.0525 
+L 284.274014 328.063701 
+L 283.822772 328.071133 
+L 283.371531 328.073972 
+L 282.920289 328.071394 
+L 282.469048 328.062574 
+L 282.017806 328.046691 
+L 281.566565 328.022918 
+L 281.115323 327.990433 
+L 280.664082 327.948412 
+L 280.212841 327.896031 
+L 279.761599 327.832467 
+L 279.310358 327.756964 
+L 278.859116 327.669475 
+L 278.407875 327.570361 
+L 277.956633 327.459991 
+L 277.505392 327.33873 
+L 277.054151 327.206947 
+L 276.602909 327.065008 
+L 276.151668 326.91328 
+L 275.700426 326.752131 
+L 275.249185 326.581928 
+L 274.797943 326.403038 
+L 274.346702 326.215828 
+L 273.895461 326.020665 
+L 273.444219 325.817983 
+L 272.992978 325.60842 
+L 272.541736 325.392656 
+L 272.090495 325.171369 
+L 271.639253 324.945238 
+L 271.188012 324.714942 
+L 270.73677 324.481159 
+L 270.285529 324.24457 
+L 269.834288 324.005851 
+L 269.383046 323.765683 
+L 268.931805 323.524745 
+L 268.480563 323.283714 
+L 268.029322 323.043274 
+L 267.57808 322.804202 
+L 267.126839 322.567381 
+L 266.675598 322.333699 
+L 266.224356 322.104046 
+L 265.773115 321.87931 
+L 265.321873 321.660378 
+L 264.870632 321.44814 
+L 264.41939 321.243483 
+L 263.968149 321.047297 
+L 263.516908 320.860469 
+L 263.065666 320.683889 
+L 262.614425 320.518444 
+L 262.163183 320.364843 
+L 261.711942 320.222627 
+L 261.2607 320.090874 
+L 260.809459 319.968661 
+L 260.358217 319.855065 
+L 259.906976 319.749161 
+L 259.455735 319.650027 
+L 259.004493 319.55674 
+L 258.553252 319.468375 
+L 258.10201 319.384009 
+L 257.650769 319.30272 
+L 257.199527 319.223582 
+L 256.748286 319.145676 
+L 256.297045 319.0684 
+L 255.845803 318.991827 
+L 255.394562 318.916114 
+L 254.94332 318.841419 
+L 254.492079 318.767901 
+L 254.040837 318.695716 
+L 253.589596 318.625024 
+L 253.138355 318.555982 
+L 252.687113 318.488747 
+L 252.235872 318.423478 
+L 251.78463 318.360333 
+L 251.333389 318.299469 
+L 250.882147 318.240596 
+L 250.430906 318.176724 
+L 249.979664 318.095701 
+L 249.528423 317.985245 
+L 249.077182 317.833073 
+L 248.62594 317.626902 
+L 248.174699 317.354449 
+L 247.723457 317.003432 
+L 247.272216 316.561567 
+L 246.820974 316.016571 
+L 246.369733 315.356161 
+L 245.918492 314.568055 
+L 245.46725 313.63997 
+L 245.016009 312.566095 
+L 244.564767 311.368206 
+L 244.113526 310.075421 
+L 243.662284 308.716858 
+L 243.211043 307.321637 
+L 242.759802 305.918875 
+L 242.30856 304.537693 
+L 241.857319 303.207209 
+L 241.406077 301.956541 
+L 240.954836 300.814809 
+L 240.503594 299.811132 
+L 240.052353 298.974627 
+L 239.601111 298.334049 
+L 239.14987 297.89961 
+L 238.698629 297.654611 
+L 238.247387 297.580234 
+L 237.796146 297.657665 
+L 237.344904 297.868087 
+L 236.893663 298.192683 
+L 236.442421 298.612638 
+L 235.99118 299.109136 
+L 235.539939 299.66336 
+L 235.088697 300.256495 
+L 234.637456 300.869724 
+L 234.186214 301.484232 
 z
-" clip-path="url(#p4609f51a64)" style="fill: #676391; fill-opacity: 0.3"/>
+" clip-path="url(#p46738cc638)" style="fill: #676391; fill-opacity: 0.3"/>
    </g>
    <g id="line2d_106">
-    <path d="M 36.368428 -1 
-L 37.039752 64.378621 
-L 37.960653 136.491963 
-L 38.881554 191.323339 
-L 39.802455 231.074887 
-L 40.723356 257.94874 
-L 41.183806 267.244699 
-L 41.644257 274.147035 
-L 42.104707 278.931015 
-L 42.565158 281.871907 
-L 43.025608 283.244977 
-L 43.486058 283.325492 
-L 43.946509 282.388719 
-L 44.406959 280.709924 
-L 46.248761 272.079876 
-L 46.709212 270.795851 
-L 47.169662 270.168566 
-L 47.630112 270.141505 
-L 48.090563 270.657363 
-L 48.551013 271.658838 
-L 49.011464 273.088626 
-L 49.932365 277.003925 
-L 51.313716 284.656628 
-L 54.076419 300.945989 
-L 54.99732 305.394974 
-L 55.91822 308.868086 
-L 56.378671 310.148377 
-L 56.839121 311.076324 
-L 57.299572 311.615803 
-L 57.760022 311.730689 
-L 58.220473 311.387483 
-L 58.680923 310.608832 
-L 59.601824 308.053494 
-L 60.983175 302.90594 
-L 62.364527 298.0698 
-L 62.824977 296.894238 
-L 63.285428 296.06809 
-L 63.745878 295.670058 
-L 64.206328 295.762017 
-L 64.666779 296.31334 
-L 65.127229 297.261786 
-L 66.04813 300.100973 
-L 67.429482 305.781476 
-L 69.271283 313.394104 
-L 70.192184 316.125663 
-L 71.113085 317.898995 
-L 72.033986 318.896163 
-L 72.954887 319.304708 
-L 73.875788 319.312167 
-L 76.17804 318.77342 
-L 77.559391 318.337391 
-L 78.480292 317.720497 
-L 79.401193 316.647457 
-L 80.322094 314.950978 
-L 81.242995 312.463762 
-L 82.163896 309.098579 
-L 83.545247 302.904705 
-L 86.30795 289.992579 
-L 87.228851 286.599716 
-L 88.149751 284.031164 
-L 89.070652 282.20805 
-L 89.991553 281.017732 
-L 90.912454 280.347568 
-L 91.833355 280.084916 
-L 92.754256 280.117132 
-L 94.135607 280.496843 
-L 98.279661 282.075549 
-L 99.200562 282.150099 
-L 100.581913 281.967549 
-L 102.423715 281.414402 
-L 104.725967 280.746363 
-L 106.107319 280.631686 
-L 107.02822 280.763391 
-L 107.949121 281.110215 
-L 108.870021 281.713813 
-L 109.790922 282.615836 
-L 110.711823 283.855301 
-L 112.093175 286.248991 
-L 115.316328 292.29862 
-L 116.237229 293.617228 
-L 117.158129 294.586678 
-L 118.07903 295.261684 
-L 118.999931 295.716408 
-L 120.381283 296.1477 
-L 122.683535 296.803203 
-L 125.446237 297.769275 
-L 126.827589 297.963713 
-L 127.74849 297.86742 
-L 128.669391 297.548241 
-L 130.050742 296.729881 
-L 131.892544 295.261474 
-L 134.655246 293.013739 
-L 136.957499 291.145016 
-L 138.33885 289.685531 
-L 139.259751 288.459957 
-L 140.641102 286.201302 
-L 142.943354 282.348164 
-L 143.864255 281.196711 
-L 144.785156 280.484447 
-L 145.245607 280.338061 
-L 145.706057 280.346303 
-L 146.166507 280.497459 
-L 147.087408 281.170563 
-L 148.008309 282.241463 
-L 149.389661 284.340132 
-L 152.612814 289.613339 
-L 154.454615 292.158008 
-L 156.296417 294.286602 
-L 158.138219 296.016633 
-L 159.980021 297.785794 
-L 160.900922 298.891289 
-L 161.821822 300.25446 
-L 162.742723 301.957835 
-L 166.426327 309.64669 
-L 166.886777 310.176663 
-L 167.347228 310.500815 
-L 167.807678 310.586141 
-L 168.268129 310.399637 
-L 168.728579 309.913667 
-L 169.18903 309.153059 
-L 170.10993 307.02621 
-L 172.872633 299.747755 
-L 173.333084 298.979362 
-L 173.793534 298.484213 
-L 174.253984 298.317115 
-L 174.714435 298.51176 
-L 175.174885 299.038116 
-L 175.635336 299.85418 
-L 176.556237 302.187416 
-L 177.937588 306.809995 
-L 179.77939 313.305049 
-L 180.700291 315.964229 
-L 181.621192 318.050065 
-L 182.542092 319.609188 
-L 183.462993 320.689395 
-L 184.383894 321.338484 
-L 185.304795 321.604252 
-L 186.225696 321.535202 
-L 187.146597 321.203459 
-L 188.988399 320.156648 
-L 190.36975 319.439648 
-L 191.290651 319.186229 
-L 192.211552 319.22507 
-L 193.132453 319.553709 
-L 194.513804 320.425865 
-L 198.197408 323.161638 
-L 199.578759 323.793953 
-L 201.420561 324.335847 
-L 207.866867 325.811046 
-L 209.708669 326.52927 
-L 212.471371 327.656787 
-L 213.852723 327.90198 
-L 214.773624 327.835916 
-L 215.694524 327.531373 
-L 216.615425 326.952909 
-L 217.536326 326.069186 
-L 218.457227 324.848872 
-L 219.378128 323.260636 
-L 220.299029 321.273145 
-L 221.68038 317.521195 
-L 224.903533 307.921109 
-L 225.824434 305.860995 
-L 226.745335 304.470823 
-L 227.205786 304.063956 
-L 227.666236 303.826892 
-L 228.126686 303.736112 
-L 229.047587 303.89933 
-L 229.968488 304.365468 
-L 231.81029 305.453921 
-L 232.731191 305.703287 
-L 233.652092 305.61226 
-L 234.572993 305.217945 
-L 235.493894 304.564162 
-L 236.875245 303.192837 
-L 238.717047 300.869724 
-L 240.098398 299.109136 
-L 241.019299 298.192683 
-L 241.9402 297.657665 
-L 242.40065 297.580234 
-L 242.861101 297.654611 
-L 243.321551 297.89961 
-L 243.782001 298.334049 
-L 244.242452 298.974627 
-L 245.163353 300.814809 
-L 246.084254 303.207209 
-L 249.767857 313.63997 
-L 250.688758 315.356161 
-L 251.609659 316.561567 
-L 252.53056 317.354449 
-L 253.451461 317.833073 
-L 254.832812 318.176724 
-L 262.200019 319.30272 
-L 265.423172 319.968661 
-L 267.725425 320.683889 
-L 270.027677 321.660378 
-L 273.71128 323.524745 
-L 278.315785 325.817983 
-L 281.078487 326.91328 
-L 283.38074 327.570361 
-L 285.222541 327.896031 
-L 287.524794 328.062574 
-L 290.747947 328.022028 
-L 294.892001 327.749455 
-L 299.956956 327.289187 
-L 301.338307 327.538617 
-L 302.259208 327.906599 
-L 303.640559 328.74996 
-L 305.942811 330.290968 
-L 306.863712 330.717182 
-L 307.784613 330.912532 
-L 308.705514 330.818128 
-L 309.626415 330.495195 
-L 312.849568 329.024043 
-L 313.770469 328.923147 
-L 314.69137 329.108976 
-L 315.612271 329.51997 
-L 317.454073 330.679426 
-L 318.835424 331.511559 
-L 319.756325 331.890549 
-L 320.677226 332.076941 
-L 322.058577 332.0928 
-L 325.74218 331.817725 
-L 327.123532 332.001252 
-L 328.965334 332.471056 
-L 333.569838 333.780138 
-L 337.253442 334.522237 
-L 342.318396 335.296915 
-L 346.922901 336.001925 
-L 348.764703 336.534598 
-L 353.829658 338.374584 
-L 355.211009 338.496143 
-L 356.59236 338.360545 
-L 358.434162 337.908896 
-L 363.959567 336.095485 
-L 367.643171 334.688266 
-L 369.484973 334.064501 
-L 370.866324 333.810673 
-L 372.247675 333.848483 
-L 373.629027 334.165793 
-L 376.391729 334.884277 
-L 377.31263 334.931242 
-L 378.233531 334.789885 
-L 379.614882 334.288712 
-L 382.377585 333.10986 
-L 383.298486 332.92187 
-L 384.219387 332.939391 
-L 385.600738 333.283251 
-L 390.205243 334.875164 
-L 392.047044 334.960479 
-L 395.730648 334.953523 
-L 398.0329 335.290748 
-L 401.716504 335.904595 
-L 404.018756 336.055658 
-L 406.781459 336.010565 
-L 415.530017 335.556446 
-L 417.371819 335.796095 
-L 419.213621 336.315298 
-L 421.976323 337.444852 
-L 424.278575 338.286647 
-L 426.120377 338.667072 
-L 427.962179 338.787657 
-L 429.803981 338.689262 
-L 432.106233 338.331221 
-L 439.47344 336.946222 
-L 447.301098 335.80506 
-L 451.905602 334.744235 
-L 453.286953 334.691284 
-L 454.668305 334.869754 
-L 456.970557 335.473715 
-L 459.272809 336.082087 
-L 461.575061 336.412662 
-L 470.32362 337.135693 
-L 472.625872 336.923194 
-L 474.928124 336.75249 
-L 476.309476 336.88493 
-L 477.690827 337.280166 
-L 479.993079 337.994049 
-L 480.91398 338.078204 
-L 481.834881 337.933764 
-L 482.755782 337.495035 
-L 485.058034 335.97238 
-L 485.978935 335.758416 
-L 486.439385 335.844441 
-L 486.899836 336.095252 
-L 487.360286 336.537934 
-L 487.820737 337.199575 
-L 488.741638 339.196593 
-L 490.122989 342.449287 
-L 490.583439 343.130623 
-L 491.04389 343.413716 
-L 491.50434 343.180489 
-L 491.964791 342.312864 
-L 492.425241 340.692764 
-L 492.885692 338.202112 
-L 493.346142 334.72283 
-L 493.806592 330.136841 
-L 494.727493 317.631766 
-L 496.569295 285.99625 
-L 497.490196 271.04554 
-L 498.411097 259.459359 
-L 498.871547 255.581053 
-L 499.331998 253.327581 
-L 499.792448 252.957408 
-L 500.252899 254.539768 
-L 500.713349 257.836475 
-L 501.1738 262.581176 
-L 502.0947 275.349161 
-L 505.317854 326.495371 
-L 505.778304 331.092195 
-L 506.238754 334.475894 
-L 506.699205 336.762496 
-L 507.159655 338.069851 
-L 507.620106 338.515809 
-L 508.080556 338.21822 
-L 508.541007 337.294935 
-L 509.001457 335.863802 
-L 509.922358 331.949395 
-L 511.76416 323.186707 
-L 512.685061 319.685226 
-L 513.605962 316.898663 
-L 514.526862 314.796202 
-L 515.447763 313.347029 
-L 516.368664 312.520329 
-L 516.829115 312.330777 
-L 517.289565 312.285175 
-L 517.750016 312.376301 
-L 518.670916 312.92489 
-L 519.591817 313.887866 
-L 520.512718 315.176352 
-L 521.89407 317.524991 
-L 526.498574 325.864366 
-L 527.879925 327.90417 
-L 529.261277 329.507875 
-L 530.642628 330.63359 
-L 532.023979 331.344555 
-L 533.405331 331.710934 
-L 534.786682 331.802948 
-L 536.628484 331.645522 
-L 539.391186 331.343048 
-L 540.772538 331.405929 
-L 542.153889 331.692301 
-L 543.995691 332.305995 
-L 548.139745 333.778763 
-L 549.521096 334.024979 
-L 550.902448 334.019114 
-L 551.823348 333.836656 
-L 553.2047 333.279987 
-L 555.967402 331.977793 
-L 556.888303 331.773029 
-L 557.809204 331.812586 
-L 558.730105 332.14123 
-L 560.111456 333.019694 
-L 562.874159 335.023267 
-L 563.79506 335.426443 
-L 564.715961 335.590704 
-L 565.636862 335.56323 
-L 567.018213 335.28958 
-L 569.780916 334.623278 
-L 571.162267 334.532942 
-L 573.004069 334.637062 
-L 579.910825 335.314293 
-L 583.133979 335.354832 
-L 586.357132 335.174715 
-L 586.817582 335.129557 
-L 586.817582 335.129557 
-" clip-path="url(#p4609f51a64)" style="fill: none; stroke: #5d5d5d; stroke-opacity: 0.9; stroke-linecap: square"/>
+    <path d="M 36.335809 -1 
+L 36.993707 64.378621 
+L 37.89619 136.491963 
+L 38.798673 191.323339 
+L 39.701156 231.074887 
+L 40.603639 257.94874 
+L 41.05488 267.244699 
+L 41.506122 274.147035 
+L 41.957363 278.931015 
+L 42.408604 281.871907 
+L 42.859846 283.244977 
+L 43.311087 283.325492 
+L 43.762329 282.388719 
+L 44.21357 280.709924 
+L 46.018536 272.079876 
+L 46.469777 270.795851 
+L 46.921019 270.168566 
+L 47.37226 270.141505 
+L 47.823502 270.657363 
+L 48.274743 271.658838 
+L 48.725984 273.088626 
+L 49.628467 277.003925 
+L 50.982192 284.656628 
+L 53.68964 300.945989 
+L 54.592123 305.394974 
+L 55.494606 308.868086 
+L 55.945847 310.148377 
+L 56.397089 311.076324 
+L 56.84833 311.615803 
+L 57.299572 311.730689 
+L 57.750813 311.387483 
+L 58.202055 310.608832 
+L 59.104537 308.053494 
+L 60.458262 302.90594 
+L 61.811986 298.0698 
+L 62.263228 296.894238 
+L 62.714469 296.06809 
+L 63.16571 295.670058 
+L 63.616952 295.762017 
+L 64.068193 296.31334 
+L 64.519435 297.261786 
+L 65.421918 300.100973 
+L 66.775642 305.781476 
+L 68.580608 313.394104 
+L 69.48309 316.125663 
+L 70.385573 317.898995 
+L 71.288056 318.896163 
+L 72.190539 319.304708 
+L 73.093022 319.312167 
+L 75.349229 318.77342 
+L 76.702953 318.337391 
+L 77.605436 317.720497 
+L 78.507919 316.647457 
+L 79.410402 314.950978 
+L 80.312885 312.463762 
+L 81.215368 309.098579 
+L 82.569092 302.904705 
+L 85.276541 289.992579 
+L 86.179024 286.599716 
+L 87.081506 284.031164 
+L 87.983989 282.20805 
+L 88.886472 281.017732 
+L 89.788955 280.347568 
+L 90.691438 280.084916 
+L 91.593921 280.117132 
+L 92.947645 280.496843 
+L 97.008818 282.075549 
+L 97.911301 282.150099 
+L 99.265025 281.967549 
+L 101.069991 281.414402 
+L 103.326198 280.746363 
+L 104.679922 280.631686 
+L 105.582405 280.763391 
+L 106.484888 281.110215 
+L 107.387371 281.713813 
+L 108.289854 282.615836 
+L 109.192337 283.855301 
+L 110.546061 286.248991 
+L 113.704751 292.29862 
+L 114.607234 293.617228 
+L 115.509717 294.586678 
+L 116.4122 295.261684 
+L 117.314683 295.716408 
+L 118.668407 296.1477 
+L 120.924614 296.803203 
+L 123.632063 297.769275 
+L 124.985787 297.963713 
+L 125.88827 297.86742 
+L 126.790753 297.548241 
+L 128.144477 296.729881 
+L 129.949443 295.261474 
+L 132.656891 293.013739 
+L 134.913099 291.145016 
+L 136.266823 289.685531 
+L 137.169306 288.459957 
+L 138.52303 286.201302 
+L 140.779237 282.348164 
+L 141.68172 281.196711 
+L 142.584203 280.484447 
+L 143.035444 280.338061 
+L 143.486686 280.346303 
+L 143.937927 280.497459 
+L 144.84041 281.170563 
+L 145.742893 282.241463 
+L 147.096617 284.340132 
+L 150.255307 289.613339 
+L 152.060273 292.158008 
+L 153.865239 294.286602 
+L 155.670205 296.016633 
+L 157.47517 297.785794 
+L 158.377653 298.891289 
+L 159.280136 300.25446 
+L 160.182619 301.957835 
+L 163.79255 309.64669 
+L 164.243792 310.176663 
+L 164.695033 310.500815 
+L 165.146275 310.586141 
+L 165.597516 310.399637 
+L 166.048758 309.913667 
+L 166.499999 309.153059 
+L 167.402482 307.02621 
+L 170.10993 299.747755 
+L 170.561172 298.979362 
+L 171.012413 298.484213 
+L 171.463655 298.317115 
+L 171.914896 298.51176 
+L 172.366138 299.038116 
+L 172.817379 299.85418 
+L 173.719862 302.187416 
+L 175.073586 306.809995 
+L 176.878552 313.305049 
+L 177.781035 315.964229 
+L 178.683518 318.050065 
+L 179.586001 319.609188 
+L 180.488483 320.689395 
+L 181.390966 321.338484 
+L 182.293449 321.604252 
+L 183.195932 321.535202 
+L 184.098415 321.203459 
+L 185.903381 320.156648 
+L 187.257105 319.439648 
+L 188.159588 319.186229 
+L 189.062071 319.22507 
+L 189.964554 319.553709 
+L 191.318278 320.425865 
+L 194.928209 323.161638 
+L 196.281934 323.793953 
+L 198.086899 324.335847 
+L 204.40428 325.811046 
+L 206.209245 326.52927 
+L 208.916694 327.656787 
+L 210.270418 327.90198 
+L 211.172901 327.835916 
+L 212.075384 327.531373 
+L 212.977867 326.952909 
+L 213.88035 326.069186 
+L 214.782833 324.848872 
+L 215.685315 323.260636 
+L 216.587798 321.273145 
+L 217.941523 317.521195 
+L 221.100213 307.921109 
+L 222.002696 305.860995 
+L 222.905178 304.470823 
+L 223.35642 304.063956 
+L 223.807661 303.826892 
+L 224.258903 303.736112 
+L 225.161386 303.89933 
+L 226.063868 304.365468 
+L 227.868834 305.453921 
+L 228.771317 305.703287 
+L 229.6738 305.61226 
+L 230.576283 305.217945 
+L 231.478766 304.564162 
+L 232.83249 303.192837 
+L 234.637456 300.869724 
+L 235.99118 299.109136 
+L 236.893663 298.192683 
+L 237.796146 297.657665 
+L 238.247387 297.580234 
+L 238.698629 297.654611 
+L 239.14987 297.89961 
+L 239.601111 298.334049 
+L 240.052353 298.974627 
+L 240.954836 300.814809 
+L 242.30856 304.537693 
+L 245.016009 312.566095 
+L 245.918492 314.568055 
+L 246.820974 316.016571 
+L 247.723457 317.003432 
+L 248.62594 317.626902 
+L 249.528423 317.985245 
+L 250.882147 318.240596 
+L 255.845803 318.991827 
+L 260.358217 319.855065 
+L 262.614425 320.518444 
+L 264.870632 321.44814 
+L 268.029322 323.043274 
+L 273.444219 325.817983 
+L 276.151668 326.91328 
+L 278.407875 327.570361 
+L 280.212841 327.896031 
+L 282.469048 328.062574 
+L 285.627738 328.022028 
+L 289.688911 327.749455 
+L 294.652567 327.289187 
+L 296.006291 327.538617 
+L 296.908774 327.906599 
+L 298.262498 328.74996 
+L 300.518705 330.290968 
+L 301.421188 330.717182 
+L 302.323671 330.912532 
+L 303.226154 330.818128 
+L 304.128637 330.495195 
+L 307.287327 329.024043 
+L 308.18981 328.923147 
+L 309.092292 329.108976 
+L 309.994775 329.51997 
+L 311.799741 330.679426 
+L 313.153465 331.511559 
+L 314.055948 331.890549 
+L 314.958431 332.076941 
+L 316.312155 332.0928 
+L 319.922087 331.817725 
+L 321.275811 332.001252 
+L 323.080777 332.471056 
+L 327.593191 333.780138 
+L 331.203123 334.522237 
+L 336.166779 335.296915 
+L 340.679193 336.001925 
+L 342.484159 336.534598 
+L 347.447814 338.374584 
+L 348.801539 338.496143 
+L 350.155263 338.360545 
+L 351.960229 337.908896 
+L 357.375126 336.095485 
+L 360.985057 334.688266 
+L 362.790023 334.064501 
+L 364.143748 333.810673 
+L 365.497472 333.848483 
+L 366.851196 334.165793 
+L 369.558645 334.884277 
+L 370.461128 334.931242 
+L 371.36361 334.789885 
+L 372.717335 334.288712 
+L 375.424783 333.10986 
+L 376.327266 332.92187 
+L 377.229749 332.939391 
+L 378.583473 333.283251 
+L 383.095888 334.875164 
+L 384.900854 334.960479 
+L 388.510785 334.953523 
+L 390.766992 335.290748 
+L 394.376924 335.904595 
+L 396.633131 336.055658 
+L 399.340579 336.010565 
+L 407.914167 335.556446 
+L 409.719132 335.796095 
+L 411.524098 336.315298 
+L 414.231547 337.444852 
+L 416.487754 338.286647 
+L 418.29272 338.667072 
+L 420.097685 338.787657 
+L 421.902651 338.689262 
+L 424.158858 338.331221 
+L 431.378721 336.946222 
+L 439.049826 335.80506 
+L 443.56224 334.744235 
+L 444.915964 334.691284 
+L 446.269689 334.869754 
+L 448.525896 335.473715 
+L 450.782103 336.082087 
+L 453.03831 336.412662 
+L 461.611897 337.135693 
+L 463.868105 336.923194 
+L 466.124312 336.75249 
+L 467.478036 336.88493 
+L 468.83176 337.280166 
+L 471.087968 337.994049 
+L 471.99045 338.078204 
+L 472.892933 337.933764 
+L 473.795416 337.495035 
+L 476.051623 335.97238 
+L 476.954106 335.758416 
+L 477.405348 335.844441 
+L 477.856589 336.095252 
+L 478.307831 336.537934 
+L 478.759072 337.199575 
+L 479.661555 339.196593 
+L 481.015279 342.449287 
+L 481.466521 343.130623 
+L 481.917762 343.413716 
+L 482.369003 343.180489 
+L 482.820245 342.312864 
+L 483.271486 340.692764 
+L 483.722728 338.202112 
+L 484.173969 334.72283 
+L 484.625211 330.136841 
+L 485.527694 317.631766 
+L 487.332659 285.99625 
+L 488.235142 271.04554 
+L 489.137625 259.459359 
+L 489.588866 255.581053 
+L 490.040108 253.327581 
+L 490.491349 252.957408 
+L 490.942591 254.539768 
+L 491.393832 257.836475 
+L 491.845074 262.581176 
+L 492.747556 275.349161 
+L 495.906247 326.495371 
+L 496.357488 331.092195 
+L 496.808729 334.475894 
+L 497.259971 336.762496 
+L 497.711212 338.069851 
+L 498.162454 338.515809 
+L 498.613695 338.21822 
+L 499.064937 337.294935 
+L 499.516178 335.863802 
+L 500.418661 331.949395 
+L 502.223627 323.186707 
+L 503.126109 319.685226 
+L 504.028592 316.898663 
+L 504.931075 314.796202 
+L 505.833558 313.347029 
+L 506.736041 312.520329 
+L 507.187282 312.330777 
+L 507.638524 312.285175 
+L 508.089765 312.376301 
+L 508.992248 312.92489 
+L 509.894731 313.887866 
+L 510.797214 315.176352 
+L 512.150938 317.524991 
+L 516.663353 325.864366 
+L 518.017077 327.90417 
+L 519.370801 329.507875 
+L 520.724525 330.63359 
+L 522.07825 331.344555 
+L 523.431974 331.710934 
+L 524.785698 331.802948 
+L 526.590664 331.645522 
+L 529.298113 331.343048 
+L 530.651837 331.405929 
+L 532.005561 331.692301 
+L 533.810527 332.305995 
+L 537.8717 333.778763 
+L 539.225424 334.024979 
+L 540.579149 334.019114 
+L 541.481631 333.836656 
+L 542.835356 333.279987 
+L 545.542804 331.977793 
+L 546.445287 331.773029 
+L 547.34777 331.812586 
+L 548.250253 332.14123 
+L 549.603977 333.019694 
+L 552.311426 335.023267 
+L 553.213909 335.426443 
+L 554.116392 335.590704 
+L 555.018874 335.56323 
+L 556.372599 335.28958 
+L 559.080047 334.623278 
+L 560.433772 334.532942 
+L 562.238737 334.637062 
+L 569.007359 335.314293 
+L 572.166049 335.354832 
+L 575.324739 335.174715 
+L 575.77598 335.129557 
+L 575.77598 335.129557 
+" clip-path="url(#p46738cc638)" style="fill: none; stroke: #5d5d5d; stroke-opacity: 0.9; stroke-linecap: square"/>
    </g>
    <g id="patch_8">
     <path d="M 29.7375 360.188437 
@@ -6999,7 +7001,7 @@ L 29.7375 227.132437
    </g>
    <g id="patch_9">
     <path d="M 34.7375 365.188437 
-L 592.7375 365.188437 
+L 581.5775 365.188437 
 " style="fill: none; stroke: #cccccc; stroke-width: 0.75; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="legend_2">
@@ -7260,17 +7262,17 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pd19be352f0">
-   <rect x="34.7375" y="27.548437" width="558" height="133.056"/>
+  <clipPath id="pcf247a6cb5">
+   <rect x="34.7375" y="27.548437" width="546.84" height="133.056"/>
   </clipPath>
-  <clipPath id="p2311cabd8b">
-   <rect x="34.7375" y="160.604437" width="558" height="0"/>
+  <clipPath id="p2c13710802">
+   <rect x="34.7375" y="160.604437" width="546.84" height="0"/>
   </clipPath>
-  <clipPath id="pe6c47e4346">
-   <rect x="34.7375" y="360.188437" width="558" height="0"/>
+  <clipPath id="p14feff18f1">
+   <rect x="34.7375" y="360.188437" width="546.84" height="0"/>
   </clipPath>
-  <clipPath id="p4609f51a64">
-   <rect x="34.7375" y="227.132437" width="558" height="133.056"/>
+  <clipPath id="p46738cc638">
+   <rect x="34.7375" y="227.132437" width="546.84" height="133.056"/>
   </clipPath>
  </defs>
 </svg>
