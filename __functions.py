@@ -945,7 +945,7 @@ def normalized_by_first(data, return_type='df'):
         third_value = third_value / first_value
     '''
     
-    first_value = data[0]
+    first_value = data.iloc[0]
     
     data_new = [(x/first_value) for x in data]
 
