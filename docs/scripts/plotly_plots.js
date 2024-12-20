@@ -1,5 +1,5 @@
 $(function(){
-  $('#price-bread').load('img/price-bread1.html'); 
+  $('#price-bread').load('img/price-bread.html'); 
 });
 $(function(){
   $('#price-beef').load('img/price-beef.html'); 
